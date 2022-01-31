@@ -1,0 +1,46 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "af2ace0b-c312-4a65-816d-3a50dc4b9a3a": {
+      "ProjectGuid": "af2ace0b-c312-4a65-816d-3a50dc4b9a3a",
+      "DisplayName": "Word Count",
+      "ColorIndex": 0
+    },
+    "e5e5e5db-e9b9-4534-a914-229913bf7d34": {
+      "ProjectGuid": "e5e5e5db-e9b9-4534-a914-229913bf7d34",
+      "DisplayName": "OddLines",
+      "ColorIndex": 1
+    },
+    "67575658-cd8a-4803-9e8a-10f7296bb902": {
+      "ProjectGuid": "67575658-cd8a-4803-9e8a-10f7296bb902",
+      "DisplayName": "Merge Files",
+      "ColorIndex": 2
+    },
+    "a08fcda9-c852-4135-95f9-be3ab4b6303f": {
+      "ProjectGuid": "a08fcda9-c852-4135-95f9-be3ab4b6303f",
+      "DisplayName": "Line Numbers",
+      "ColorIndex": 3
+    },
+    "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3": {
+      "ProjectGuid": "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3",
+      "DisplayName": "Miscellaneous Files",
+      "ColorIndex": -1
+    },
+    "541e0c65-e627-4bfd-ba09-38cfad4bf073": {
+      "ProjectGuid": "541e0c65-e627-4bfd-ba09-38cfad4bf073",
+      "DisplayName": "Extract Special Bytes",
+      "ColorIndex": 4
+    },
+    "d390abdc-cadc-4048-85e0-b0242419741f": {
+      "ProjectGuid": "d390abdc-cadc-4048-85e0-b0242419741f",
+      "DisplayName": "Split Merge Binary Files",
+      "ColorIndex": 5
+    },
+    "cbe74f02-afb2-4cb4-807e-9a354855951a": {
+      "ProjectGuid": "cbe74f02-afb2-4cb4-807e-9a354855951a",
+      "DisplayName": "FolderSize",
+      "ColorIndex": 6
+    }
+  },
+  "NextColorIndex": 7
+}

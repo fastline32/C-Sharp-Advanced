@@ -1,0 +1,16 @@
+E:\Projects\C#\Sets and Dictionaries Advanced - Exercise\Sets and Dictionaries Advanced - Exercise\Ranking\bin\Debug\net5.0\Ranking.exe
+E:\Projects\C#\Sets and Dictionaries Advanced - Exercise\Sets and Dictionaries Advanced - Exercise\Ranking\bin\Debug\net5.0\Ranking.deps.json
+E:\Projects\C#\Sets and Dictionaries Advanced - Exercise\Sets and Dictionaries Advanced - Exercise\Ranking\bin\Debug\net5.0\Ranking.runtimeconfig.json
+E:\Projects\C#\Sets and Dictionaries Advanced - Exercise\Sets and Dictionaries Advanced - Exercise\Ranking\bin\Debug\net5.0\Ranking.runtimeconfig.dev.json
+E:\Projects\C#\Sets and Dictionaries Advanced - Exercise\Sets and Dictionaries Advanced - Exercise\Ranking\bin\Debug\net5.0\Ranking.dll
+E:\Projects\C#\Sets and Dictionaries Advanced - Exercise\Sets and Dictionaries Advanced - Exercise\Ranking\bin\Debug\net5.0\ref\Ranking.dll
+E:\Projects\C#\Sets and Dictionaries Advanced - Exercise\Sets and Dictionaries Advanced - Exercise\Ranking\bin\Debug\net5.0\Ranking.pdb
+E:\Projects\C#\Sets and Dictionaries Advanced - Exercise\Sets and Dictionaries Advanced - Exercise\Ranking\obj\Debug\net5.0\Ranking.GeneratedMSBuildEditorConfig.editorconfig
+E:\Projects\C#\Sets and Dictionaries Advanced - Exercise\Sets and Dictionaries Advanced - Exercise\Ranking\obj\Debug\net5.0\Ranking.AssemblyInfoInputs.cache
+E:\Projects\C#\Sets and Dictionaries Advanced - Exercise\Sets and Dictionaries Advanced - Exercise\Ranking\obj\Debug\net5.0\Ranking.AssemblyInfo.cs
+E:\Projects\C#\Sets and Dictionaries Advanced - Exercise\Sets and Dictionaries Advanced - Exercise\Ranking\obj\Debug\net5.0\Ranking.csproj.CoreCompileInputs.cache
+E:\Projects\C#\Sets and Dictionaries Advanced - Exercise\Sets and Dictionaries Advanced - Exercise\Ranking\obj\Debug\net5.0\Ranking.dll
+E:\Projects\C#\Sets and Dictionaries Advanced - Exercise\Sets and Dictionaries Advanced - Exercise\Ranking\obj\Debug\net5.0\ref\Ranking.dll
+E:\Projects\C#\Sets and Dictionaries Advanced - Exercise\Sets and Dictionaries Advanced - Exercise\Ranking\obj\Debug\net5.0\Ranking.pdb
+E:\Projects\C#\Sets and Dictionaries Advanced - Exercise\Sets and Dictionaries Advanced - Exercise\Ranking\obj\Debug\net5.0\Ranking.genruntimeconfig.cache
+E:\Projects\C#\Sets and Dictionaries Advanced - Exercise\Sets and Dictionaries Advanced - Exercise\Ranking\obj\Debug\net5.0\Ranking.csproj.AssemblyReference.cache

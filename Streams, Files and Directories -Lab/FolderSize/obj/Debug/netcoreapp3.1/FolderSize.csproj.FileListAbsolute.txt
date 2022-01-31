@@ -1,0 +1,14 @@
+E:\Projects\C#\Streams, Files and Directories\Streams, Files and Directories -Lab\FolderSize\bin\Debug\netcoreapp3.1\FolderSize.exe
+E:\Projects\C#\Streams, Files and Directories\Streams, Files and Directories -Lab\FolderSize\bin\Debug\netcoreapp3.1\FolderSize.deps.json
+E:\Projects\C#\Streams, Files and Directories\Streams, Files and Directories -Lab\FolderSize\bin\Debug\netcoreapp3.1\FolderSize.runtimeconfig.json
+E:\Projects\C#\Streams, Files and Directories\Streams, Files and Directories -Lab\FolderSize\bin\Debug\netcoreapp3.1\FolderSize.runtimeconfig.dev.json
+E:\Projects\C#\Streams, Files and Directories\Streams, Files and Directories -Lab\FolderSize\bin\Debug\netcoreapp3.1\FolderSize.dll
+E:\Projects\C#\Streams, Files and Directories\Streams, Files and Directories -Lab\FolderSize\bin\Debug\netcoreapp3.1\FolderSize.pdb
+E:\Projects\C#\Streams, Files and Directories\Streams, Files and Directories -Lab\FolderSize\obj\Debug\netcoreapp3.1\FolderSize.csproj.AssemblyReference.cache
+E:\Projects\C#\Streams, Files and Directories\Streams, Files and Directories -Lab\FolderSize\obj\Debug\netcoreapp3.1\FolderSize.GeneratedMSBuildEditorConfig.editorconfig
+E:\Projects\C#\Streams, Files and Directories\Streams, Files and Directories -Lab\FolderSize\obj\Debug\netcoreapp3.1\FolderSize.AssemblyInfoInputs.cache
+E:\Projects\C#\Streams, Files and Directories\Streams, Files and Directories -Lab\FolderSize\obj\Debug\netcoreapp3.1\FolderSize.AssemblyInfo.cs
+E:\Projects\C#\Streams, Files and Directories\Streams, Files and Directories -Lab\FolderSize\obj\Debug\netcoreapp3.1\FolderSize.csproj.CoreCompileInputs.cache
+E:\Projects\C#\Streams, Files and Directories\Streams, Files and Directories -Lab\FolderSize\obj\Debug\netcoreapp3.1\FolderSize.dll
+E:\Projects\C#\Streams, Files and Directories\Streams, Files and Directories -Lab\FolderSize\obj\Debug\netcoreapp3.1\FolderSize.pdb
+E:\Projects\C#\Streams, Files and Directories\Streams, Files and Directories -Lab\FolderSize\obj\Debug\netcoreapp3.1\FolderSize.genruntimeconfig.cache

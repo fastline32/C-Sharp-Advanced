@@ -1,0 +1,14 @@
+E:\Projects\C#\Streams, Files and Directories\Streams, Files and Directories -Lab\Word Count\bin\Debug\netcoreapp3.1\Word Count.exe
+E:\Projects\C#\Streams, Files and Directories\Streams, Files and Directories -Lab\Word Count\bin\Debug\netcoreapp3.1\Word Count.deps.json
+E:\Projects\C#\Streams, Files and Directories\Streams, Files and Directories -Lab\Word Count\bin\Debug\netcoreapp3.1\Word Count.runtimeconfig.json
+E:\Projects\C#\Streams, Files and Directories\Streams, Files and Directories -Lab\Word Count\bin\Debug\netcoreapp3.1\Word Count.runtimeconfig.dev.json
+E:\Projects\C#\Streams, Files and Directories\Streams, Files and Directories -Lab\Word Count\bin\Debug\netcoreapp3.1\Word Count.dll
+E:\Projects\C#\Streams, Files and Directories\Streams, Files and Directories -Lab\Word Count\bin\Debug\netcoreapp3.1\Word Count.pdb
+E:\Projects\C#\Streams, Files and Directories\Streams, Files and Directories -Lab\Word Count\obj\Debug\netcoreapp3.1\Word Count.GeneratedMSBuildEditorConfig.editorconfig
+E:\Projects\C#\Streams, Files and Directories\Streams, Files and Directories -Lab\Word Count\obj\Debug\netcoreapp3.1\Word Count.AssemblyInfoInputs.cache
+E:\Projects\C#\Streams, Files and Directories\Streams, Files and Directories -Lab\Word Count\obj\Debug\netcoreapp3.1\Word Count.AssemblyInfo.cs
+E:\Projects\C#\Streams, Files and Directories\Streams, Files and Directories -Lab\Word Count\obj\Debug\netcoreapp3.1\Word Count.csproj.CoreCompileInputs.cache
+E:\Projects\C#\Streams, Files and Directories\Streams, Files and Directories -Lab\Word Count\obj\Debug\netcoreapp3.1\Word Count.dll
+E:\Projects\C#\Streams, Files and Directories\Streams, Files and Directories -Lab\Word Count\obj\Debug\netcoreapp3.1\Word Count.pdb
+E:\Projects\C#\Streams, Files and Directories\Streams, Files and Directories -Lab\Word Count\obj\Debug\netcoreapp3.1\Word Count.genruntimeconfig.cache
+E:\Projects\C#\Streams, Files and Directories\Streams, Files and Directories -Lab\Word Count\obj\Debug\netcoreapp3.1\Word Count.csproj.AssemblyReference.cache

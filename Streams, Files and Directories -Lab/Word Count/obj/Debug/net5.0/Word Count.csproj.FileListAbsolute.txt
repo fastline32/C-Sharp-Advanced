@@ -1,0 +1,16 @@
+E:\Projects\C#\Streams, Files and Directories\Streams, Files and Directories -Lab\Word Count\bin\Debug\net5.0\Word Count.exe
+E:\Projects\C#\Streams, Files and Directories\Streams, Files and Directories -Lab\Word Count\bin\Debug\net5.0\Word Count.deps.json
+E:\Projects\C#\Streams, Files and Directories\Streams, Files and Directories -Lab\Word Count\bin\Debug\net5.0\Word Count.runtimeconfig.json
+E:\Projects\C#\Streams, Files and Directories\Streams, Files and Directories -Lab\Word Count\bin\Debug\net5.0\Word Count.runtimeconfig.dev.json
+E:\Projects\C#\Streams, Files and Directories\Streams, Files and Directories -Lab\Word Count\bin\Debug\net5.0\Word Count.dll
+E:\Projects\C#\Streams, Files and Directories\Streams, Files and Directories -Lab\Word Count\bin\Debug\net5.0\ref\Word Count.dll
+E:\Projects\C#\Streams, Files and Directories\Streams, Files and Directories -Lab\Word Count\bin\Debug\net5.0\Word Count.pdb
+E:\Projects\C#\Streams, Files and Directories\Streams, Files and Directories -Lab\Word Count\obj\Debug\net5.0\Word Count.csproj.AssemblyReference.cache
+E:\Projects\C#\Streams, Files and Directories\Streams, Files and Directories -Lab\Word Count\obj\Debug\net5.0\Word Count.GeneratedMSBuildEditorConfig.editorconfig
+E:\Projects\C#\Streams, Files and Directories\Streams, Files and Directories -Lab\Word Count\obj\Debug\net5.0\Word Count.AssemblyInfoInputs.cache
+E:\Projects\C#\Streams, Files and Directories\Streams, Files and Directories -Lab\Word Count\obj\Debug\net5.0\Word Count.AssemblyInfo.cs
+E:\Projects\C#\Streams, Files and Directories\Streams, Files and Directories -Lab\Word Count\obj\Debug\net5.0\Word Count.csproj.CoreCompileInputs.cache
+E:\Projects\C#\Streams, Files and Directories\Streams, Files and Directories -Lab\Word Count\obj\Debug\net5.0\Word Count.dll
+E:\Projects\C#\Streams, Files and Directories\Streams, Files and Directories -Lab\Word Count\obj\Debug\net5.0\ref\Word Count.dll
+E:\Projects\C#\Streams, Files and Directories\Streams, Files and Directories -Lab\Word Count\obj\Debug\net5.0\Word Count.pdb
+E:\Projects\C#\Streams, Files and Directories\Streams, Files and Directories -Lab\Word Count\obj\Debug\net5.0\Word Count.genruntimeconfig.cache

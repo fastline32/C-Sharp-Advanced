@@ -1,0 +1,16 @@
+E:\Projects\C#\Sets and Dictionaries Advanced - Exercise\Sets and Dictionaries Advanced - Exercise\Wardrobe\bin\Debug\net5.0\Wardrobe.exe
+E:\Projects\C#\Sets and Dictionaries Advanced - Exercise\Sets and Dictionaries Advanced - Exercise\Wardrobe\bin\Debug\net5.0\Wardrobe.deps.json
+E:\Projects\C#\Sets and Dictionaries Advanced - Exercise\Sets and Dictionaries Advanced - Exercise\Wardrobe\bin\Debug\net5.0\Wardrobe.runtimeconfig.json
+E:\Projects\C#\Sets and Dictionaries Advanced - Exercise\Sets and Dictionaries Advanced - Exercise\Wardrobe\bin\Debug\net5.0\Wardrobe.runtimeconfig.dev.json
+E:\Projects\C#\Sets and Dictionaries Advanced - Exercise\Sets and Dictionaries Advanced - Exercise\Wardrobe\bin\Debug\net5.0\Wardrobe.dll
+E:\Projects\C#\Sets and Dictionaries Advanced - Exercise\Sets and Dictionaries Advanced - Exercise\Wardrobe\bin\Debug\net5.0\ref\Wardrobe.dll
+E:\Projects\C#\Sets and Dictionaries Advanced - Exercise\Sets and Dictionaries Advanced - Exercise\Wardrobe\bin\Debug\net5.0\Wardrobe.pdb
+E:\Projects\C#\Sets and Dictionaries Advanced - Exercise\Sets and Dictionaries Advanced - Exercise\Wardrobe\obj\Debug\net5.0\Wardrobe.csproj.AssemblyReference.cache
+E:\Projects\C#\Sets and Dictionaries Advanced - Exercise\Sets and Dictionaries Advanced - Exercise\Wardrobe\obj\Debug\net5.0\Wardrobe.GeneratedMSBuildEditorConfig.editorconfig
+E:\Projects\C#\Sets and Dictionaries Advanced - Exercise\Sets and Dictionaries Advanced - Exercise\Wardrobe\obj\Debug\net5.0\Wardrobe.AssemblyInfoInputs.cache
+E:\Projects\C#\Sets and Dictionaries Advanced - Exercise\Sets and Dictionaries Advanced - Exercise\Wardrobe\obj\Debug\net5.0\Wardrobe.AssemblyInfo.cs
+E:\Projects\C#\Sets and Dictionaries Advanced - Exercise\Sets and Dictionaries Advanced - Exercise\Wardrobe\obj\Debug\net5.0\Wardrobe.csproj.CoreCompileInputs.cache
+E:\Projects\C#\Sets and Dictionaries Advanced - Exercise\Sets and Dictionaries Advanced - Exercise\Wardrobe\obj\Debug\net5.0\Wardrobe.dll
+E:\Projects\C#\Sets and Dictionaries Advanced - Exercise\Sets and Dictionaries Advanced - Exercise\Wardrobe\obj\Debug\net5.0\ref\Wardrobe.dll
+E:\Projects\C#\Sets and Dictionaries Advanced - Exercise\Sets and Dictionaries Advanced - Exercise\Wardrobe\obj\Debug\net5.0\Wardrobe.pdb
+E:\Projects\C#\Sets and Dictionaries Advanced - Exercise\Sets and Dictionaries Advanced - Exercise\Wardrobe\obj\Debug\net5.0\Wardrobe.genruntimeconfig.cache

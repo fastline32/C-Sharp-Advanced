@@ -1,0 +1,16 @@
+E:\Projects\C#\Sets and Dictionaries Advanced - Exercise\Sets and Dictionaries Advanced - Exercise\SoftUni Exam Results\bin\Debug\net5.0\SoftUni Exam Results.exe
+E:\Projects\C#\Sets and Dictionaries Advanced - Exercise\Sets and Dictionaries Advanced - Exercise\SoftUni Exam Results\bin\Debug\net5.0\SoftUni Exam Results.deps.json
+E:\Projects\C#\Sets and Dictionaries Advanced - Exercise\Sets and Dictionaries Advanced - Exercise\SoftUni Exam Results\bin\Debug\net5.0\SoftUni Exam Results.runtimeconfig.json
+E:\Projects\C#\Sets and Dictionaries Advanced - Exercise\Sets and Dictionaries Advanced - Exercise\SoftUni Exam Results\bin\Debug\net5.0\SoftUni Exam Results.runtimeconfig.dev.json
+E:\Projects\C#\Sets and Dictionaries Advanced - Exercise\Sets and Dictionaries Advanced - Exercise\SoftUni Exam Results\bin\Debug\net5.0\SoftUni Exam Results.dll
+E:\Projects\C#\Sets and Dictionaries Advanced - Exercise\Sets and Dictionaries Advanced - Exercise\SoftUni Exam Results\bin\Debug\net5.0\ref\SoftUni Exam Results.dll
+E:\Projects\C#\Sets and Dictionaries Advanced - Exercise\Sets and Dictionaries Advanced - Exercise\SoftUni Exam Results\bin\Debug\net5.0\SoftUni Exam Results.pdb
+E:\Projects\C#\Sets and Dictionaries Advanced - Exercise\Sets and Dictionaries Advanced - Exercise\SoftUni Exam Results\obj\Debug\net5.0\SoftUni Exam Results.csproj.AssemblyReference.cache
+E:\Projects\C#\Sets and Dictionaries Advanced - Exercise\Sets and Dictionaries Advanced - Exercise\SoftUni Exam Results\obj\Debug\net5.0\SoftUni Exam Results.GeneratedMSBuildEditorConfig.editorconfig
+E:\Projects\C#\Sets and Dictionaries Advanced - Exercise\Sets and Dictionaries Advanced - Exercise\SoftUni Exam Results\obj\Debug\net5.0\SoftUni Exam Results.AssemblyInfoInputs.cache
+E:\Projects\C#\Sets and Dictionaries Advanced - Exercise\Sets and Dictionaries Advanced - Exercise\SoftUni Exam Results\obj\Debug\net5.0\SoftUni Exam Results.AssemblyInfo.cs
+E:\Projects\C#\Sets and Dictionaries Advanced - Exercise\Sets and Dictionaries Advanced - Exercise\SoftUni Exam Results\obj\Debug\net5.0\SoftUni Exam Results.csproj.CoreCompileInputs.cache
+E:\Projects\C#\Sets and Dictionaries Advanced - Exercise\Sets and Dictionaries Advanced - Exercise\SoftUni Exam Results\obj\Debug\net5.0\SoftUni Exam Results.dll
+E:\Projects\C#\Sets and Dictionaries Advanced - Exercise\Sets and Dictionaries Advanced - Exercise\SoftUni Exam Results\obj\Debug\net5.0\ref\SoftUni Exam Results.dll
+E:\Projects\C#\Sets and Dictionaries Advanced - Exercise\Sets and Dictionaries Advanced - Exercise\SoftUni Exam Results\obj\Debug\net5.0\SoftUni Exam Results.pdb
+E:\Projects\C#\Sets and Dictionaries Advanced - Exercise\Sets and Dictionaries Advanced - Exercise\SoftUni Exam Results\obj\Debug\net5.0\SoftUni Exam Results.genruntimeconfig.cache

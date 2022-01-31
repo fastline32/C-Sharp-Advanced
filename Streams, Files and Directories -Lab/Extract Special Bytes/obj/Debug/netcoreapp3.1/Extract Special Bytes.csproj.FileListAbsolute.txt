@@ -1,0 +1,14 @@
+E:\Projects\C#\Streams, Files and Directories\Streams, Files and Directories -Lab\Extract Special Bytes\bin\Debug\netcoreapp3.1\Extract Special Bytes.exe
+E:\Projects\C#\Streams, Files and Directories\Streams, Files and Directories -Lab\Extract Special Bytes\bin\Debug\netcoreapp3.1\Extract Special Bytes.deps.json
+E:\Projects\C#\Streams, Files and Directories\Streams, Files and Directories -Lab\Extract Special Bytes\bin\Debug\netcoreapp3.1\Extract Special Bytes.runtimeconfig.json
+E:\Projects\C#\Streams, Files and Directories\Streams, Files and Directories -Lab\Extract Special Bytes\bin\Debug\netcoreapp3.1\Extract Special Bytes.runtimeconfig.dev.json
+E:\Projects\C#\Streams, Files and Directories\Streams, Files and Directories -Lab\Extract Special Bytes\bin\Debug\netcoreapp3.1\Extract Special Bytes.dll
+E:\Projects\C#\Streams, Files and Directories\Streams, Files and Directories -Lab\Extract Special Bytes\bin\Debug\netcoreapp3.1\Extract Special Bytes.pdb
+E:\Projects\C#\Streams, Files and Directories\Streams, Files and Directories -Lab\Extract Special Bytes\obj\Debug\netcoreapp3.1\Extract Special Bytes.csproj.AssemblyReference.cache
+E:\Projects\C#\Streams, Files and Directories\Streams, Files and Directories -Lab\Extract Special Bytes\obj\Debug\netcoreapp3.1\Extract Special Bytes.GeneratedMSBuildEditorConfig.editorconfig
+E:\Projects\C#\Streams, Files and Directories\Streams, Files and Directories -Lab\Extract Special Bytes\obj\Debug\netcoreapp3.1\Extract Special Bytes.AssemblyInfoInputs.cache
+E:\Projects\C#\Streams, Files and Directories\Streams, Files and Directories -Lab\Extract Special Bytes\obj\Debug\netcoreapp3.1\Extract Special Bytes.AssemblyInfo.cs
+E:\Projects\C#\Streams, Files and Directories\Streams, Files and Directories -Lab\Extract Special Bytes\obj\Debug\netcoreapp3.1\Extract Special Bytes.csproj.CoreCompileInputs.cache
+E:\Projects\C#\Streams, Files and Directories\Streams, Files and Directories -Lab\Extract Special Bytes\obj\Debug\netcoreapp3.1\Extract Special Bytes.dll
+E:\Projects\C#\Streams, Files and Directories\Streams, Files and Directories -Lab\Extract Special Bytes\obj\Debug\netcoreapp3.1\Extract Special Bytes.pdb
+E:\Projects\C#\Streams, Files and Directories\Streams, Files and Directories -Lab\Extract Special Bytes\obj\Debug\netcoreapp3.1\Extract Special Bytes.genruntimeconfig.cache

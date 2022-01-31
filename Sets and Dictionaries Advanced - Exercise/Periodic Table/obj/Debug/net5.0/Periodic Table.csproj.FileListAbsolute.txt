@@ -1,0 +1,16 @@
+E:\Projects\C#\Sets and Dictionaries Advanced - Exercise\Sets and Dictionaries Advanced - Exercise\Periodic Table\bin\Debug\net5.0\Periodic Table.exe
+E:\Projects\C#\Sets and Dictionaries Advanced - Exercise\Sets and Dictionaries Advanced - Exercise\Periodic Table\bin\Debug\net5.0\Periodic Table.deps.json
+E:\Projects\C#\Sets and Dictionaries Advanced - Exercise\Sets and Dictionaries Advanced - Exercise\Periodic Table\bin\Debug\net5.0\Periodic Table.runtimeconfig.json
+E:\Projects\C#\Sets and Dictionaries Advanced - Exercise\Sets and Dictionaries Advanced - Exercise\Periodic Table\bin\Debug\net5.0\Periodic Table.runtimeconfig.dev.json
+E:\Projects\C#\Sets and Dictionaries Advanced - Exercise\Sets and Dictionaries Advanced - Exercise\Periodic Table\bin\Debug\net5.0\Periodic Table.dll
+E:\Projects\C#\Sets and Dictionaries Advanced - Exercise\Sets and Dictionaries Advanced - Exercise\Periodic Table\bin\Debug\net5.0\ref\Periodic Table.dll
+E:\Projects\C#\Sets and Dictionaries Advanced - Exercise\Sets and Dictionaries Advanced - Exercise\Periodic Table\bin\Debug\net5.0\Periodic Table.pdb
+E:\Projects\C#\Sets and Dictionaries Advanced - Exercise\Sets and Dictionaries Advanced - Exercise\Periodic Table\obj\Debug\net5.0\Periodic Table.csproj.AssemblyReference.cache
+E:\Projects\C#\Sets and Dictionaries Advanced - Exercise\Sets and Dictionaries Advanced - Exercise\Periodic Table\obj\Debug\net5.0\Periodic Table.GeneratedMSBuildEditorConfig.editorconfig
+E:\Projects\C#\Sets and Dictionaries Advanced - Exercise\Sets and Dictionaries Advanced - Exercise\Periodic Table\obj\Debug\net5.0\Periodic Table.AssemblyInfoInputs.cache
+E:\Projects\C#\Sets and Dictionaries Advanced - Exercise\Sets and Dictionaries Advanced - Exercise\Periodic Table\obj\Debug\net5.0\Periodic Table.AssemblyInfo.cs
+E:\Projects\C#\Sets and Dictionaries Advanced - Exercise\Sets and Dictionaries Advanced - Exercise\Periodic Table\obj\Debug\net5.0\Periodic Table.csproj.CoreCompileInputs.cache
+E:\Projects\C#\Sets and Dictionaries Advanced - Exercise\Sets and Dictionaries Advanced - Exercise\Periodic Table\obj\Debug\net5.0\Periodic Table.dll
+E:\Projects\C#\Sets and Dictionaries Advanced - Exercise\Sets and Dictionaries Advanced - Exercise\Periodic Table\obj\Debug\net5.0\ref\Periodic Table.dll
+E:\Projects\C#\Sets and Dictionaries Advanced - Exercise\Sets and Dictionaries Advanced - Exercise\Periodic Table\obj\Debug\net5.0\Periodic Table.pdb
+E:\Projects\C#\Sets and Dictionaries Advanced - Exercise\Sets and Dictionaries Advanced - Exercise\Periodic Table\obj\Debug\net5.0\Periodic Table.genruntimeconfig.cache

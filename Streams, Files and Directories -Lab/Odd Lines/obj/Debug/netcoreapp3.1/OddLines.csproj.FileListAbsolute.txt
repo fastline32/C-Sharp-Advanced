@@ -1,0 +1,14 @@
+E:\Projects\C#\Streams, Files and Directories\Streams, Files and Directories -Lab\Odd Lines\bin\Debug\netcoreapp3.1\OddLines.exe
+E:\Projects\C#\Streams, Files and Directories\Streams, Files and Directories -Lab\Odd Lines\bin\Debug\netcoreapp3.1\OddLines.deps.json
+E:\Projects\C#\Streams, Files and Directories\Streams, Files and Directories -Lab\Odd Lines\bin\Debug\netcoreapp3.1\OddLines.runtimeconfig.json
+E:\Projects\C#\Streams, Files and Directories\Streams, Files and Directories -Lab\Odd Lines\bin\Debug\netcoreapp3.1\OddLines.runtimeconfig.dev.json
+E:\Projects\C#\Streams, Files and Directories\Streams, Files and Directories -Lab\Odd Lines\bin\Debug\netcoreapp3.1\OddLines.dll
+E:\Projects\C#\Streams, Files and Directories\Streams, Files and Directories -Lab\Odd Lines\bin\Debug\netcoreapp3.1\OddLines.pdb
+E:\Projects\C#\Streams, Files and Directories\Streams, Files and Directories -Lab\Odd Lines\obj\Debug\netcoreapp3.1\OddLines.csproj.AssemblyReference.cache
+E:\Projects\C#\Streams, Files and Directories\Streams, Files and Directories -Lab\Odd Lines\obj\Debug\netcoreapp3.1\OddLines.GeneratedMSBuildEditorConfig.editorconfig
+E:\Projects\C#\Streams, Files and Directories\Streams, Files and Directories -Lab\Odd Lines\obj\Debug\netcoreapp3.1\OddLines.AssemblyInfoInputs.cache
+E:\Projects\C#\Streams, Files and Directories\Streams, Files and Directories -Lab\Odd Lines\obj\Debug\netcoreapp3.1\OddLines.AssemblyInfo.cs
+E:\Projects\C#\Streams, Files and Directories\Streams, Files and Directories -Lab\Odd Lines\obj\Debug\netcoreapp3.1\OddLines.csproj.CoreCompileInputs.cache
+E:\Projects\C#\Streams, Files and Directories\Streams, Files and Directories -Lab\Odd Lines\obj\Debug\netcoreapp3.1\OddLines.dll
+E:\Projects\C#\Streams, Files and Directories\Streams, Files and Directories -Lab\Odd Lines\obj\Debug\netcoreapp3.1\OddLines.pdb
+E:\Projects\C#\Streams, Files and Directories\Streams, Files and Directories -Lab\Odd Lines\obj\Debug\netcoreapp3.1\OddLines.genruntimeconfig.cache

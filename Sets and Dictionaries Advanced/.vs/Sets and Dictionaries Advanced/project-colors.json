@@ -1,0 +1,46 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "79492b42-8f78-4443-925f-96c26e2e5869": {
+      "ProjectGuid": "79492b42-8f78-4443-925f-96c26e2e5869",
+      "DisplayName": "CountSameValuesIinArray",
+      "ColorIndex": 0
+    },
+    "629aaba5-6824-4fc1-baa6-6bcb1f7f2c23": {
+      "ProjectGuid": "629aaba5-6824-4fc1-baa6-6bcb1f7f2c23",
+      "DisplayName": "Average Student Grades",
+      "ColorIndex": 1
+    },
+    "a482cf56-cdc8-4e99-8367-acd34f5ef716": {
+      "ProjectGuid": "a482cf56-cdc8-4e99-8367-acd34f5ef716",
+      "DisplayName": "Product Shop",
+      "ColorIndex": 2
+    },
+    "1a58cba0-c88e-47d9-a6c2-f84e7e81f09f": {
+      "ProjectGuid": "1a58cba0-c88e-47d9-a6c2-f84e7e81f09f",
+      "DisplayName": "Largest 3 Numbers",
+      "ColorIndex": 3
+    },
+    "2c0cee98-9c63-428b-aa7c-c09838846b8c": {
+      "ProjectGuid": "2c0cee98-9c63-428b-aa7c-c09838846b8c",
+      "DisplayName": "Cities by Continent and Country",
+      "ColorIndex": 4
+    },
+    "cc95d2bf-f343-4eb5-85b3-c086c90fb07f": {
+      "ProjectGuid": "cc95d2bf-f343-4eb5-85b3-c086c90fb07f",
+      "DisplayName": "Record Unique Names",
+      "ColorIndex": 5
+    },
+    "185ae420-1cd3-474c-b488-1afaab8a87ef": {
+      "ProjectGuid": "185ae420-1cd3-474c-b488-1afaab8a87ef",
+      "DisplayName": "Parking Lot",
+      "ColorIndex": 6
+    },
+    "706d9df6-51bd-4a1e-89d8-9db203af7c88": {
+      "ProjectGuid": "706d9df6-51bd-4a1e-89d8-9db203af7c88",
+      "DisplayName": "SoftUni Party",
+      "ColorIndex": 7
+    }
+  },
+  "NextColorIndex": 8
+}

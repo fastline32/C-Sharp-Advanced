@@ -1,0 +1,14 @@
+E:\Projects\C#\Streams, Files and Directories\Streams, Files and Directories -Lab\Split Merge Binary Files\bin\Debug\netcoreapp3.1\Split Merge Binary Files.exe
+E:\Projects\C#\Streams, Files and Directories\Streams, Files and Directories -Lab\Split Merge Binary Files\bin\Debug\netcoreapp3.1\Split Merge Binary Files.deps.json
+E:\Projects\C#\Streams, Files and Directories\Streams, Files and Directories -Lab\Split Merge Binary Files\bin\Debug\netcoreapp3.1\Split Merge Binary Files.runtimeconfig.json
+E:\Projects\C#\Streams, Files and Directories\Streams, Files and Directories -Lab\Split Merge Binary Files\bin\Debug\netcoreapp3.1\Split Merge Binary Files.runtimeconfig.dev.json
+E:\Projects\C#\Streams, Files and Directories\Streams, Files and Directories -Lab\Split Merge Binary Files\bin\Debug\netcoreapp3.1\Split Merge Binary Files.dll
+E:\Projects\C#\Streams, Files and Directories\Streams, Files and Directories -Lab\Split Merge Binary Files\bin\Debug\netcoreapp3.1\Split Merge Binary Files.pdb
+E:\Projects\C#\Streams, Files and Directories\Streams, Files and Directories -Lab\Split Merge Binary Files\obj\Debug\netcoreapp3.1\Split Merge Binary Files.csproj.AssemblyReference.cache
+E:\Projects\C#\Streams, Files and Directories\Streams, Files and Directories -Lab\Split Merge Binary Files\obj\Debug\netcoreapp3.1\Split Merge Binary Files.GeneratedMSBuildEditorConfig.editorconfig
+E:\Projects\C#\Streams, Files and Directories\Streams, Files and Directories -Lab\Split Merge Binary Files\obj\Debug\netcoreapp3.1\Split Merge Binary Files.AssemblyInfoInputs.cache
+E:\Projects\C#\Streams, Files and Directories\Streams, Files and Directories -Lab\Split Merge Binary Files\obj\Debug\netcoreapp3.1\Split Merge Binary Files.AssemblyInfo.cs
+E:\Projects\C#\Streams, Files and Directories\Streams, Files and Directories -Lab\Split Merge Binary Files\obj\Debug\netcoreapp3.1\Split Merge Binary Files.csproj.CoreCompileInputs.cache
+E:\Projects\C#\Streams, Files and Directories\Streams, Files and Directories -Lab\Split Merge Binary Files\obj\Debug\netcoreapp3.1\Split Merge Binary Files.dll
+E:\Projects\C#\Streams, Files and Directories\Streams, Files and Directories -Lab\Split Merge Binary Files\obj\Debug\netcoreapp3.1\Split Merge Binary Files.pdb
+E:\Projects\C#\Streams, Files and Directories\Streams, Files and Directories -Lab\Split Merge Binary Files\obj\Debug\netcoreapp3.1\Split Merge Binary Files.genruntimeconfig.cache

@@ -1,0 +1,16 @@
+E:\Projects\C#\Sets and Dictionaries Advanced\Product Shop\bin\Debug\net5.0\Product Shop.exe
+E:\Projects\C#\Sets and Dictionaries Advanced\Product Shop\bin\Debug\net5.0\Product Shop.deps.json
+E:\Projects\C#\Sets and Dictionaries Advanced\Product Shop\bin\Debug\net5.0\Product Shop.runtimeconfig.json
+E:\Projects\C#\Sets and Dictionaries Advanced\Product Shop\bin\Debug\net5.0\Product Shop.runtimeconfig.dev.json
+E:\Projects\C#\Sets and Dictionaries Advanced\Product Shop\bin\Debug\net5.0\Product Shop.dll
+E:\Projects\C#\Sets and Dictionaries Advanced\Product Shop\bin\Debug\net5.0\ref\Product Shop.dll
+E:\Projects\C#\Sets and Dictionaries Advanced\Product Shop\bin\Debug\net5.0\Product Shop.pdb
+E:\Projects\C#\Sets and Dictionaries Advanced\Product Shop\obj\Debug\net5.0\Product Shop.csproj.AssemblyReference.cache
+E:\Projects\C#\Sets and Dictionaries Advanced\Product Shop\obj\Debug\net5.0\Product Shop.GeneratedMSBuildEditorConfig.editorconfig
+E:\Projects\C#\Sets and Dictionaries Advanced\Product Shop\obj\Debug\net5.0\Product Shop.AssemblyInfoInputs.cache
+E:\Projects\C#\Sets and Dictionaries Advanced\Product Shop\obj\Debug\net5.0\Product Shop.AssemblyInfo.cs
+E:\Projects\C#\Sets and Dictionaries Advanced\Product Shop\obj\Debug\net5.0\Product Shop.csproj.CoreCompileInputs.cache
+E:\Projects\C#\Sets and Dictionaries Advanced\Product Shop\obj\Debug\net5.0\Product Shop.dll
+E:\Projects\C#\Sets and Dictionaries Advanced\Product Shop\obj\Debug\net5.0\ref\Product Shop.dll
+E:\Projects\C#\Sets and Dictionaries Advanced\Product Shop\obj\Debug\net5.0\Product Shop.pdb
+E:\Projects\C#\Sets and Dictionaries Advanced\Product Shop\obj\Debug\net5.0\Product Shop.genruntimeconfig.cache

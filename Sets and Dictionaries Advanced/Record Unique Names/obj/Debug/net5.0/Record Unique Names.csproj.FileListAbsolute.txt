@@ -1,0 +1,16 @@
+E:\Projects\C#\Sets and Dictionaries Advanced\Record Unique Names\bin\Debug\net5.0\Record Unique Names.exe
+E:\Projects\C#\Sets and Dictionaries Advanced\Record Unique Names\bin\Debug\net5.0\Record Unique Names.deps.json
+E:\Projects\C#\Sets and Dictionaries Advanced\Record Unique Names\bin\Debug\net5.0\Record Unique Names.runtimeconfig.json
+E:\Projects\C#\Sets and Dictionaries Advanced\Record Unique Names\bin\Debug\net5.0\Record Unique Names.runtimeconfig.dev.json
+E:\Projects\C#\Sets and Dictionaries Advanced\Record Unique Names\bin\Debug\net5.0\Record Unique Names.dll
+E:\Projects\C#\Sets and Dictionaries Advanced\Record Unique Names\bin\Debug\net5.0\ref\Record Unique Names.dll
+E:\Projects\C#\Sets and Dictionaries Advanced\Record Unique Names\bin\Debug\net5.0\Record Unique Names.pdb
+E:\Projects\C#\Sets and Dictionaries Advanced\Record Unique Names\obj\Debug\net5.0\Record Unique Names.csproj.AssemblyReference.cache
+E:\Projects\C#\Sets and Dictionaries Advanced\Record Unique Names\obj\Debug\net5.0\Record Unique Names.GeneratedMSBuildEditorConfig.editorconfig
+E:\Projects\C#\Sets and Dictionaries Advanced\Record Unique Names\obj\Debug\net5.0\Record Unique Names.AssemblyInfoInputs.cache
+E:\Projects\C#\Sets and Dictionaries Advanced\Record Unique Names\obj\Debug\net5.0\Record Unique Names.AssemblyInfo.cs
+E:\Projects\C#\Sets and Dictionaries Advanced\Record Unique Names\obj\Debug\net5.0\Record Unique Names.csproj.CoreCompileInputs.cache
+E:\Projects\C#\Sets and Dictionaries Advanced\Record Unique Names\obj\Debug\net5.0\Record Unique Names.dll
+E:\Projects\C#\Sets and Dictionaries Advanced\Record Unique Names\obj\Debug\net5.0\ref\Record Unique Names.dll
+E:\Projects\C#\Sets and Dictionaries Advanced\Record Unique Names\obj\Debug\net5.0\Record Unique Names.pdb
+E:\Projects\C#\Sets and Dictionaries Advanced\Record Unique Names\obj\Debug\net5.0\Record Unique Names.genruntimeconfig.cache

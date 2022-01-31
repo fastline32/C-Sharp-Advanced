@@ -1,0 +1,14 @@
+E:\Projects\C#\Streams, Files and Directories\Streams, Files and Directories - Exercises\Line Numbers\bin\Debug\netcoreapp3.1\Line Numbers.exe
+E:\Projects\C#\Streams, Files and Directories\Streams, Files and Directories - Exercises\Line Numbers\bin\Debug\netcoreapp3.1\Line Numbers.deps.json
+E:\Projects\C#\Streams, Files and Directories\Streams, Files and Directories - Exercises\Line Numbers\bin\Debug\netcoreapp3.1\Line Numbers.runtimeconfig.json
+E:\Projects\C#\Streams, Files and Directories\Streams, Files and Directories - Exercises\Line Numbers\bin\Debug\netcoreapp3.1\Line Numbers.runtimeconfig.dev.json
+E:\Projects\C#\Streams, Files and Directories\Streams, Files and Directories - Exercises\Line Numbers\bin\Debug\netcoreapp3.1\Line Numbers.dll
+E:\Projects\C#\Streams, Files and Directories\Streams, Files and Directories - Exercises\Line Numbers\bin\Debug\netcoreapp3.1\Line Numbers.pdb
+E:\Projects\C#\Streams, Files and Directories\Streams, Files and Directories - Exercises\Line Numbers\obj\Debug\netcoreapp3.1\Line Numbers.csproj.AssemblyReference.cache
+E:\Projects\C#\Streams, Files and Directories\Streams, Files and Directories - Exercises\Line Numbers\obj\Debug\netcoreapp3.1\Line Numbers.GeneratedMSBuildEditorConfig.editorconfig
+E:\Projects\C#\Streams, Files and Directories\Streams, Files and Directories - Exercises\Line Numbers\obj\Debug\netcoreapp3.1\Line Numbers.AssemblyInfoInputs.cache
+E:\Projects\C#\Streams, Files and Directories\Streams, Files and Directories - Exercises\Line Numbers\obj\Debug\netcoreapp3.1\Line Numbers.AssemblyInfo.cs
+E:\Projects\C#\Streams, Files and Directories\Streams, Files and Directories - Exercises\Line Numbers\obj\Debug\netcoreapp3.1\Line Numbers.csproj.CoreCompileInputs.cache
+E:\Projects\C#\Streams, Files and Directories\Streams, Files and Directories - Exercises\Line Numbers\obj\Debug\netcoreapp3.1\Line Numbers.dll
+E:\Projects\C#\Streams, Files and Directories\Streams, Files and Directories - Exercises\Line Numbers\obj\Debug\netcoreapp3.1\Line Numbers.pdb
+E:\Projects\C#\Streams, Files and Directories\Streams, Files and Directories - Exercises\Line Numbers\obj\Debug\netcoreapp3.1\Line Numbers.genruntimeconfig.cache

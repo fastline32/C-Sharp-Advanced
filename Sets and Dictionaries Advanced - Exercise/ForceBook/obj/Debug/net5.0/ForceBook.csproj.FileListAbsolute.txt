@@ -1,0 +1,16 @@
+E:\Projects\C#\Sets and Dictionaries Advanced - Exercise\Sets and Dictionaries Advanced - Exercise\ForceBook\bin\Debug\net5.0\ForceBook.exe
+E:\Projects\C#\Sets and Dictionaries Advanced - Exercise\Sets and Dictionaries Advanced - Exercise\ForceBook\bin\Debug\net5.0\ForceBook.deps.json
+E:\Projects\C#\Sets and Dictionaries Advanced - Exercise\Sets and Dictionaries Advanced - Exercise\ForceBook\bin\Debug\net5.0\ForceBook.runtimeconfig.json
+E:\Projects\C#\Sets and Dictionaries Advanced - Exercise\Sets and Dictionaries Advanced - Exercise\ForceBook\bin\Debug\net5.0\ForceBook.runtimeconfig.dev.json
+E:\Projects\C#\Sets and Dictionaries Advanced - Exercise\Sets and Dictionaries Advanced - Exercise\ForceBook\bin\Debug\net5.0\ForceBook.dll
+E:\Projects\C#\Sets and Dictionaries Advanced - Exercise\Sets and Dictionaries Advanced - Exercise\ForceBook\bin\Debug\net5.0\ref\ForceBook.dll
+E:\Projects\C#\Sets and Dictionaries Advanced - Exercise\Sets and Dictionaries Advanced - Exercise\ForceBook\bin\Debug\net5.0\ForceBook.pdb
+E:\Projects\C#\Sets and Dictionaries Advanced - Exercise\Sets and Dictionaries Advanced - Exercise\ForceBook\obj\Debug\net5.0\ForceBook.csproj.AssemblyReference.cache
+E:\Projects\C#\Sets and Dictionaries Advanced - Exercise\Sets and Dictionaries Advanced - Exercise\ForceBook\obj\Debug\net5.0\ForceBook.GeneratedMSBuildEditorConfig.editorconfig
+E:\Projects\C#\Sets and Dictionaries Advanced - Exercise\Sets and Dictionaries Advanced - Exercise\ForceBook\obj\Debug\net5.0\ForceBook.AssemblyInfoInputs.cache
+E:\Projects\C#\Sets and Dictionaries Advanced - Exercise\Sets and Dictionaries Advanced - Exercise\ForceBook\obj\Debug\net5.0\ForceBook.AssemblyInfo.cs
+E:\Projects\C#\Sets and Dictionaries Advanced - Exercise\Sets and Dictionaries Advanced - Exercise\ForceBook\obj\Debug\net5.0\ForceBook.csproj.CoreCompileInputs.cache
+E:\Projects\C#\Sets and Dictionaries Advanced - Exercise\Sets and Dictionaries Advanced - Exercise\ForceBook\obj\Debug\net5.0\ForceBook.dll
+E:\Projects\C#\Sets and Dictionaries Advanced - Exercise\Sets and Dictionaries Advanced - Exercise\ForceBook\obj\Debug\net5.0\ref\ForceBook.dll
+E:\Projects\C#\Sets and Dictionaries Advanced - Exercise\Sets and Dictionaries Advanced - Exercise\ForceBook\obj\Debug\net5.0\ForceBook.pdb
+E:\Projects\C#\Sets and Dictionaries Advanced - Exercise\Sets and Dictionaries Advanced - Exercise\ForceBook\obj\Debug\net5.0\ForceBook.genruntimeconfig.cache

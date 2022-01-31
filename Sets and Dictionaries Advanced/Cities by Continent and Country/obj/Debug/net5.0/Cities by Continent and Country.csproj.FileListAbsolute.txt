@@ -1,0 +1,16 @@
+E:\Projects\C#\Sets and Dictionaries Advanced\Cities by Continent and Country\bin\Debug\net5.0\Cities by Continent and Country.exe
+E:\Projects\C#\Sets and Dictionaries Advanced\Cities by Continent and Country\bin\Debug\net5.0\Cities by Continent and Country.deps.json
+E:\Projects\C#\Sets and Dictionaries Advanced\Cities by Continent and Country\bin\Debug\net5.0\Cities by Continent and Country.runtimeconfig.json
+E:\Projects\C#\Sets and Dictionaries Advanced\Cities by Continent and Country\bin\Debug\net5.0\Cities by Continent and Country.runtimeconfig.dev.json
+E:\Projects\C#\Sets and Dictionaries Advanced\Cities by Continent and Country\bin\Debug\net5.0\Cities by Continent and Country.dll
+E:\Projects\C#\Sets and Dictionaries Advanced\Cities by Continent and Country\bin\Debug\net5.0\ref\Cities by Continent and Country.dll
+E:\Projects\C#\Sets and Dictionaries Advanced\Cities by Continent and Country\bin\Debug\net5.0\Cities by Continent and Country.pdb
+E:\Projects\C#\Sets and Dictionaries Advanced\Cities by Continent and Country\obj\Debug\net5.0\Cities by Continent and Country.GeneratedMSBuildEditorConfig.editorconfig
+E:\Projects\C#\Sets and Dictionaries Advanced\Cities by Continent and Country\obj\Debug\net5.0\Cities by Continent and Country.AssemblyInfoInputs.cache
+E:\Projects\C#\Sets and Dictionaries Advanced\Cities by Continent and Country\obj\Debug\net5.0\Cities by Continent and Country.AssemblyInfo.cs
+E:\Projects\C#\Sets and Dictionaries Advanced\Cities by Continent and Country\obj\Debug\net5.0\Cities by Continent and Country.csproj.CoreCompileInputs.cache
+E:\Projects\C#\Sets and Dictionaries Advanced\Cities by Continent and Country\obj\Debug\net5.0\Cities by Continent and Country.dll
+E:\Projects\C#\Sets and Dictionaries Advanced\Cities by Continent and Country\obj\Debug\net5.0\ref\Cities by Continent and Country.dll
+E:\Projects\C#\Sets and Dictionaries Advanced\Cities by Continent and Country\obj\Debug\net5.0\Cities by Continent and Country.pdb
+E:\Projects\C#\Sets and Dictionaries Advanced\Cities by Continent and Country\obj\Debug\net5.0\Cities by Continent and Country.genruntimeconfig.cache
+E:\Projects\C#\Sets and Dictionaries Advanced\Cities by Continent and Country\obj\Debug\net5.0\Cities by Continent and Country.csproj.AssemblyReference.cache

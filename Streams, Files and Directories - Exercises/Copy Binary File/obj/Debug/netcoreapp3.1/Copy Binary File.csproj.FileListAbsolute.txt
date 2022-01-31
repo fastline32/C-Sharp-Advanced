@@ -1,0 +1,14 @@
+E:\Projects\C#\Streams, Files and Directories\Streams, Files and Directories - Exercises\Copy Binary File\bin\Debug\netcoreapp3.1\Copy Binary File.exe
+E:\Projects\C#\Streams, Files and Directories\Streams, Files and Directories - Exercises\Copy Binary File\bin\Debug\netcoreapp3.1\Copy Binary File.deps.json
+E:\Projects\C#\Streams, Files and Directories\Streams, Files and Directories - Exercises\Copy Binary File\bin\Debug\netcoreapp3.1\Copy Binary File.runtimeconfig.json
+E:\Projects\C#\Streams, Files and Directories\Streams, Files and Directories - Exercises\Copy Binary File\bin\Debug\netcoreapp3.1\Copy Binary File.runtimeconfig.dev.json
+E:\Projects\C#\Streams, Files and Directories\Streams, Files and Directories - Exercises\Copy Binary File\bin\Debug\netcoreapp3.1\Copy Binary File.dll
+E:\Projects\C#\Streams, Files and Directories\Streams, Files and Directories - Exercises\Copy Binary File\bin\Debug\netcoreapp3.1\Copy Binary File.pdb
+E:\Projects\C#\Streams, Files and Directories\Streams, Files and Directories - Exercises\Copy Binary File\obj\Debug\netcoreapp3.1\Copy Binary File.csproj.AssemblyReference.cache
+E:\Projects\C#\Streams, Files and Directories\Streams, Files and Directories - Exercises\Copy Binary File\obj\Debug\netcoreapp3.1\Copy Binary File.GeneratedMSBuildEditorConfig.editorconfig
+E:\Projects\C#\Streams, Files and Directories\Streams, Files and Directories - Exercises\Copy Binary File\obj\Debug\netcoreapp3.1\Copy Binary File.AssemblyInfoInputs.cache
+E:\Projects\C#\Streams, Files and Directories\Streams, Files and Directories - Exercises\Copy Binary File\obj\Debug\netcoreapp3.1\Copy Binary File.AssemblyInfo.cs
+E:\Projects\C#\Streams, Files and Directories\Streams, Files and Directories - Exercises\Copy Binary File\obj\Debug\netcoreapp3.1\Copy Binary File.csproj.CoreCompileInputs.cache
+E:\Projects\C#\Streams, Files and Directories\Streams, Files and Directories - Exercises\Copy Binary File\obj\Debug\netcoreapp3.1\Copy Binary File.dll
+E:\Projects\C#\Streams, Files and Directories\Streams, Files and Directories - Exercises\Copy Binary File\obj\Debug\netcoreapp3.1\Copy Binary File.pdb
+E:\Projects\C#\Streams, Files and Directories\Streams, Files and Directories - Exercises\Copy Binary File\obj\Debug\netcoreapp3.1\Copy Binary File.genruntimeconfig.cache

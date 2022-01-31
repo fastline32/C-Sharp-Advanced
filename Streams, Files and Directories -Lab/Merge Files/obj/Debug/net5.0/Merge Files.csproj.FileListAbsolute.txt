@@ -1,0 +1,16 @@
+E:\Projects\C#\Streams, Files and Directories\Streams, Files and Directories -Lab\Merge Files\bin\Debug\net5.0\Merge Files.exe
+E:\Projects\C#\Streams, Files and Directories\Streams, Files and Directories -Lab\Merge Files\bin\Debug\net5.0\Merge Files.deps.json
+E:\Projects\C#\Streams, Files and Directories\Streams, Files and Directories -Lab\Merge Files\bin\Debug\net5.0\Merge Files.runtimeconfig.json
+E:\Projects\C#\Streams, Files and Directories\Streams, Files and Directories -Lab\Merge Files\bin\Debug\net5.0\Merge Files.runtimeconfig.dev.json
+E:\Projects\C#\Streams, Files and Directories\Streams, Files and Directories -Lab\Merge Files\bin\Debug\net5.0\Merge Files.dll
+E:\Projects\C#\Streams, Files and Directories\Streams, Files and Directories -Lab\Merge Files\bin\Debug\net5.0\ref\Merge Files.dll
+E:\Projects\C#\Streams, Files and Directories\Streams, Files and Directories -Lab\Merge Files\bin\Debug\net5.0\Merge Files.pdb
+E:\Projects\C#\Streams, Files and Directories\Streams, Files and Directories -Lab\Merge Files\obj\Debug\net5.0\Merge Files.csproj.AssemblyReference.cache
+E:\Projects\C#\Streams, Files and Directories\Streams, Files and Directories -Lab\Merge Files\obj\Debug\net5.0\Merge Files.GeneratedMSBuildEditorConfig.editorconfig
+E:\Projects\C#\Streams, Files and Directories\Streams, Files and Directories -Lab\Merge Files\obj\Debug\net5.0\Merge Files.AssemblyInfoInputs.cache
+E:\Projects\C#\Streams, Files and Directories\Streams, Files and Directories -Lab\Merge Files\obj\Debug\net5.0\Merge Files.AssemblyInfo.cs
+E:\Projects\C#\Streams, Files and Directories\Streams, Files and Directories -Lab\Merge Files\obj\Debug\net5.0\Merge Files.csproj.CoreCompileInputs.cache
+E:\Projects\C#\Streams, Files and Directories\Streams, Files and Directories -Lab\Merge Files\obj\Debug\net5.0\Merge Files.dll
+E:\Projects\C#\Streams, Files and Directories\Streams, Files and Directories -Lab\Merge Files\obj\Debug\net5.0\ref\Merge Files.dll
+E:\Projects\C#\Streams, Files and Directories\Streams, Files and Directories -Lab\Merge Files\obj\Debug\net5.0\Merge Files.pdb
+E:\Projects\C#\Streams, Files and Directories\Streams, Files and Directories -Lab\Merge Files\obj\Debug\net5.0\Merge Files.genruntimeconfig.cache

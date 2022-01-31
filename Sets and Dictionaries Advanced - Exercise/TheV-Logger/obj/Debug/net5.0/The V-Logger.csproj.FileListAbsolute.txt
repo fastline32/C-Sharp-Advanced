@@ -1,0 +1,16 @@
+E:\Projects\C#\Sets and Dictionaries Advanced - Exercise\Sets and Dictionaries Advanced - Exercise\TheV-Logger\bin\Debug\net5.0\The V-Logger.exe
+E:\Projects\C#\Sets and Dictionaries Advanced - Exercise\Sets and Dictionaries Advanced - Exercise\TheV-Logger\bin\Debug\net5.0\The V-Logger.deps.json
+E:\Projects\C#\Sets and Dictionaries Advanced - Exercise\Sets and Dictionaries Advanced - Exercise\TheV-Logger\bin\Debug\net5.0\The V-Logger.runtimeconfig.json
+E:\Projects\C#\Sets and Dictionaries Advanced - Exercise\Sets and Dictionaries Advanced - Exercise\TheV-Logger\bin\Debug\net5.0\The V-Logger.runtimeconfig.dev.json
+E:\Projects\C#\Sets and Dictionaries Advanced - Exercise\Sets and Dictionaries Advanced - Exercise\TheV-Logger\bin\Debug\net5.0\The V-Logger.dll
+E:\Projects\C#\Sets and Dictionaries Advanced - Exercise\Sets and Dictionaries Advanced - Exercise\TheV-Logger\bin\Debug\net5.0\ref\The V-Logger.dll
+E:\Projects\C#\Sets and Dictionaries Advanced - Exercise\Sets and Dictionaries Advanced - Exercise\TheV-Logger\bin\Debug\net5.0\The V-Logger.pdb
+E:\Projects\C#\Sets and Dictionaries Advanced - Exercise\Sets and Dictionaries Advanced - Exercise\TheV-Logger\obj\Debug\net5.0\The V-Logger.csproj.AssemblyReference.cache
+E:\Projects\C#\Sets and Dictionaries Advanced - Exercise\Sets and Dictionaries Advanced - Exercise\TheV-Logger\obj\Debug\net5.0\The V-Logger.GeneratedMSBuildEditorConfig.editorconfig
+E:\Projects\C#\Sets and Dictionaries Advanced - Exercise\Sets and Dictionaries Advanced - Exercise\TheV-Logger\obj\Debug\net5.0\The V-Logger.AssemblyInfoInputs.cache
+E:\Projects\C#\Sets and Dictionaries Advanced - Exercise\Sets and Dictionaries Advanced - Exercise\TheV-Logger\obj\Debug\net5.0\The V-Logger.AssemblyInfo.cs
+E:\Projects\C#\Sets and Dictionaries Advanced - Exercise\Sets and Dictionaries Advanced - Exercise\TheV-Logger\obj\Debug\net5.0\The V-Logger.csproj.CoreCompileInputs.cache
+E:\Projects\C#\Sets and Dictionaries Advanced - Exercise\Sets and Dictionaries Advanced - Exercise\TheV-Logger\obj\Debug\net5.0\The V-Logger.dll
+E:\Projects\C#\Sets and Dictionaries Advanced - Exercise\Sets and Dictionaries Advanced - Exercise\TheV-Logger\obj\Debug\net5.0\ref\The V-Logger.dll
+E:\Projects\C#\Sets and Dictionaries Advanced - Exercise\Sets and Dictionaries Advanced - Exercise\TheV-Logger\obj\Debug\net5.0\The V-Logger.pdb
+E:\Projects\C#\Sets and Dictionaries Advanced - Exercise\Sets and Dictionaries Advanced - Exercise\TheV-Logger\obj\Debug\net5.0\The V-Logger.genruntimeconfig.cache
