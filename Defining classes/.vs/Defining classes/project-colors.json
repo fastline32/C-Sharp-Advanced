@@ -1,0 +1,31 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "f854d61c-0754-47f0-b912-4b8837b12067": {
+      "ProjectGuid": "f854d61c-0754-47f0-b912-4b8837b12067",
+      "DisplayName": "01. Car",
+      "ColorIndex": 0
+    },
+    "1325f9e3-cdf0-4102-9fad-de41e4841a71": {
+      "ProjectGuid": "1325f9e3-cdf0-4102-9fad-de41e4841a71",
+      "DisplayName": "02. Car Extension",
+      "ColorIndex": 1
+    },
+    "9ca32a26-cfea-4514-a632-133d3b85412b": {
+      "ProjectGuid": "9ca32a26-cfea-4514-a632-133d3b85412b",
+      "DisplayName": "03. Car Constructors",
+      "ColorIndex": 2
+    },
+    "d9661545-8d8e-4521-8aec-d4a5cf74a956": {
+      "ProjectGuid": "d9661545-8d8e-4521-8aec-d4a5cf74a956",
+      "DisplayName": "04. Car Engine And Tires",
+      "ColorIndex": 3
+    },
+    "1fe510a3-35ee-4fcb-82ee-fd7975f920ed": {
+      "ProjectGuid": "1fe510a3-35ee-4fcb-82ee-fd7975f920ed",
+      "DisplayName": "05.SpecialCars",
+      "ColorIndex": 4
+    }
+  },
+  "NextColorIndex": 5
+}

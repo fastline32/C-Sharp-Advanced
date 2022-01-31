@@ -1,0 +1,14 @@
+E:\Projects\C#\Defining Classes\Defining classes\2. Car Extension\bin\Debug\netcoreapp3.1\2. Car Extension.exe
+E:\Projects\C#\Defining Classes\Defining classes\2. Car Extension\bin\Debug\netcoreapp3.1\2. Car Extension.deps.json
+E:\Projects\C#\Defining Classes\Defining classes\2. Car Extension\bin\Debug\netcoreapp3.1\2. Car Extension.runtimeconfig.json
+E:\Projects\C#\Defining Classes\Defining classes\2. Car Extension\bin\Debug\netcoreapp3.1\2. Car Extension.runtimeconfig.dev.json
+E:\Projects\C#\Defining Classes\Defining classes\2. Car Extension\bin\Debug\netcoreapp3.1\2. Car Extension.dll
+E:\Projects\C#\Defining Classes\Defining classes\2. Car Extension\bin\Debug\netcoreapp3.1\2. Car Extension.pdb
+E:\Projects\C#\Defining Classes\Defining classes\2. Car Extension\obj\Debug\netcoreapp3.1\2. Car Extension.csproj.AssemblyReference.cache
+E:\Projects\C#\Defining Classes\Defining classes\2. Car Extension\obj\Debug\netcoreapp3.1\2. Car Extension.GeneratedMSBuildEditorConfig.editorconfig
+E:\Projects\C#\Defining Classes\Defining classes\2. Car Extension\obj\Debug\netcoreapp3.1\2. Car Extension.AssemblyInfoInputs.cache
+E:\Projects\C#\Defining Classes\Defining classes\2. Car Extension\obj\Debug\netcoreapp3.1\2. Car Extension.AssemblyInfo.cs
+E:\Projects\C#\Defining Classes\Defining classes\2. Car Extension\obj\Debug\netcoreapp3.1\2. Car Extension.csproj.CoreCompileInputs.cache
+E:\Projects\C#\Defining Classes\Defining classes\2. Car Extension\obj\Debug\netcoreapp3.1\2. Car Extension.dll
+E:\Projects\C#\Defining Classes\Defining classes\2. Car Extension\obj\Debug\netcoreapp3.1\2. Car Extension.pdb
+E:\Projects\C#\Defining Classes\Defining classes\2. Car Extension\obj\Debug\netcoreapp3.1\2. Car Extension.genruntimeconfig.cache
