@@ -29,7 +29,6 @@ namespace SoftUniParking
         {
             int capacity = this.capacity;
             string regNumber = car.RegistrationNumber;
-            string line = null;
             foreach (var item in Cars)
             {
                 if (item.RegistrationNumber == regNumber)

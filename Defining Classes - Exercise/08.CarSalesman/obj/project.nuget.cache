@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "zJt+DQGVjX+z64E5bZJ0TwUh0+Dbk25Zq9lZwsugD17prSuQlBID8j2p/Ao3X+wDXua3crif/451T/tYdVDqLA==",
+  "dgSpecHash": "kpdMpS3zEmqB4f3thQ5oR7OgNCfvPUVT9PkN4HaEi0K1qC3cvbRsyP9NiK4AhQ6YGfpLmAcwqzTHlFaRzc/COw==",
   "success": true,
-  "projectFilePath": "E:\\Projects\\C#\\Defining Classes\\Defining Classes - Exercise\\08.CarSalesman\\08.CarSalesman.csproj",
+  "projectFilePath": "E:\\C Sharp Advanced\\Defining Classes - Exercise\\08.CarSalesman\\08.CarSalesman.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

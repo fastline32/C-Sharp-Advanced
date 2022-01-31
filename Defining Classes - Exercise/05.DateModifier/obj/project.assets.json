@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "E:\\Projects\\C#\\Defining Classes\\Defining Classes - Exercise\\05.DateModifier\\05.DateModifier.csproj",
+      "projectUniqueName": "E:\\C Sharp Advanced\\Defining Classes - Exercise\\05.DateModifier\\05.DateModifier.csproj",
       "projectName": "05.DateModifier",
-      "projectPath": "E:\\Projects\\C#\\Defining Classes\\Defining Classes - Exercise\\05.DateModifier\\05.DateModifier.csproj",
+      "projectPath": "E:\\C Sharp Advanced\\Defining Classes - Exercise\\05.DateModifier\\05.DateModifier.csproj",
       "packagesPath": "C:\\Users\\Svetoslav\\.nuget\\packages\\",
-      "outputPath": "E:\\Projects\\C#\\Defining Classes\\Defining Classes - Exercise\\05.DateModifier\\obj\\",
+      "outputPath": "E:\\C Sharp Advanced\\Defining Classes - Exercise\\05.DateModifier\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Svetoslav\\AppData\\Roaming\\NuGet\\NuGet.Config",

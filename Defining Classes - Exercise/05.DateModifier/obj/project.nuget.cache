@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "SbVQ5av0SaofAmEOsQJCZWcr6DbEGk01gfXwAXwWU8H9iitcPc5eqMk62X1j4NH5g2fewLcHzvZ8CciU4kNf+g==",
+  "dgSpecHash": "9UuiHVS58rH7w45P9SFtjAqpm1TPzWthvVFniHZmvVqMr7KVN0Brq9tV3YQHbnycP5+zB+ug9NXEhdoB5Tw0qg==",
   "success": true,
-  "projectFilePath": "E:\\Projects\\C#\\Defining Classes\\Defining Classes - Exercise\\05.DateModifier\\05.DateModifier.csproj",
+  "projectFilePath": "E:\\C Sharp Advanced\\Defining Classes - Exercise\\05.DateModifier\\05.DateModifier.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

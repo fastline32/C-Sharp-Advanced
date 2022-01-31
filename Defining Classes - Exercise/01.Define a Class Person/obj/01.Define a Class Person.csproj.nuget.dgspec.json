@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "E:\\Projects\\C#\\Defining Classes\\Defining Classes - Exercise\\01.Define a Class Person\\01.Define a Class Person.csproj": {}
+    "E:\\C Sharp Advanced\\Defining Classes - Exercise\\01.Define a Class Person\\01.Define a Class Person.csproj": {}
   },
   "projects": {
-    "E:\\Projects\\C#\\Defining Classes\\Defining Classes - Exercise\\01.Define a Class Person\\01.Define a Class Person.csproj": {
+    "E:\\C Sharp Advanced\\Defining Classes - Exercise\\01.Define a Class Person\\01.Define a Class Person.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\Projects\\C#\\Defining Classes\\Defining Classes - Exercise\\01.Define a Class Person\\01.Define a Class Person.csproj",
+        "projectUniqueName": "E:\\C Sharp Advanced\\Defining Classes - Exercise\\01.Define a Class Person\\01.Define a Class Person.csproj",
         "projectName": "01.Define a Class Person",
-        "projectPath": "E:\\Projects\\C#\\Defining Classes\\Defining Classes - Exercise\\01.Define a Class Person\\01.Define a Class Person.csproj",
+        "projectPath": "E:\\C Sharp Advanced\\Defining Classes - Exercise\\01.Define a Class Person\\01.Define a Class Person.csproj",
         "packagesPath": "C:\\Users\\Svetoslav\\.nuget\\packages\\",
-        "outputPath": "E:\\Projects\\C#\\Defining Classes\\Defining Classes - Exercise\\01.Define a Class Person\\obj\\",
+        "outputPath": "E:\\C Sharp Advanced\\Defining Classes - Exercise\\01.Define a Class Person\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Svetoslav\\AppData\\Roaming\\NuGet\\NuGet.Config",
