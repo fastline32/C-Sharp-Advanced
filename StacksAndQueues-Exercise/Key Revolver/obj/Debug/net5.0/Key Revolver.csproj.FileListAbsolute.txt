@@ -1,0 +1,16 @@
+E:\Projects\C#\Exercise-StacksAndQueues\Key Revolver\bin\Debug\net5.0\Key Revolver.exe
+E:\Projects\C#\Exercise-StacksAndQueues\Key Revolver\bin\Debug\net5.0\Key Revolver.deps.json
+E:\Projects\C#\Exercise-StacksAndQueues\Key Revolver\bin\Debug\net5.0\Key Revolver.runtimeconfig.json
+E:\Projects\C#\Exercise-StacksAndQueues\Key Revolver\bin\Debug\net5.0\Key Revolver.runtimeconfig.dev.json
+E:\Projects\C#\Exercise-StacksAndQueues\Key Revolver\bin\Debug\net5.0\Key Revolver.dll
+E:\Projects\C#\Exercise-StacksAndQueues\Key Revolver\bin\Debug\net5.0\ref\Key Revolver.dll
+E:\Projects\C#\Exercise-StacksAndQueues\Key Revolver\bin\Debug\net5.0\Key Revolver.pdb
+E:\Projects\C#\Exercise-StacksAndQueues\Key Revolver\obj\Debug\net5.0\Key Revolver.csproj.AssemblyReference.cache
+E:\Projects\C#\Exercise-StacksAndQueues\Key Revolver\obj\Debug\net5.0\Key Revolver.GeneratedMSBuildEditorConfig.editorconfig
+E:\Projects\C#\Exercise-StacksAndQueues\Key Revolver\obj\Debug\net5.0\Key Revolver.AssemblyInfoInputs.cache
+E:\Projects\C#\Exercise-StacksAndQueues\Key Revolver\obj\Debug\net5.0\Key Revolver.AssemblyInfo.cs
+E:\Projects\C#\Exercise-StacksAndQueues\Key Revolver\obj\Debug\net5.0\Key Revolver.csproj.CoreCompileInputs.cache
+E:\Projects\C#\Exercise-StacksAndQueues\Key Revolver\obj\Debug\net5.0\Key Revolver.dll
+E:\Projects\C#\Exercise-StacksAndQueues\Key Revolver\obj\Debug\net5.0\ref\Key Revolver.dll
+E:\Projects\C#\Exercise-StacksAndQueues\Key Revolver\obj\Debug\net5.0\Key Revolver.pdb
+E:\Projects\C#\Exercise-StacksAndQueues\Key Revolver\obj\Debug\net5.0\Key Revolver.genruntimeconfig.cache

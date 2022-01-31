@@ -1,0 +1,66 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "5f2abc7d-1412-4620-ab13-1c292c08fb8c": {
+      "ProjectGuid": "5f2abc7d-1412-4620-ab13-1c292c08fb8c",
+      "DisplayName": "Crossroads",
+      "ColorIndex": 0
+    },
+    "e1128c68-f9aa-4b74-bf98-3ebe7553a9f5": {
+      "ProjectGuid": "e1128c68-f9aa-4b74-bf98-3ebe7553a9f5",
+      "DisplayName": "BalancedParenthesis",
+      "ColorIndex": 1
+    },
+    "122afd53-9275-41d3-9dd6-4f21873324d1": {
+      "ProjectGuid": "122afd53-9275-41d3-9dd6-4f21873324d1",
+      "DisplayName": "BasicQueueOperations",
+      "ColorIndex": 2
+    },
+    "46c4bbe0-0e80-41a0-a4f9-17892f83eda9": {
+      "ProjectGuid": "46c4bbe0-0e80-41a0-a4f9-17892f83eda9",
+      "DisplayName": "BasicStackOperations",
+      "ColorIndex": 3
+    },
+    "aedbd8d9-0872-4ee2-8b2f-c12f203a22cc": {
+      "ProjectGuid": "aedbd8d9-0872-4ee2-8b2f-c12f203a22cc",
+      "DisplayName": "FashionBoutique",
+      "ColorIndex": 4
+    },
+    "43e79378-f2b5-475d-8454-dc334491620f": {
+      "ProjectGuid": "43e79378-f2b5-475d-8454-dc334491620f",
+      "DisplayName": "FastFood",
+      "ColorIndex": 5
+    },
+    "44f2c3fb-ed14-4a2d-a7bb-852e777e5ae3": {
+      "ProjectGuid": "44f2c3fb-ed14-4a2d-a7bb-852e777e5ae3",
+      "DisplayName": "SimpleTextEditor",
+      "ColorIndex": 6
+    },
+    "9ad15113-8622-43f3-aab2-cd6bbc8da4af": {
+      "ProjectGuid": "9ad15113-8622-43f3-aab2-cd6bbc8da4af",
+      "DisplayName": "MaximumAndMinimumElement",
+      "ColorIndex": 7
+    },
+    "d92208c6-d7bc-42d8-9fb3-5f4aa3283e73": {
+      "ProjectGuid": "d92208c6-d7bc-42d8-9fb3-5f4aa3283e73",
+      "DisplayName": "SongsQueue",
+      "ColorIndex": 8
+    },
+    "9ed2c0b9-a8d7-4761-b986-0f7689af3ccf": {
+      "ProjectGuid": "9ed2c0b9-a8d7-4761-b986-0f7689af3ccf",
+      "DisplayName": "TruckTour",
+      "ColorIndex": 9
+    },
+    "a2a9aac7-59b9-453f-a427-7fba54f2b151": {
+      "ProjectGuid": "a2a9aac7-59b9-453f-a427-7fba54f2b151",
+      "DisplayName": "Key Revolver",
+      "ColorIndex": 10
+    },
+    "0a32f826-e000-4417-b098-4eb5527ad2a6": {
+      "ProjectGuid": "0a32f826-e000-4417-b098-4eb5527ad2a6",
+      "DisplayName": "Cups and Bottles",
+      "ColorIndex": 11
+    }
+  },
+  "NextColorIndex": 12
+}

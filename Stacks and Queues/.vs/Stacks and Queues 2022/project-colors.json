@@ -1,0 +1,46 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "28bad6af-c8e8-4fa4-bf0e-60ac566040ef": {
+      "ProjectGuid": "28bad6af-c8e8-4fa4-bf0e-60ac566040ef",
+      "DisplayName": "Reverse Strings",
+      "ColorIndex": 0
+    },
+    "6e6c43c9-aea3-458a-bbe4-fbe770abc0e2": {
+      "ProjectGuid": "6e6c43c9-aea3-458a-bbe4-fbe770abc0e2",
+      "DisplayName": "Stack Sum",
+      "ColorIndex": 1
+    },
+    "ce988b84-a158-4afd-81f6-79630253de3e": {
+      "ProjectGuid": "ce988b84-a158-4afd-81f6-79630253de3e",
+      "DisplayName": "MatchingBracket",
+      "ColorIndex": 2
+    },
+    "fbb72a81-f7ac-49f7-92f9-a6f8857d356f": {
+      "ProjectGuid": "fbb72a81-f7ac-49f7-92f9-a6f8857d356f",
+      "DisplayName": "TrafficJam",
+      "ColorIndex": 3
+    },
+    "ce8d8b70-1510-49a4-9337-9602abf26a1d": {
+      "ProjectGuid": "ce8d8b70-1510-49a4-9337-9602abf26a1d",
+      "DisplayName": "Simple Calculator",
+      "ColorIndex": 4
+    },
+    "cdc8b19a-74e9-4611-965a-50a703083570": {
+      "ProjectGuid": "cdc8b19a-74e9-4611-965a-50a703083570",
+      "DisplayName": "Print Even Numbers",
+      "ColorIndex": 5
+    },
+    "84830dde-3540-4812-a9d0-68783f8d600c": {
+      "ProjectGuid": "84830dde-3540-4812-a9d0-68783f8d600c",
+      "DisplayName": "Supermarket",
+      "ColorIndex": 6
+    },
+    "c18320ae-b378-464e-b896-0abe02b82f94": {
+      "ProjectGuid": "c18320ae-b378-464e-b896-0abe02b82f94",
+      "DisplayName": "Hot Potato",
+      "ColorIndex": 7
+    }
+  },
+  "NextColorIndex": 8
+}

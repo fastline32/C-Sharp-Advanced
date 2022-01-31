@@ -1,0 +1,16 @@
+E:\Projects\C#\Stacks and Queues 2022\Simple Calculator\bin\Debug\net5.0\Simple Calculator.exe
+E:\Projects\C#\Stacks and Queues 2022\Simple Calculator\bin\Debug\net5.0\Simple Calculator.deps.json
+E:\Projects\C#\Stacks and Queues 2022\Simple Calculator\bin\Debug\net5.0\Simple Calculator.runtimeconfig.json
+E:\Projects\C#\Stacks and Queues 2022\Simple Calculator\bin\Debug\net5.0\Simple Calculator.runtimeconfig.dev.json
+E:\Projects\C#\Stacks and Queues 2022\Simple Calculator\bin\Debug\net5.0\Simple Calculator.dll
+E:\Projects\C#\Stacks and Queues 2022\Simple Calculator\bin\Debug\net5.0\ref\Simple Calculator.dll
+E:\Projects\C#\Stacks and Queues 2022\Simple Calculator\bin\Debug\net5.0\Simple Calculator.pdb
+E:\Projects\C#\Stacks and Queues 2022\Simple Calculator\obj\Debug\net5.0\Simple Calculator.csproj.AssemblyReference.cache
+E:\Projects\C#\Stacks and Queues 2022\Simple Calculator\obj\Debug\net5.0\Simple Calculator.GeneratedMSBuildEditorConfig.editorconfig
+E:\Projects\C#\Stacks and Queues 2022\Simple Calculator\obj\Debug\net5.0\Simple Calculator.AssemblyInfoInputs.cache
+E:\Projects\C#\Stacks and Queues 2022\Simple Calculator\obj\Debug\net5.0\Simple Calculator.AssemblyInfo.cs
+E:\Projects\C#\Stacks and Queues 2022\Simple Calculator\obj\Debug\net5.0\Simple Calculator.csproj.CoreCompileInputs.cache
+E:\Projects\C#\Stacks and Queues 2022\Simple Calculator\obj\Debug\net5.0\Simple Calculator.dll
+E:\Projects\C#\Stacks and Queues 2022\Simple Calculator\obj\Debug\net5.0\ref\Simple Calculator.dll
+E:\Projects\C#\Stacks and Queues 2022\Simple Calculator\obj\Debug\net5.0\Simple Calculator.pdb
+E:\Projects\C#\Stacks and Queues 2022\Simple Calculator\obj\Debug\net5.0\Simple Calculator.genruntimeconfig.cache

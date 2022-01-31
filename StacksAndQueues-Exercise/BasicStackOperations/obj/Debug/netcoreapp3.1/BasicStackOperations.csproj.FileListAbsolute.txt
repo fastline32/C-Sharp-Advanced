@@ -1,0 +1,14 @@
+E:\Projects\C#\Exercise-StacksAndQueues\BasicStackOperations\bin\Debug\netcoreapp3.1\BasicStackOperations.exe
+E:\Projects\C#\Exercise-StacksAndQueues\BasicStackOperations\bin\Debug\netcoreapp3.1\BasicStackOperations.deps.json
+E:\Projects\C#\Exercise-StacksAndQueues\BasicStackOperations\bin\Debug\netcoreapp3.1\BasicStackOperations.runtimeconfig.json
+E:\Projects\C#\Exercise-StacksAndQueues\BasicStackOperations\bin\Debug\netcoreapp3.1\BasicStackOperations.runtimeconfig.dev.json
+E:\Projects\C#\Exercise-StacksAndQueues\BasicStackOperations\bin\Debug\netcoreapp3.1\BasicStackOperations.dll
+E:\Projects\C#\Exercise-StacksAndQueues\BasicStackOperations\bin\Debug\netcoreapp3.1\BasicStackOperations.pdb
+E:\Projects\C#\Exercise-StacksAndQueues\BasicStackOperations\obj\Debug\netcoreapp3.1\BasicStackOperations.csproj.AssemblyReference.cache
+E:\Projects\C#\Exercise-StacksAndQueues\BasicStackOperations\obj\Debug\netcoreapp3.1\BasicStackOperations.GeneratedMSBuildEditorConfig.editorconfig
+E:\Projects\C#\Exercise-StacksAndQueues\BasicStackOperations\obj\Debug\netcoreapp3.1\BasicStackOperations.AssemblyInfoInputs.cache
+E:\Projects\C#\Exercise-StacksAndQueues\BasicStackOperations\obj\Debug\netcoreapp3.1\BasicStackOperations.AssemblyInfo.cs
+E:\Projects\C#\Exercise-StacksAndQueues\BasicStackOperations\obj\Debug\netcoreapp3.1\BasicStackOperations.csproj.CoreCompileInputs.cache
+E:\Projects\C#\Exercise-StacksAndQueues\BasicStackOperations\obj\Debug\netcoreapp3.1\BasicStackOperations.dll
+E:\Projects\C#\Exercise-StacksAndQueues\BasicStackOperations\obj\Debug\netcoreapp3.1\BasicStackOperations.pdb
+E:\Projects\C#\Exercise-StacksAndQueues\BasicStackOperations\obj\Debug\netcoreapp3.1\BasicStackOperations.genruntimeconfig.cache

@@ -1,0 +1,16 @@
+E:\Projects\C#\Stacks and Queues 2022\Reverse Strings\bin\Debug\net5.0\Reverse Strings.exe
+E:\Projects\C#\Stacks and Queues 2022\Reverse Strings\bin\Debug\net5.0\Reverse Strings.deps.json
+E:\Projects\C#\Stacks and Queues 2022\Reverse Strings\bin\Debug\net5.0\Reverse Strings.runtimeconfig.json
+E:\Projects\C#\Stacks and Queues 2022\Reverse Strings\bin\Debug\net5.0\Reverse Strings.runtimeconfig.dev.json
+E:\Projects\C#\Stacks and Queues 2022\Reverse Strings\bin\Debug\net5.0\Reverse Strings.dll
+E:\Projects\C#\Stacks and Queues 2022\Reverse Strings\bin\Debug\net5.0\ref\Reverse Strings.dll
+E:\Projects\C#\Stacks and Queues 2022\Reverse Strings\bin\Debug\net5.0\Reverse Strings.pdb
+E:\Projects\C#\Stacks and Queues 2022\Reverse Strings\obj\Debug\net5.0\Reverse Strings.csproj.AssemblyReference.cache
+E:\Projects\C#\Stacks and Queues 2022\Reverse Strings\obj\Debug\net5.0\Reverse Strings.GeneratedMSBuildEditorConfig.editorconfig
+E:\Projects\C#\Stacks and Queues 2022\Reverse Strings\obj\Debug\net5.0\Reverse Strings.AssemblyInfoInputs.cache
+E:\Projects\C#\Stacks and Queues 2022\Reverse Strings\obj\Debug\net5.0\Reverse Strings.AssemblyInfo.cs
+E:\Projects\C#\Stacks and Queues 2022\Reverse Strings\obj\Debug\net5.0\Reverse Strings.csproj.CoreCompileInputs.cache
+E:\Projects\C#\Stacks and Queues 2022\Reverse Strings\obj\Debug\net5.0\Reverse Strings.dll
+E:\Projects\C#\Stacks and Queues 2022\Reverse Strings\obj\Debug\net5.0\ref\Reverse Strings.dll
+E:\Projects\C#\Stacks and Queues 2022\Reverse Strings\obj\Debug\net5.0\Reverse Strings.pdb
+E:\Projects\C#\Stacks and Queues 2022\Reverse Strings\obj\Debug\net5.0\Reverse Strings.genruntimeconfig.cache

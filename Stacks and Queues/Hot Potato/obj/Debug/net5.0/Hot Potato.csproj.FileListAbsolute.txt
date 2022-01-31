@@ -1,0 +1,15 @@
+E:\Projects\C#\Stacks and Queues 2022\Hot Potato\bin\Debug\net5.0\Hot Potato.exe
+E:\Projects\C#\Stacks and Queues 2022\Hot Potato\bin\Debug\net5.0\Hot Potato.deps.json
+E:\Projects\C#\Stacks and Queues 2022\Hot Potato\bin\Debug\net5.0\Hot Potato.runtimeconfig.json
+E:\Projects\C#\Stacks and Queues 2022\Hot Potato\bin\Debug\net5.0\Hot Potato.runtimeconfig.dev.json
+E:\Projects\C#\Stacks and Queues 2022\Hot Potato\bin\Debug\net5.0\Hot Potato.dll
+E:\Projects\C#\Stacks and Queues 2022\Hot Potato\bin\Debug\net5.0\ref\Hot Potato.dll
+E:\Projects\C#\Stacks and Queues 2022\Hot Potato\bin\Debug\net5.0\Hot Potato.pdb
+E:\Projects\C#\Stacks and Queues 2022\Hot Potato\obj\Debug\net5.0\Hot Potato.GeneratedMSBuildEditorConfig.editorconfig
+E:\Projects\C#\Stacks and Queues 2022\Hot Potato\obj\Debug\net5.0\Hot Potato.AssemblyInfoInputs.cache
+E:\Projects\C#\Stacks and Queues 2022\Hot Potato\obj\Debug\net5.0\Hot Potato.AssemblyInfo.cs
+E:\Projects\C#\Stacks and Queues 2022\Hot Potato\obj\Debug\net5.0\Hot Potato.csproj.CoreCompileInputs.cache
+E:\Projects\C#\Stacks and Queues 2022\Hot Potato\obj\Debug\net5.0\Hot Potato.dll
+E:\Projects\C#\Stacks and Queues 2022\Hot Potato\obj\Debug\net5.0\ref\Hot Potato.dll
+E:\Projects\C#\Stacks and Queues 2022\Hot Potato\obj\Debug\net5.0\Hot Potato.pdb
+E:\Projects\C#\Stacks and Queues 2022\Hot Potato\obj\Debug\net5.0\Hot Potato.genruntimeconfig.cache
