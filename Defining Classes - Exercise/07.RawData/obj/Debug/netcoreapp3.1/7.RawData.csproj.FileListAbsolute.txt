@@ -1,0 +1,14 @@
+E:\Projects\C#\Defining Classes\Defining Classes - Exercise\7.RawData\bin\Debug\netcoreapp3.1\7.RawData.exe
+E:\Projects\C#\Defining Classes\Defining Classes - Exercise\7.RawData\bin\Debug\netcoreapp3.1\7.RawData.deps.json
+E:\Projects\C#\Defining Classes\Defining Classes - Exercise\7.RawData\bin\Debug\netcoreapp3.1\7.RawData.runtimeconfig.json
+E:\Projects\C#\Defining Classes\Defining Classes - Exercise\7.RawData\bin\Debug\netcoreapp3.1\7.RawData.runtimeconfig.dev.json
+E:\Projects\C#\Defining Classes\Defining Classes - Exercise\7.RawData\bin\Debug\netcoreapp3.1\7.RawData.dll
+E:\Projects\C#\Defining Classes\Defining Classes - Exercise\7.RawData\bin\Debug\netcoreapp3.1\7.RawData.pdb
+E:\Projects\C#\Defining Classes\Defining Classes - Exercise\7.RawData\obj\Debug\netcoreapp3.1\7.RawData.csproj.AssemblyReference.cache
+E:\Projects\C#\Defining Classes\Defining Classes - Exercise\7.RawData\obj\Debug\netcoreapp3.1\7.RawData.GeneratedMSBuildEditorConfig.editorconfig
+E:\Projects\C#\Defining Classes\Defining Classes - Exercise\7.RawData\obj\Debug\netcoreapp3.1\7.RawData.AssemblyInfoInputs.cache
+E:\Projects\C#\Defining Classes\Defining Classes - Exercise\7.RawData\obj\Debug\netcoreapp3.1\7.RawData.AssemblyInfo.cs
+E:\Projects\C#\Defining Classes\Defining Classes - Exercise\7.RawData\obj\Debug\netcoreapp3.1\7.RawData.csproj.CoreCompileInputs.cache
+E:\Projects\C#\Defining Classes\Defining Classes - Exercise\7.RawData\obj\Debug\netcoreapp3.1\7.RawData.dll
+E:\Projects\C#\Defining Classes\Defining Classes - Exercise\7.RawData\obj\Debug\netcoreapp3.1\7.RawData.pdb
+E:\Projects\C#\Defining Classes\Defining Classes - Exercise\7.RawData\obj\Debug\netcoreapp3.1\7.RawData.genruntimeconfig.cache

@@ -1,0 +1,61 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "ef1b37ed-28d9-4ee5-a24f-ec1bcae15b86": {
+      "ProjectGuid": "ef1b37ed-28d9-4ee5-a24f-ec1bcae15b86",
+      "DisplayName": "01.Define a Class Person",
+      "ColorIndex": 0
+    },
+    "ff7f662f-54c2-4cff-9c61-2a3b054117d1": {
+      "ProjectGuid": "ff7f662f-54c2-4cff-9c61-2a3b054117d1",
+      "DisplayName": "02. Creating Constructors",
+      "ColorIndex": 1
+    },
+    "78249ec7-51f3-4c76-99a9-21df78e1cb76": {
+      "ProjectGuid": "78249ec7-51f3-4c76-99a9-21df78e1cb76",
+      "DisplayName": "03.OldestFamilyMember",
+      "ColorIndex": 2
+    },
+    "4b7f4b14-41d8-4b2b-bf37-ed2ac2b6a132": {
+      "ProjectGuid": "4b7f4b14-41d8-4b2b-bf37-ed2ac2b6a132",
+      "DisplayName": "04.OpinionPoll",
+      "ColorIndex": 3
+    },
+    "7799861d-b162-4f5b-a56d-1ed7712e6994": {
+      "ProjectGuid": "7799861d-b162-4f5b-a56d-1ed7712e6994",
+      "DisplayName": "05.DateModifier",
+      "ColorIndex": 4
+    },
+    "e0b445c5-fa23-430c-9a1b-f4d00639a551": {
+      "ProjectGuid": "e0b445c5-fa23-430c-9a1b-f4d00639a551",
+      "DisplayName": "06.SpeedRacing",
+      "ColorIndex": 5
+    },
+    "49778e8f-f693-4916-94a8-9fc579c78a2c": {
+      "ProjectGuid": "49778e8f-f693-4916-94a8-9fc579c78a2c",
+      "DisplayName": "07.RawData",
+      "ColorIndex": 6
+    },
+    "c32481ca-2b67-46b6-a06b-72ba8d42b917": {
+      "ProjectGuid": "c32481ca-2b67-46b6-a06b-72ba8d42b917",
+      "DisplayName": "08.CarSalesman",
+      "ColorIndex": 7
+    },
+    "641bec33-2594-47a6-8efe-5bf87e91c953": {
+      "ProjectGuid": "641bec33-2594-47a6-8efe-5bf87e91c953",
+      "DisplayName": "09.PokemonTrainer",
+      "ColorIndex": 8
+    },
+    "62eac9cf-6903-4689-ba93-b5995abdc794": {
+      "ProjectGuid": "62eac9cf-6903-4689-ba93-b5995abdc794",
+      "DisplayName": "10.SoftUniParking",
+      "ColorIndex": 9
+    },
+    "c1fc6220-ac6f-434a-a521-ee9f8e1298ef": {
+      "ProjectGuid": "c1fc6220-ac6f-434a-a521-ee9f8e1298ef",
+      "DisplayName": "10.SoftUniParking",
+      "ColorIndex": 10
+    }
+  },
+  "NextColorIndex": 11
+}

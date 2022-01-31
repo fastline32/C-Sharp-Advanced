@@ -1,0 +1,14 @@
+E:\Projects\C#\Defining Classes\Defining Classes - Exercise\4.OpinionPoll\bin\Debug\netcoreapp3.1\4.OpinionPoll.exe
+E:\Projects\C#\Defining Classes\Defining Classes - Exercise\4.OpinionPoll\bin\Debug\netcoreapp3.1\4.OpinionPoll.deps.json
+E:\Projects\C#\Defining Classes\Defining Classes - Exercise\4.OpinionPoll\bin\Debug\netcoreapp3.1\4.OpinionPoll.runtimeconfig.json
+E:\Projects\C#\Defining Classes\Defining Classes - Exercise\4.OpinionPoll\bin\Debug\netcoreapp3.1\4.OpinionPoll.runtimeconfig.dev.json
+E:\Projects\C#\Defining Classes\Defining Classes - Exercise\4.OpinionPoll\bin\Debug\netcoreapp3.1\4.OpinionPoll.dll
+E:\Projects\C#\Defining Classes\Defining Classes - Exercise\4.OpinionPoll\bin\Debug\netcoreapp3.1\4.OpinionPoll.pdb
+E:\Projects\C#\Defining Classes\Defining Classes - Exercise\4.OpinionPoll\obj\Debug\netcoreapp3.1\4.OpinionPoll.csproj.AssemblyReference.cache
+E:\Projects\C#\Defining Classes\Defining Classes - Exercise\4.OpinionPoll\obj\Debug\netcoreapp3.1\4.OpinionPoll.GeneratedMSBuildEditorConfig.editorconfig
+E:\Projects\C#\Defining Classes\Defining Classes - Exercise\4.OpinionPoll\obj\Debug\netcoreapp3.1\4.OpinionPoll.AssemblyInfoInputs.cache
+E:\Projects\C#\Defining Classes\Defining Classes - Exercise\4.OpinionPoll\obj\Debug\netcoreapp3.1\4.OpinionPoll.AssemblyInfo.cs
+E:\Projects\C#\Defining Classes\Defining Classes - Exercise\4.OpinionPoll\obj\Debug\netcoreapp3.1\4.OpinionPoll.csproj.CoreCompileInputs.cache
+E:\Projects\C#\Defining Classes\Defining Classes - Exercise\4.OpinionPoll\obj\Debug\netcoreapp3.1\4.OpinionPoll.dll
+E:\Projects\C#\Defining Classes\Defining Classes - Exercise\4.OpinionPoll\obj\Debug\netcoreapp3.1\4.OpinionPoll.pdb
+E:\Projects\C#\Defining Classes\Defining Classes - Exercise\4.OpinionPoll\obj\Debug\netcoreapp3.1\4.OpinionPoll.genruntimeconfig.cache

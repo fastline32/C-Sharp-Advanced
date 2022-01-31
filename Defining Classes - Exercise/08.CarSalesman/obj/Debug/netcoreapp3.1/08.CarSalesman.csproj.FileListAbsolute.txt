@@ -1,0 +1,14 @@
+E:\Projects\C#\Defining Classes\Defining Classes - Exercise\08.CarSalesman\bin\Debug\netcoreapp3.1\08.CarSalesman.exe
+E:\Projects\C#\Defining Classes\Defining Classes - Exercise\08.CarSalesman\bin\Debug\netcoreapp3.1\08.CarSalesman.deps.json
+E:\Projects\C#\Defining Classes\Defining Classes - Exercise\08.CarSalesman\bin\Debug\netcoreapp3.1\08.CarSalesman.runtimeconfig.json
+E:\Projects\C#\Defining Classes\Defining Classes - Exercise\08.CarSalesman\bin\Debug\netcoreapp3.1\08.CarSalesman.runtimeconfig.dev.json
+E:\Projects\C#\Defining Classes\Defining Classes - Exercise\08.CarSalesman\bin\Debug\netcoreapp3.1\08.CarSalesman.dll
+E:\Projects\C#\Defining Classes\Defining Classes - Exercise\08.CarSalesman\bin\Debug\netcoreapp3.1\08.CarSalesman.pdb
+E:\Projects\C#\Defining Classes\Defining Classes - Exercise\08.CarSalesman\obj\Debug\netcoreapp3.1\08.CarSalesman.csproj.AssemblyReference.cache
+E:\Projects\C#\Defining Classes\Defining Classes - Exercise\08.CarSalesman\obj\Debug\netcoreapp3.1\08.CarSalesman.GeneratedMSBuildEditorConfig.editorconfig
+E:\Projects\C#\Defining Classes\Defining Classes - Exercise\08.CarSalesman\obj\Debug\netcoreapp3.1\08.CarSalesman.AssemblyInfoInputs.cache
+E:\Projects\C#\Defining Classes\Defining Classes - Exercise\08.CarSalesman\obj\Debug\netcoreapp3.1\08.CarSalesman.AssemblyInfo.cs
+E:\Projects\C#\Defining Classes\Defining Classes - Exercise\08.CarSalesman\obj\Debug\netcoreapp3.1\08.CarSalesman.csproj.CoreCompileInputs.cache
+E:\Projects\C#\Defining Classes\Defining Classes - Exercise\08.CarSalesman\obj\Debug\netcoreapp3.1\08.CarSalesman.dll
+E:\Projects\C#\Defining Classes\Defining Classes - Exercise\08.CarSalesman\obj\Debug\netcoreapp3.1\08.CarSalesman.pdb
+E:\Projects\C#\Defining Classes\Defining Classes - Exercise\08.CarSalesman\obj\Debug\netcoreapp3.1\08.CarSalesman.genruntimeconfig.cache
