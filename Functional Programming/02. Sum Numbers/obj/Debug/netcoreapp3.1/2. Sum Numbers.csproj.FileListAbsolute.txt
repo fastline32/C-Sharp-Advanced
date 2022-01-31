@@ -1,0 +1,14 @@
+E:\Projects\C#\Functional Programming\2. Sum Numbers\bin\Debug\netcoreapp3.1\2. Sum Numbers.exe
+E:\Projects\C#\Functional Programming\2. Sum Numbers\bin\Debug\netcoreapp3.1\2. Sum Numbers.deps.json
+E:\Projects\C#\Functional Programming\2. Sum Numbers\bin\Debug\netcoreapp3.1\2. Sum Numbers.runtimeconfig.json
+E:\Projects\C#\Functional Programming\2. Sum Numbers\bin\Debug\netcoreapp3.1\2. Sum Numbers.runtimeconfig.dev.json
+E:\Projects\C#\Functional Programming\2. Sum Numbers\bin\Debug\netcoreapp3.1\2. Sum Numbers.dll
+E:\Projects\C#\Functional Programming\2. Sum Numbers\bin\Debug\netcoreapp3.1\2. Sum Numbers.pdb
+E:\Projects\C#\Functional Programming\2. Sum Numbers\obj\Debug\netcoreapp3.1\2. Sum Numbers.csproj.AssemblyReference.cache
+E:\Projects\C#\Functional Programming\2. Sum Numbers\obj\Debug\netcoreapp3.1\2. Sum Numbers.GeneratedMSBuildEditorConfig.editorconfig
+E:\Projects\C#\Functional Programming\2. Sum Numbers\obj\Debug\netcoreapp3.1\2. Sum Numbers.AssemblyInfoInputs.cache
+E:\Projects\C#\Functional Programming\2. Sum Numbers\obj\Debug\netcoreapp3.1\2. Sum Numbers.AssemblyInfo.cs
+E:\Projects\C#\Functional Programming\2. Sum Numbers\obj\Debug\netcoreapp3.1\2. Sum Numbers.csproj.CoreCompileInputs.cache
+E:\Projects\C#\Functional Programming\2. Sum Numbers\obj\Debug\netcoreapp3.1\2. Sum Numbers.dll
+E:\Projects\C#\Functional Programming\2. Sum Numbers\obj\Debug\netcoreapp3.1\2. Sum Numbers.pdb
+E:\Projects\C#\Functional Programming\2. Sum Numbers\obj\Debug\netcoreapp3.1\2. Sum Numbers.genruntimeconfig.cache

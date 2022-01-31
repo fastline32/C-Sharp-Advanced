@@ -1,0 +1,14 @@
+E:\Projects\C#\Functional Programming - Exercise\02. Knights of Honor\bin\Debug\netcoreapp3.1\02. Knights of Honor.exe
+E:\Projects\C#\Functional Programming - Exercise\02. Knights of Honor\bin\Debug\netcoreapp3.1\02. Knights of Honor.deps.json
+E:\Projects\C#\Functional Programming - Exercise\02. Knights of Honor\bin\Debug\netcoreapp3.1\02. Knights of Honor.runtimeconfig.json
+E:\Projects\C#\Functional Programming - Exercise\02. Knights of Honor\bin\Debug\netcoreapp3.1\02. Knights of Honor.runtimeconfig.dev.json
+E:\Projects\C#\Functional Programming - Exercise\02. Knights of Honor\bin\Debug\netcoreapp3.1\02. Knights of Honor.dll
+E:\Projects\C#\Functional Programming - Exercise\02. Knights of Honor\bin\Debug\netcoreapp3.1\02. Knights of Honor.pdb
+E:\Projects\C#\Functional Programming - Exercise\02. Knights of Honor\obj\Debug\netcoreapp3.1\02. Knights of Honor.csproj.AssemblyReference.cache
+E:\Projects\C#\Functional Programming - Exercise\02. Knights of Honor\obj\Debug\netcoreapp3.1\02. Knights of Honor.GeneratedMSBuildEditorConfig.editorconfig
+E:\Projects\C#\Functional Programming - Exercise\02. Knights of Honor\obj\Debug\netcoreapp3.1\02. Knights of Honor.AssemblyInfoInputs.cache
+E:\Projects\C#\Functional Programming - Exercise\02. Knights of Honor\obj\Debug\netcoreapp3.1\02. Knights of Honor.AssemblyInfo.cs
+E:\Projects\C#\Functional Programming - Exercise\02. Knights of Honor\obj\Debug\netcoreapp3.1\02. Knights of Honor.csproj.CoreCompileInputs.cache
+E:\Projects\C#\Functional Programming - Exercise\02. Knights of Honor\obj\Debug\netcoreapp3.1\02. Knights of Honor.dll
+E:\Projects\C#\Functional Programming - Exercise\02. Knights of Honor\obj\Debug\netcoreapp3.1\02. Knights of Honor.pdb
+E:\Projects\C#\Functional Programming - Exercise\02. Knights of Honor\obj\Debug\netcoreapp3.1\02. Knights of Honor.genruntimeconfig.cache

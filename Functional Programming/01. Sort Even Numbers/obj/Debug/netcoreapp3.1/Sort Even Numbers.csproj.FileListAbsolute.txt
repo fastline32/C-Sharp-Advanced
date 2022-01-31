@@ -1,0 +1,14 @@
+E:\Projects\C#\Functional Programming\Sort Even Numbers\bin\Debug\netcoreapp3.1\Sort Even Numbers.exe
+E:\Projects\C#\Functional Programming\Sort Even Numbers\bin\Debug\netcoreapp3.1\Sort Even Numbers.deps.json
+E:\Projects\C#\Functional Programming\Sort Even Numbers\bin\Debug\netcoreapp3.1\Sort Even Numbers.runtimeconfig.json
+E:\Projects\C#\Functional Programming\Sort Even Numbers\bin\Debug\netcoreapp3.1\Sort Even Numbers.runtimeconfig.dev.json
+E:\Projects\C#\Functional Programming\Sort Even Numbers\bin\Debug\netcoreapp3.1\Sort Even Numbers.dll
+E:\Projects\C#\Functional Programming\Sort Even Numbers\bin\Debug\netcoreapp3.1\Sort Even Numbers.pdb
+E:\Projects\C#\Functional Programming\Sort Even Numbers\obj\Debug\netcoreapp3.1\Sort Even Numbers.csproj.AssemblyReference.cache
+E:\Projects\C#\Functional Programming\Sort Even Numbers\obj\Debug\netcoreapp3.1\Sort Even Numbers.GeneratedMSBuildEditorConfig.editorconfig
+E:\Projects\C#\Functional Programming\Sort Even Numbers\obj\Debug\netcoreapp3.1\Sort Even Numbers.AssemblyInfoInputs.cache
+E:\Projects\C#\Functional Programming\Sort Even Numbers\obj\Debug\netcoreapp3.1\Sort Even Numbers.AssemblyInfo.cs
+E:\Projects\C#\Functional Programming\Sort Even Numbers\obj\Debug\netcoreapp3.1\Sort Even Numbers.csproj.CoreCompileInputs.cache
+E:\Projects\C#\Functional Programming\Sort Even Numbers\obj\Debug\netcoreapp3.1\Sort Even Numbers.dll
+E:\Projects\C#\Functional Programming\Sort Even Numbers\obj\Debug\netcoreapp3.1\Sort Even Numbers.pdb
+E:\Projects\C#\Functional Programming\Sort Even Numbers\obj\Debug\netcoreapp3.1\Sort Even Numbers.genruntimeconfig.cache

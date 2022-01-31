@@ -1,0 +1,14 @@
+E:\Projects\C#\Functional Programming - Exercise\01. Action Point\bin\Debug\netcoreapp3.1\01. Action Point.exe
+E:\Projects\C#\Functional Programming - Exercise\01. Action Point\bin\Debug\netcoreapp3.1\01. Action Point.deps.json
+E:\Projects\C#\Functional Programming - Exercise\01. Action Point\bin\Debug\netcoreapp3.1\01. Action Point.runtimeconfig.json
+E:\Projects\C#\Functional Programming - Exercise\01. Action Point\bin\Debug\netcoreapp3.1\01. Action Point.runtimeconfig.dev.json
+E:\Projects\C#\Functional Programming - Exercise\01. Action Point\bin\Debug\netcoreapp3.1\01. Action Point.dll
+E:\Projects\C#\Functional Programming - Exercise\01. Action Point\bin\Debug\netcoreapp3.1\01. Action Point.pdb
+E:\Projects\C#\Functional Programming - Exercise\01. Action Point\obj\Debug\netcoreapp3.1\01. Action Point.csproj.AssemblyReference.cache
+E:\Projects\C#\Functional Programming - Exercise\01. Action Point\obj\Debug\netcoreapp3.1\01. Action Point.GeneratedMSBuildEditorConfig.editorconfig
+E:\Projects\C#\Functional Programming - Exercise\01. Action Point\obj\Debug\netcoreapp3.1\01. Action Point.AssemblyInfoInputs.cache
+E:\Projects\C#\Functional Programming - Exercise\01. Action Point\obj\Debug\netcoreapp3.1\01. Action Point.AssemblyInfo.cs
+E:\Projects\C#\Functional Programming - Exercise\01. Action Point\obj\Debug\netcoreapp3.1\01. Action Point.csproj.CoreCompileInputs.cache
+E:\Projects\C#\Functional Programming - Exercise\01. Action Point\obj\Debug\netcoreapp3.1\01. Action Point.dll
+E:\Projects\C#\Functional Programming - Exercise\01. Action Point\obj\Debug\netcoreapp3.1\01. Action Point.pdb
+E:\Projects\C#\Functional Programming - Exercise\01. Action Point\obj\Debug\netcoreapp3.1\01. Action Point.genruntimeconfig.cache

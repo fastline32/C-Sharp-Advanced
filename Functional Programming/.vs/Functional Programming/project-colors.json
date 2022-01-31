@@ -1,0 +1,31 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "a642bf13-0af0-421d-8ed0-12b80a0e5f85": {
+      "ProjectGuid": "a642bf13-0af0-421d-8ed0-12b80a0e5f85",
+      "DisplayName": "Sort Even Numbers",
+      "ColorIndex": 0
+    },
+    "e5fa1779-3f8a-4e3b-9f8b-6f9bdad44318": {
+      "ProjectGuid": "e5fa1779-3f8a-4e3b-9f8b-6f9bdad44318",
+      "DisplayName": "2. Sum Numbers",
+      "ColorIndex": 1
+    },
+    "0f9f8781-c1fa-429b-be64-f291a7b45a92": {
+      "ProjectGuid": "0f9f8781-c1fa-429b-be64-f291a7b45a92",
+      "DisplayName": "03. Count Uppercase Words",
+      "ColorIndex": 2
+    },
+    "21fd5643-83c8-40dc-b294-5632a83f52eb": {
+      "ProjectGuid": "21fd5643-83c8-40dc-b294-5632a83f52eb",
+      "DisplayName": "4. Add VAT",
+      "ColorIndex": 3
+    },
+    "b188d12a-6811-4196-935c-2d09a9ad170d": {
+      "ProjectGuid": "b188d12a-6811-4196-935c-2d09a9ad170d",
+      "DisplayName": "5. Filter By Age",
+      "ColorIndex": 4
+    }
+  },
+  "NextColorIndex": 5
+}

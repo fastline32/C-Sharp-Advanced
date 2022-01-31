@@ -1,0 +1,21 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "c374b2d7-627d-4213-9ef9-e37710b71fa9": {
+      "ProjectGuid": "c374b2d7-627d-4213-9ef9-e37710b71fa9",
+      "DisplayName": "01. Action Point",
+      "ColorIndex": 0
+    },
+    "03c8d8e8-be9e-4b69-8567-419ccac2e7bf": {
+      "ProjectGuid": "03c8d8e8-be9e-4b69-8567-419ccac2e7bf",
+      "DisplayName": "02. Knights of Honor",
+      "ColorIndex": 1
+    },
+    "54f8353d-0528-4196-898d-9b63b2b8e0ba": {
+      "ProjectGuid": "54f8353d-0528-4196-898d-9b63b2b8e0ba",
+      "DisplayName": "03. Custom Min Function",
+      "ColorIndex": 2
+    }
+  },
+  "NextColorIndex": 3
+}
