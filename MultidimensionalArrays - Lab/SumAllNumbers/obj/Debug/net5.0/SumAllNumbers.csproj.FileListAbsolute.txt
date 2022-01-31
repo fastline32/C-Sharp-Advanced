@@ -1,0 +1,16 @@
+E:\Projects\C#\Multidimensional Arrays\MultidimensionalArraysOperations\SumAllNumbers\bin\Debug\net5.0\SumAllNumbers.exe
+E:\Projects\C#\Multidimensional Arrays\MultidimensionalArraysOperations\SumAllNumbers\bin\Debug\net5.0\SumAllNumbers.deps.json
+E:\Projects\C#\Multidimensional Arrays\MultidimensionalArraysOperations\SumAllNumbers\bin\Debug\net5.0\SumAllNumbers.runtimeconfig.json
+E:\Projects\C#\Multidimensional Arrays\MultidimensionalArraysOperations\SumAllNumbers\bin\Debug\net5.0\SumAllNumbers.runtimeconfig.dev.json
+E:\Projects\C#\Multidimensional Arrays\MultidimensionalArraysOperations\SumAllNumbers\bin\Debug\net5.0\SumAllNumbers.dll
+E:\Projects\C#\Multidimensional Arrays\MultidimensionalArraysOperations\SumAllNumbers\bin\Debug\net5.0\ref\SumAllNumbers.dll
+E:\Projects\C#\Multidimensional Arrays\MultidimensionalArraysOperations\SumAllNumbers\bin\Debug\net5.0\SumAllNumbers.pdb
+E:\Projects\C#\Multidimensional Arrays\MultidimensionalArraysOperations\SumAllNumbers\obj\Debug\net5.0\SumAllNumbers.csproj.AssemblyReference.cache
+E:\Projects\C#\Multidimensional Arrays\MultidimensionalArraysOperations\SumAllNumbers\obj\Debug\net5.0\SumAllNumbers.GeneratedMSBuildEditorConfig.editorconfig
+E:\Projects\C#\Multidimensional Arrays\MultidimensionalArraysOperations\SumAllNumbers\obj\Debug\net5.0\SumAllNumbers.AssemblyInfoInputs.cache
+E:\Projects\C#\Multidimensional Arrays\MultidimensionalArraysOperations\SumAllNumbers\obj\Debug\net5.0\SumAllNumbers.AssemblyInfo.cs
+E:\Projects\C#\Multidimensional Arrays\MultidimensionalArraysOperations\SumAllNumbers\obj\Debug\net5.0\SumAllNumbers.csproj.CoreCompileInputs.cache
+E:\Projects\C#\Multidimensional Arrays\MultidimensionalArraysOperations\SumAllNumbers\obj\Debug\net5.0\SumAllNumbers.dll
+E:\Projects\C#\Multidimensional Arrays\MultidimensionalArraysOperations\SumAllNumbers\obj\Debug\net5.0\ref\SumAllNumbers.dll
+E:\Projects\C#\Multidimensional Arrays\MultidimensionalArraysOperations\SumAllNumbers\obj\Debug\net5.0\SumAllNumbers.pdb
+E:\Projects\C#\Multidimensional Arrays\MultidimensionalArraysOperations\SumAllNumbers\obj\Debug\net5.0\SumAllNumbers.genruntimeconfig.cache

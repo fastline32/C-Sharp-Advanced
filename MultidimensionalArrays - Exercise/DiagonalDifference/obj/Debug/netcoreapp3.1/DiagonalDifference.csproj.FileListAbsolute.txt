@@ -1,0 +1,14 @@
+E:\Projects\C#\MultidimensionalArraysLab\DiagonalDifference\bin\Debug\netcoreapp3.1\DiagonalDifference.exe
+E:\Projects\C#\MultidimensionalArraysLab\DiagonalDifference\bin\Debug\netcoreapp3.1\DiagonalDifference.deps.json
+E:\Projects\C#\MultidimensionalArraysLab\DiagonalDifference\bin\Debug\netcoreapp3.1\DiagonalDifference.runtimeconfig.json
+E:\Projects\C#\MultidimensionalArraysLab\DiagonalDifference\bin\Debug\netcoreapp3.1\DiagonalDifference.runtimeconfig.dev.json
+E:\Projects\C#\MultidimensionalArraysLab\DiagonalDifference\bin\Debug\netcoreapp3.1\DiagonalDifference.dll
+E:\Projects\C#\MultidimensionalArraysLab\DiagonalDifference\bin\Debug\netcoreapp3.1\DiagonalDifference.pdb
+E:\Projects\C#\MultidimensionalArraysLab\DiagonalDifference\obj\Debug\netcoreapp3.1\DiagonalDifference.csproj.AssemblyReference.cache
+E:\Projects\C#\MultidimensionalArraysLab\DiagonalDifference\obj\Debug\netcoreapp3.1\DiagonalDifference.GeneratedMSBuildEditorConfig.editorconfig
+E:\Projects\C#\MultidimensionalArraysLab\DiagonalDifference\obj\Debug\netcoreapp3.1\DiagonalDifference.AssemblyInfoInputs.cache
+E:\Projects\C#\MultidimensionalArraysLab\DiagonalDifference\obj\Debug\netcoreapp3.1\DiagonalDifference.AssemblyInfo.cs
+E:\Projects\C#\MultidimensionalArraysLab\DiagonalDifference\obj\Debug\netcoreapp3.1\DiagonalDifference.csproj.CoreCompileInputs.cache
+E:\Projects\C#\MultidimensionalArraysLab\DiagonalDifference\obj\Debug\netcoreapp3.1\DiagonalDifference.dll
+E:\Projects\C#\MultidimensionalArraysLab\DiagonalDifference\obj\Debug\netcoreapp3.1\DiagonalDifference.pdb
+E:\Projects\C#\MultidimensionalArraysLab\DiagonalDifference\obj\Debug\netcoreapp3.1\DiagonalDifference.genruntimeconfig.cache

@@ -1,0 +1,16 @@
+E:\Projects\C#\Multidimensional Arrays\MultidimensionalArraysOperations\SquareWithMaxSum\bin\Debug\net5.0\SquareWithMaxSum.exe
+E:\Projects\C#\Multidimensional Arrays\MultidimensionalArraysOperations\SquareWithMaxSum\bin\Debug\net5.0\SquareWithMaxSum.deps.json
+E:\Projects\C#\Multidimensional Arrays\MultidimensionalArraysOperations\SquareWithMaxSum\bin\Debug\net5.0\SquareWithMaxSum.runtimeconfig.json
+E:\Projects\C#\Multidimensional Arrays\MultidimensionalArraysOperations\SquareWithMaxSum\bin\Debug\net5.0\SquareWithMaxSum.runtimeconfig.dev.json
+E:\Projects\C#\Multidimensional Arrays\MultidimensionalArraysOperations\SquareWithMaxSum\bin\Debug\net5.0\SquareWithMaxSum.dll
+E:\Projects\C#\Multidimensional Arrays\MultidimensionalArraysOperations\SquareWithMaxSum\bin\Debug\net5.0\ref\SquareWithMaxSum.dll
+E:\Projects\C#\Multidimensional Arrays\MultidimensionalArraysOperations\SquareWithMaxSum\bin\Debug\net5.0\SquareWithMaxSum.pdb
+E:\Projects\C#\Multidimensional Arrays\MultidimensionalArraysOperations\SquareWithMaxSum\obj\Debug\net5.0\SquareWithMaxSum.csproj.AssemblyReference.cache
+E:\Projects\C#\Multidimensional Arrays\MultidimensionalArraysOperations\SquareWithMaxSum\obj\Debug\net5.0\SquareWithMaxSum.GeneratedMSBuildEditorConfig.editorconfig
+E:\Projects\C#\Multidimensional Arrays\MultidimensionalArraysOperations\SquareWithMaxSum\obj\Debug\net5.0\SquareWithMaxSum.AssemblyInfoInputs.cache
+E:\Projects\C#\Multidimensional Arrays\MultidimensionalArraysOperations\SquareWithMaxSum\obj\Debug\net5.0\SquareWithMaxSum.AssemblyInfo.cs
+E:\Projects\C#\Multidimensional Arrays\MultidimensionalArraysOperations\SquareWithMaxSum\obj\Debug\net5.0\SquareWithMaxSum.csproj.CoreCompileInputs.cache
+E:\Projects\C#\Multidimensional Arrays\MultidimensionalArraysOperations\SquareWithMaxSum\obj\Debug\net5.0\SquareWithMaxSum.dll
+E:\Projects\C#\Multidimensional Arrays\MultidimensionalArraysOperations\SquareWithMaxSum\obj\Debug\net5.0\ref\SquareWithMaxSum.dll
+E:\Projects\C#\Multidimensional Arrays\MultidimensionalArraysOperations\SquareWithMaxSum\obj\Debug\net5.0\SquareWithMaxSum.pdb
+E:\Projects\C#\Multidimensional Arrays\MultidimensionalArraysOperations\SquareWithMaxSum\obj\Debug\net5.0\SquareWithMaxSum.genruntimeconfig.cache

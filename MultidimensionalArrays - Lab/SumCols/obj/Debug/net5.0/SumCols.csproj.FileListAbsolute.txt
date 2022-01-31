@@ -1,0 +1,16 @@
+E:\Projects\C#\Multidimensional Arrays\MultidimensionalArraysOperations\SumCols\bin\Debug\net5.0\SumCols.exe
+E:\Projects\C#\Multidimensional Arrays\MultidimensionalArraysOperations\SumCols\bin\Debug\net5.0\SumCols.deps.json
+E:\Projects\C#\Multidimensional Arrays\MultidimensionalArraysOperations\SumCols\bin\Debug\net5.0\SumCols.runtimeconfig.json
+E:\Projects\C#\Multidimensional Arrays\MultidimensionalArraysOperations\SumCols\bin\Debug\net5.0\SumCols.runtimeconfig.dev.json
+E:\Projects\C#\Multidimensional Arrays\MultidimensionalArraysOperations\SumCols\bin\Debug\net5.0\SumCols.dll
+E:\Projects\C#\Multidimensional Arrays\MultidimensionalArraysOperations\SumCols\bin\Debug\net5.0\ref\SumCols.dll
+E:\Projects\C#\Multidimensional Arrays\MultidimensionalArraysOperations\SumCols\bin\Debug\net5.0\SumCols.pdb
+E:\Projects\C#\Multidimensional Arrays\MultidimensionalArraysOperations\SumCols\obj\Debug\net5.0\SumCols.csproj.AssemblyReference.cache
+E:\Projects\C#\Multidimensional Arrays\MultidimensionalArraysOperations\SumCols\obj\Debug\net5.0\SumCols.GeneratedMSBuildEditorConfig.editorconfig
+E:\Projects\C#\Multidimensional Arrays\MultidimensionalArraysOperations\SumCols\obj\Debug\net5.0\SumCols.AssemblyInfoInputs.cache
+E:\Projects\C#\Multidimensional Arrays\MultidimensionalArraysOperations\SumCols\obj\Debug\net5.0\SumCols.AssemblyInfo.cs
+E:\Projects\C#\Multidimensional Arrays\MultidimensionalArraysOperations\SumCols\obj\Debug\net5.0\SumCols.csproj.CoreCompileInputs.cache
+E:\Projects\C#\Multidimensional Arrays\MultidimensionalArraysOperations\SumCols\obj\Debug\net5.0\SumCols.dll
+E:\Projects\C#\Multidimensional Arrays\MultidimensionalArraysOperations\SumCols\obj\Debug\net5.0\ref\SumCols.dll
+E:\Projects\C#\Multidimensional Arrays\MultidimensionalArraysOperations\SumCols\obj\Debug\net5.0\SumCols.pdb
+E:\Projects\C#\Multidimensional Arrays\MultidimensionalArraysOperations\SumCols\obj\Debug\net5.0\SumCols.genruntimeconfig.cache

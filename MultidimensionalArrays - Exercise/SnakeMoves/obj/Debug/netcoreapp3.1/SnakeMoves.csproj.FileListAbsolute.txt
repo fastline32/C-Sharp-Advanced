@@ -1,0 +1,14 @@
+E:\Projects\C#\MultidimensionalArraysLab\SnakeMoves\bin\Debug\netcoreapp3.1\SnakeMoves.exe
+E:\Projects\C#\MultidimensionalArraysLab\SnakeMoves\bin\Debug\netcoreapp3.1\SnakeMoves.deps.json
+E:\Projects\C#\MultidimensionalArraysLab\SnakeMoves\bin\Debug\netcoreapp3.1\SnakeMoves.runtimeconfig.json
+E:\Projects\C#\MultidimensionalArraysLab\SnakeMoves\bin\Debug\netcoreapp3.1\SnakeMoves.runtimeconfig.dev.json
+E:\Projects\C#\MultidimensionalArraysLab\SnakeMoves\bin\Debug\netcoreapp3.1\SnakeMoves.dll
+E:\Projects\C#\MultidimensionalArraysLab\SnakeMoves\bin\Debug\netcoreapp3.1\SnakeMoves.pdb
+E:\Projects\C#\MultidimensionalArraysLab\SnakeMoves\obj\Debug\netcoreapp3.1\SnakeMoves.csproj.AssemblyReference.cache
+E:\Projects\C#\MultidimensionalArraysLab\SnakeMoves\obj\Debug\netcoreapp3.1\SnakeMoves.GeneratedMSBuildEditorConfig.editorconfig
+E:\Projects\C#\MultidimensionalArraysLab\SnakeMoves\obj\Debug\netcoreapp3.1\SnakeMoves.AssemblyInfoInputs.cache
+E:\Projects\C#\MultidimensionalArraysLab\SnakeMoves\obj\Debug\netcoreapp3.1\SnakeMoves.AssemblyInfo.cs
+E:\Projects\C#\MultidimensionalArraysLab\SnakeMoves\obj\Debug\netcoreapp3.1\SnakeMoves.csproj.CoreCompileInputs.cache
+E:\Projects\C#\MultidimensionalArraysLab\SnakeMoves\obj\Debug\netcoreapp3.1\SnakeMoves.dll
+E:\Projects\C#\MultidimensionalArraysLab\SnakeMoves\obj\Debug\netcoreapp3.1\SnakeMoves.pdb
+E:\Projects\C#\MultidimensionalArraysLab\SnakeMoves\obj\Debug\netcoreapp3.1\SnakeMoves.genruntimeconfig.cache

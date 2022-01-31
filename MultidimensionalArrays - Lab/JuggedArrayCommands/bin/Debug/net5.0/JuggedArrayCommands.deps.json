@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "JuggedArrayCommands/1.0.0": {
+        "runtime": {
+          "JuggedArrayCommands.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "JuggedArrayCommands/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

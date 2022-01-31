@@ -1,0 +1,16 @@
+E:\Projects\C#\Multidimensional Arrays\MultidimensionalArraysOperations\JuggedArrayCommands\bin\Debug\net5.0\JuggedArrayCommands.exe
+E:\Projects\C#\Multidimensional Arrays\MultidimensionalArraysOperations\JuggedArrayCommands\bin\Debug\net5.0\JuggedArrayCommands.deps.json
+E:\Projects\C#\Multidimensional Arrays\MultidimensionalArraysOperations\JuggedArrayCommands\bin\Debug\net5.0\JuggedArrayCommands.runtimeconfig.json
+E:\Projects\C#\Multidimensional Arrays\MultidimensionalArraysOperations\JuggedArrayCommands\bin\Debug\net5.0\JuggedArrayCommands.runtimeconfig.dev.json
+E:\Projects\C#\Multidimensional Arrays\MultidimensionalArraysOperations\JuggedArrayCommands\bin\Debug\net5.0\JuggedArrayCommands.dll
+E:\Projects\C#\Multidimensional Arrays\MultidimensionalArraysOperations\JuggedArrayCommands\bin\Debug\net5.0\ref\JuggedArrayCommands.dll
+E:\Projects\C#\Multidimensional Arrays\MultidimensionalArraysOperations\JuggedArrayCommands\bin\Debug\net5.0\JuggedArrayCommands.pdb
+E:\Projects\C#\Multidimensional Arrays\MultidimensionalArraysOperations\JuggedArrayCommands\obj\Debug\net5.0\JuggedArrayCommands.GeneratedMSBuildEditorConfig.editorconfig
+E:\Projects\C#\Multidimensional Arrays\MultidimensionalArraysOperations\JuggedArrayCommands\obj\Debug\net5.0\JuggedArrayCommands.AssemblyInfoInputs.cache
+E:\Projects\C#\Multidimensional Arrays\MultidimensionalArraysOperations\JuggedArrayCommands\obj\Debug\net5.0\JuggedArrayCommands.AssemblyInfo.cs
+E:\Projects\C#\Multidimensional Arrays\MultidimensionalArraysOperations\JuggedArrayCommands\obj\Debug\net5.0\JuggedArrayCommands.csproj.CoreCompileInputs.cache
+E:\Projects\C#\Multidimensional Arrays\MultidimensionalArraysOperations\JuggedArrayCommands\obj\Debug\net5.0\JuggedArrayCommands.dll
+E:\Projects\C#\Multidimensional Arrays\MultidimensionalArraysOperations\JuggedArrayCommands\obj\Debug\net5.0\ref\JuggedArrayCommands.dll
+E:\Projects\C#\Multidimensional Arrays\MultidimensionalArraysOperations\JuggedArrayCommands\obj\Debug\net5.0\JuggedArrayCommands.pdb
+E:\Projects\C#\Multidimensional Arrays\MultidimensionalArraysOperations\JuggedArrayCommands\obj\Debug\net5.0\JuggedArrayCommands.genruntimeconfig.cache
+E:\Projects\C#\Multidimensional Arrays\MultidimensionalArraysOperations\JuggedArrayCommands\obj\Debug\net5.0\JuggedArrayCommands.csproj.AssemblyReference.cache

@@ -1,0 +1,56 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "74d53ce1-00d9-4ddf-be57-29199906c11e": {
+      "ProjectGuid": "74d53ce1-00d9-4ddf-be57-29199906c11e",
+      "DisplayName": "DiagonalDifference",
+      "ColorIndex": 0
+    },
+    "f91c066c-1a2a-42c8-82f9-c92f91473250": {
+      "ProjectGuid": "f91c066c-1a2a-42c8-82f9-c92f91473250",
+      "DisplayName": "2X2 Squares in Matrix",
+      "ColorIndex": 1
+    },
+    "8c202ba3-2708-4679-9821-1f2dec96b775": {
+      "ProjectGuid": "8c202ba3-2708-4679-9821-1f2dec96b775",
+      "DisplayName": "MaximalSum",
+      "ColorIndex": 2
+    },
+    "72f2b88e-6b9e-4347-946e-b4218fee5e06": {
+      "ProjectGuid": "72f2b88e-6b9e-4347-946e-b4218fee5e06",
+      "DisplayName": "MatrixShuffling",
+      "ColorIndex": 3
+    },
+    "487fcd6a-4cd8-4fc0-8f9e-b6ceb3e22e9a": {
+      "ProjectGuid": "487fcd6a-4cd8-4fc0-8f9e-b6ceb3e22e9a",
+      "DisplayName": "SnakeMoves",
+      "ColorIndex": 4
+    },
+    "c5dc80eb-65e9-4ba0-a244-bd723e433f9f": {
+      "ProjectGuid": "c5dc80eb-65e9-4ba0-a244-bd723e433f9f",
+      "DisplayName": "JaggedArrayManipulator",
+      "ColorIndex": 5
+    },
+    "d329f808-7117-483c-b3f8-ef9a495ba928": {
+      "ProjectGuid": "d329f808-7117-483c-b3f8-ef9a495ba928",
+      "DisplayName": "KnightGame",
+      "ColorIndex": 6
+    },
+    "80f23c26-b5fb-4ed2-b715-aa3e372af6a3": {
+      "ProjectGuid": "80f23c26-b5fb-4ed2-b715-aa3e372af6a3",
+      "DisplayName": "Bombs",
+      "ColorIndex": 7
+    },
+    "b66c600c-4c1b-420f-8512-3735e1d5b464": {
+      "ProjectGuid": "b66c600c-4c1b-420f-8512-3735e1d5b464",
+      "DisplayName": "Miner",
+      "ColorIndex": 8
+    },
+    "de8d0932-acc7-4ec2-9e1e-28f67cb8aa9b": {
+      "ProjectGuid": "de8d0932-acc7-4ec2-9e1e-28f67cb8aa9b",
+      "DisplayName": "Radioactive Mutant Vampire Bunnies",
+      "ColorIndex": 9
+    }
+  },
+  "NextColorIndex": 10
+}

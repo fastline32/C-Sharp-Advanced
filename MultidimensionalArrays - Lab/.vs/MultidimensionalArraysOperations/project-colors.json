@@ -1,0 +1,41 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "a4804aac-e9d4-4598-aba7-ae279c93add7": {
+      "ProjectGuid": "a4804aac-e9d4-4598-aba7-ae279c93add7",
+      "DisplayName": "SumAllNumbers",
+      "ColorIndex": 0
+    },
+    "8595baea-7183-46c3-8174-82d19006dc86": {
+      "ProjectGuid": "8595baea-7183-46c3-8174-82d19006dc86",
+      "DisplayName": "SumCols",
+      "ColorIndex": 1
+    },
+    "80124377-0249-4c78-8c87-7c5640f3466e": {
+      "ProjectGuid": "80124377-0249-4c78-8c87-7c5640f3466e",
+      "DisplayName": "SquareWithMaxSum",
+      "ColorIndex": 2
+    },
+    "d6ee5f66-dbb1-4cfd-81ff-099ceb35e570": {
+      "ProjectGuid": "d6ee5f66-dbb1-4cfd-81ff-099ceb35e570",
+      "DisplayName": "JuggedArrayCommands",
+      "ColorIndex": 3
+    },
+    "4ab9c14a-808c-47e3-9a37-fdf7cda8d091": {
+      "ProjectGuid": "4ab9c14a-808c-47e3-9a37-fdf7cda8d091",
+      "DisplayName": "PascalTriangle",
+      "ColorIndex": 4
+    },
+    "c17bcd66-9f4d-49af-bd52-ad4854dbabf3": {
+      "ProjectGuid": "c17bcd66-9f4d-49af-bd52-ad4854dbabf3",
+      "DisplayName": "Primary Diagonal",
+      "ColorIndex": 5
+    },
+    "14744031-de93-40ff-88cb-c7b921691a35": {
+      "ProjectGuid": "14744031-de93-40ff-88cb-c7b921691a35",
+      "DisplayName": "Symbol in Matrix",
+      "ColorIndex": 6
+    }
+  },
+  "NextColorIndex": 7
+}

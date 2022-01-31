@@ -1,0 +1,15 @@
+E:\Projects\C#\Multidimensional Arrays\MultidimensionalArraysOperations\PascalTriangle\bin\Debug\net5.0\PascalTriangle.exe
+E:\Projects\C#\Multidimensional Arrays\MultidimensionalArraysOperations\PascalTriangle\bin\Debug\net5.0\PascalTriangle.deps.json
+E:\Projects\C#\Multidimensional Arrays\MultidimensionalArraysOperations\PascalTriangle\bin\Debug\net5.0\PascalTriangle.runtimeconfig.json
+E:\Projects\C#\Multidimensional Arrays\MultidimensionalArraysOperations\PascalTriangle\bin\Debug\net5.0\PascalTriangle.runtimeconfig.dev.json
+E:\Projects\C#\Multidimensional Arrays\MultidimensionalArraysOperations\PascalTriangle\bin\Debug\net5.0\PascalTriangle.dll
+E:\Projects\C#\Multidimensional Arrays\MultidimensionalArraysOperations\PascalTriangle\bin\Debug\net5.0\ref\PascalTriangle.dll
+E:\Projects\C#\Multidimensional Arrays\MultidimensionalArraysOperations\PascalTriangle\bin\Debug\net5.0\PascalTriangle.pdb
+E:\Projects\C#\Multidimensional Arrays\MultidimensionalArraysOperations\PascalTriangle\obj\Debug\net5.0\PascalTriangle.GeneratedMSBuildEditorConfig.editorconfig
+E:\Projects\C#\Multidimensional Arrays\MultidimensionalArraysOperations\PascalTriangle\obj\Debug\net5.0\PascalTriangle.AssemblyInfoInputs.cache
+E:\Projects\C#\Multidimensional Arrays\MultidimensionalArraysOperations\PascalTriangle\obj\Debug\net5.0\PascalTriangle.AssemblyInfo.cs
+E:\Projects\C#\Multidimensional Arrays\MultidimensionalArraysOperations\PascalTriangle\obj\Debug\net5.0\PascalTriangle.csproj.CoreCompileInputs.cache
+E:\Projects\C#\Multidimensional Arrays\MultidimensionalArraysOperations\PascalTriangle\obj\Debug\net5.0\PascalTriangle.dll
+E:\Projects\C#\Multidimensional Arrays\MultidimensionalArraysOperations\PascalTriangle\obj\Debug\net5.0\ref\PascalTriangle.dll
+E:\Projects\C#\Multidimensional Arrays\MultidimensionalArraysOperations\PascalTriangle\obj\Debug\net5.0\PascalTriangle.pdb
+E:\Projects\C#\Multidimensional Arrays\MultidimensionalArraysOperations\PascalTriangle\obj\Debug\net5.0\PascalTriangle.genruntimeconfig.cache

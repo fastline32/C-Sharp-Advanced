@@ -1,0 +1,16 @@
+E:\Projects\C#\Multidimensional Arrays\MultidimensionalArraysOperations\Symbol in Matrix\bin\Debug\net5.0\Symbol in Matrix.exe
+E:\Projects\C#\Multidimensional Arrays\MultidimensionalArraysOperations\Symbol in Matrix\bin\Debug\net5.0\Symbol in Matrix.deps.json
+E:\Projects\C#\Multidimensional Arrays\MultidimensionalArraysOperations\Symbol in Matrix\bin\Debug\net5.0\Symbol in Matrix.runtimeconfig.json
+E:\Projects\C#\Multidimensional Arrays\MultidimensionalArraysOperations\Symbol in Matrix\bin\Debug\net5.0\Symbol in Matrix.runtimeconfig.dev.json
+E:\Projects\C#\Multidimensional Arrays\MultidimensionalArraysOperations\Symbol in Matrix\bin\Debug\net5.0\Symbol in Matrix.dll
+E:\Projects\C#\Multidimensional Arrays\MultidimensionalArraysOperations\Symbol in Matrix\bin\Debug\net5.0\ref\Symbol in Matrix.dll
+E:\Projects\C#\Multidimensional Arrays\MultidimensionalArraysOperations\Symbol in Matrix\bin\Debug\net5.0\Symbol in Matrix.pdb
+E:\Projects\C#\Multidimensional Arrays\MultidimensionalArraysOperations\Symbol in Matrix\obj\Debug\net5.0\Symbol in Matrix.csproj.AssemblyReference.cache
+E:\Projects\C#\Multidimensional Arrays\MultidimensionalArraysOperations\Symbol in Matrix\obj\Debug\net5.0\Symbol in Matrix.GeneratedMSBuildEditorConfig.editorconfig
+E:\Projects\C#\Multidimensional Arrays\MultidimensionalArraysOperations\Symbol in Matrix\obj\Debug\net5.0\Symbol in Matrix.AssemblyInfoInputs.cache
+E:\Projects\C#\Multidimensional Arrays\MultidimensionalArraysOperations\Symbol in Matrix\obj\Debug\net5.0\Symbol in Matrix.AssemblyInfo.cs
+E:\Projects\C#\Multidimensional Arrays\MultidimensionalArraysOperations\Symbol in Matrix\obj\Debug\net5.0\Symbol in Matrix.csproj.CoreCompileInputs.cache
+E:\Projects\C#\Multidimensional Arrays\MultidimensionalArraysOperations\Symbol in Matrix\obj\Debug\net5.0\Symbol in Matrix.dll
+E:\Projects\C#\Multidimensional Arrays\MultidimensionalArraysOperations\Symbol in Matrix\obj\Debug\net5.0\ref\Symbol in Matrix.dll
+E:\Projects\C#\Multidimensional Arrays\MultidimensionalArraysOperations\Symbol in Matrix\obj\Debug\net5.0\Symbol in Matrix.pdb
+E:\Projects\C#\Multidimensional Arrays\MultidimensionalArraysOperations\Symbol in Matrix\obj\Debug\net5.0\Symbol in Matrix.genruntimeconfig.cache
