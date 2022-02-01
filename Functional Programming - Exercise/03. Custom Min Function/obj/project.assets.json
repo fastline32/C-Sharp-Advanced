@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "E:\\Projects\\C#\\Functional Programming - Exercise\\03. Custom Min Function\\03. Custom Min Function.csproj",
+      "projectUniqueName": "E:\\C Sharp Advanced\\Functional Programming - Exercise\\03. Custom Min Function\\03. Custom Min Function.csproj",
       "projectName": "03. Custom Min Function",
-      "projectPath": "E:\\Projects\\C#\\Functional Programming - Exercise\\03. Custom Min Function\\03. Custom Min Function.csproj",
+      "projectPath": "E:\\C Sharp Advanced\\Functional Programming - Exercise\\03. Custom Min Function\\03. Custom Min Function.csproj",
       "packagesPath": "C:\\Users\\Svetoslav\\.nuget\\packages\\",
-      "outputPath": "E:\\Projects\\C#\\Functional Programming - Exercise\\03. Custom Min Function\\obj\\",
+      "outputPath": "E:\\C Sharp Advanced\\Functional Programming - Exercise\\03. Custom Min Function\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Svetoslav\\AppData\\Roaming\\NuGet\\NuGet.Config",

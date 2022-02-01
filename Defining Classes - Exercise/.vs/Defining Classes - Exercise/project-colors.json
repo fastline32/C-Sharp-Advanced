@@ -55,6 +55,11 @@
       "ProjectGuid": "c1fc6220-ac6f-434a-a521-ee9f8e1298ef",
       "DisplayName": "10.SoftUniParking",
       "ColorIndex": 10
+    },
+    "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3": {
+      "ProjectGuid": "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3",
+      "DisplayName": "Miscellaneous Files",
+      "ColorIndex": -1
     }
   },
   "NextColorIndex": 11

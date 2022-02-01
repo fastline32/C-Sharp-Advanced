@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "E:\\Projects\\C#\\Functional Programming - Exercise\\01. Action Point\\01. Action Point.csproj",
+      "projectUniqueName": "E:\\C Sharp Advanced\\Functional Programming - Exercise\\01. Action Point\\01. Action Point.csproj",
       "projectName": "01. Action Point",
-      "projectPath": "E:\\Projects\\C#\\Functional Programming - Exercise\\01. Action Point\\01. Action Point.csproj",
+      "projectPath": "E:\\C Sharp Advanced\\Functional Programming - Exercise\\01. Action Point\\01. Action Point.csproj",
       "packagesPath": "C:\\Users\\Svetoslav\\.nuget\\packages\\",
-      "outputPath": "E:\\Projects\\C#\\Functional Programming - Exercise\\01. Action Point\\obj\\",
+      "outputPath": "E:\\C Sharp Advanced\\Functional Programming - Exercise\\01. Action Point\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Svetoslav\\AppData\\Roaming\\NuGet\\NuGet.Config",

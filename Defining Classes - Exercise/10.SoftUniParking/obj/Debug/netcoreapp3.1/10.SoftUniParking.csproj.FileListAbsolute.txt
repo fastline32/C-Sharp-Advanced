@@ -12,3 +12,17 @@ E:\Projects\C#\Defining Classes\Defining Classes - Exercise\10.SoftUniParking\ob
 E:\Projects\C#\Defining Classes\Defining Classes - Exercise\10.SoftUniParking\obj\Debug\netcoreapp3.1\10.SoftUniParking.dll
 E:\Projects\C#\Defining Classes\Defining Classes - Exercise\10.SoftUniParking\obj\Debug\netcoreapp3.1\10.SoftUniParking.pdb
 E:\Projects\C#\Defining Classes\Defining Classes - Exercise\10.SoftUniParking\obj\Debug\netcoreapp3.1\10.SoftUniParking.genruntimeconfig.cache
+E:\C Sharp Advanced\Defining Classes - Exercise\10.SoftUniParking\bin\Debug\netcoreapp3.1\10.SoftUniParking.exe
+E:\C Sharp Advanced\Defining Classes - Exercise\10.SoftUniParking\bin\Debug\netcoreapp3.1\10.SoftUniParking.deps.json
+E:\C Sharp Advanced\Defining Classes - Exercise\10.SoftUniParking\bin\Debug\netcoreapp3.1\10.SoftUniParking.runtimeconfig.json
+E:\C Sharp Advanced\Defining Classes - Exercise\10.SoftUniParking\bin\Debug\netcoreapp3.1\10.SoftUniParking.runtimeconfig.dev.json
+E:\C Sharp Advanced\Defining Classes - Exercise\10.SoftUniParking\bin\Debug\netcoreapp3.1\10.SoftUniParking.dll
+E:\C Sharp Advanced\Defining Classes - Exercise\10.SoftUniParking\bin\Debug\netcoreapp3.1\10.SoftUniParking.pdb
+E:\C Sharp Advanced\Defining Classes - Exercise\10.SoftUniParking\obj\Debug\netcoreapp3.1\10.SoftUniParking.csproj.AssemblyReference.cache
+E:\C Sharp Advanced\Defining Classes - Exercise\10.SoftUniParking\obj\Debug\netcoreapp3.1\10.SoftUniParking.GeneratedMSBuildEditorConfig.editorconfig
+E:\C Sharp Advanced\Defining Classes - Exercise\10.SoftUniParking\obj\Debug\netcoreapp3.1\10.SoftUniParking.AssemblyInfoInputs.cache
+E:\C Sharp Advanced\Defining Classes - Exercise\10.SoftUniParking\obj\Debug\netcoreapp3.1\10.SoftUniParking.AssemblyInfo.cs
+E:\C Sharp Advanced\Defining Classes - Exercise\10.SoftUniParking\obj\Debug\netcoreapp3.1\10.SoftUniParking.csproj.CoreCompileInputs.cache
+E:\C Sharp Advanced\Defining Classes - Exercise\10.SoftUniParking\obj\Debug\netcoreapp3.1\10.SoftUniParking.dll
+E:\C Sharp Advanced\Defining Classes - Exercise\10.SoftUniParking\obj\Debug\netcoreapp3.1\10.SoftUniParking.pdb
+E:\C Sharp Advanced\Defining Classes - Exercise\10.SoftUniParking\obj\Debug\netcoreapp3.1\10.SoftUniParking.genruntimeconfig.cache
