@@ -1,0 +1,14 @@
+E:\C Sharp Advanced\Implementing Linked List\Custom Doubly Linked List\bin\Debug\netcoreapp3.1\Custom Doubly Linked List.exe
+E:\C Sharp Advanced\Implementing Linked List\Custom Doubly Linked List\bin\Debug\netcoreapp3.1\Custom Doubly Linked List.deps.json
+E:\C Sharp Advanced\Implementing Linked List\Custom Doubly Linked List\bin\Debug\netcoreapp3.1\Custom Doubly Linked List.runtimeconfig.json
+E:\C Sharp Advanced\Implementing Linked List\Custom Doubly Linked List\bin\Debug\netcoreapp3.1\Custom Doubly Linked List.runtimeconfig.dev.json
+E:\C Sharp Advanced\Implementing Linked List\Custom Doubly Linked List\bin\Debug\netcoreapp3.1\Custom Doubly Linked List.dll
+E:\C Sharp Advanced\Implementing Linked List\Custom Doubly Linked List\bin\Debug\netcoreapp3.1\Custom Doubly Linked List.pdb
+E:\C Sharp Advanced\Implementing Linked List\Custom Doubly Linked List\obj\Debug\netcoreapp3.1\Custom Doubly Linked List.csproj.AssemblyReference.cache
+E:\C Sharp Advanced\Implementing Linked List\Custom Doubly Linked List\obj\Debug\netcoreapp3.1\Custom Doubly Linked List.GeneratedMSBuildEditorConfig.editorconfig
+E:\C Sharp Advanced\Implementing Linked List\Custom Doubly Linked List\obj\Debug\netcoreapp3.1\Custom Doubly Linked List.AssemblyInfoInputs.cache
+E:\C Sharp Advanced\Implementing Linked List\Custom Doubly Linked List\obj\Debug\netcoreapp3.1\Custom Doubly Linked List.AssemblyInfo.cs
+E:\C Sharp Advanced\Implementing Linked List\Custom Doubly Linked List\obj\Debug\netcoreapp3.1\Custom Doubly Linked List.csproj.CoreCompileInputs.cache
+E:\C Sharp Advanced\Implementing Linked List\Custom Doubly Linked List\obj\Debug\netcoreapp3.1\Custom Doubly Linked List.dll
+E:\C Sharp Advanced\Implementing Linked List\Custom Doubly Linked List\obj\Debug\netcoreapp3.1\Custom Doubly Linked List.pdb
+E:\C Sharp Advanced\Implementing Linked List\Custom Doubly Linked List\obj\Debug\netcoreapp3.1\Custom Doubly Linked List.genruntimeconfig.cache

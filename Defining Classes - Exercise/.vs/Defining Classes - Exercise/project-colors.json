@@ -60,7 +60,12 @@
       "ProjectGuid": "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3",
       "DisplayName": "Miscellaneous Files",
       "ColorIndex": -1
+    },
+    "0a4bf2a5-9e95-46cc-83d1-72b55062246e": {
+      "ProjectGuid": "0a4bf2a5-9e95-46cc-83d1-72b55062246e",
+      "DisplayName": "Custom Doubly Linked List",
+      "ColorIndex": 11
     }
   },
-  "NextColorIndex": 11
+  "NextColorIndex": 12
 }
