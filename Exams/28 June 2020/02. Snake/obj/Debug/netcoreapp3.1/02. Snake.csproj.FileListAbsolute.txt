@@ -1,0 +1,14 @@
+E:\C Sharp Advanced\Exams\28 June 2020\02. Snake\bin\Debug\netcoreapp3.1\02. Snake.exe
+E:\C Sharp Advanced\Exams\28 June 2020\02. Snake\bin\Debug\netcoreapp3.1\02. Snake.deps.json
+E:\C Sharp Advanced\Exams\28 June 2020\02. Snake\bin\Debug\netcoreapp3.1\02. Snake.runtimeconfig.json
+E:\C Sharp Advanced\Exams\28 June 2020\02. Snake\bin\Debug\netcoreapp3.1\02. Snake.runtimeconfig.dev.json
+E:\C Sharp Advanced\Exams\28 June 2020\02. Snake\bin\Debug\netcoreapp3.1\02. Snake.dll
+E:\C Sharp Advanced\Exams\28 June 2020\02. Snake\bin\Debug\netcoreapp3.1\02. Snake.pdb
+E:\C Sharp Advanced\Exams\28 June 2020\02. Snake\obj\Debug\netcoreapp3.1\02. Snake.csproj.AssemblyReference.cache
+E:\C Sharp Advanced\Exams\28 June 2020\02. Snake\obj\Debug\netcoreapp3.1\02. Snake.GeneratedMSBuildEditorConfig.editorconfig
+E:\C Sharp Advanced\Exams\28 June 2020\02. Snake\obj\Debug\netcoreapp3.1\02. Snake.AssemblyInfoInputs.cache
+E:\C Sharp Advanced\Exams\28 June 2020\02. Snake\obj\Debug\netcoreapp3.1\02. Snake.AssemblyInfo.cs
+E:\C Sharp Advanced\Exams\28 June 2020\02. Snake\obj\Debug\netcoreapp3.1\02. Snake.csproj.CoreCompileInputs.cache
+E:\C Sharp Advanced\Exams\28 June 2020\02. Snake\obj\Debug\netcoreapp3.1\02. Snake.dll
+E:\C Sharp Advanced\Exams\28 June 2020\02. Snake\obj\Debug\netcoreapp3.1\02. Snake.pdb
+E:\C Sharp Advanced\Exams\28 June 2020\02. Snake\obj\Debug\netcoreapp3.1\02. Snake.genruntimeconfig.cache
