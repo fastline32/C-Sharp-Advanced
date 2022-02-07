@@ -1,0 +1,14 @@
+E:\C Sharp Advanced\Exams\28 June 2020\03.Parking\bin\Debug\netcoreapp3.1\03.Parking.exe
+E:\C Sharp Advanced\Exams\28 June 2020\03.Parking\bin\Debug\netcoreapp3.1\03.Parking.deps.json
+E:\C Sharp Advanced\Exams\28 June 2020\03.Parking\bin\Debug\netcoreapp3.1\03.Parking.runtimeconfig.json
+E:\C Sharp Advanced\Exams\28 June 2020\03.Parking\bin\Debug\netcoreapp3.1\03.Parking.runtimeconfig.dev.json
+E:\C Sharp Advanced\Exams\28 June 2020\03.Parking\bin\Debug\netcoreapp3.1\03.Parking.dll
+E:\C Sharp Advanced\Exams\28 June 2020\03.Parking\bin\Debug\netcoreapp3.1\03.Parking.pdb
+E:\C Sharp Advanced\Exams\28 June 2020\03.Parking\obj\Debug\netcoreapp3.1\03.Parking.csproj.AssemblyReference.cache
+E:\C Sharp Advanced\Exams\28 June 2020\03.Parking\obj\Debug\netcoreapp3.1\03.Parking.GeneratedMSBuildEditorConfig.editorconfig
+E:\C Sharp Advanced\Exams\28 June 2020\03.Parking\obj\Debug\netcoreapp3.1\03.Parking.AssemblyInfoInputs.cache
+E:\C Sharp Advanced\Exams\28 June 2020\03.Parking\obj\Debug\netcoreapp3.1\03.Parking.AssemblyInfo.cs
+E:\C Sharp Advanced\Exams\28 June 2020\03.Parking\obj\Debug\netcoreapp3.1\03.Parking.csproj.CoreCompileInputs.cache
+E:\C Sharp Advanced\Exams\28 June 2020\03.Parking\obj\Debug\netcoreapp3.1\03.Parking.dll
+E:\C Sharp Advanced\Exams\28 June 2020\03.Parking\obj\Debug\netcoreapp3.1\03.Parking.pdb
+E:\C Sharp Advanced\Exams\28 June 2020\03.Parking\obj\Debug\netcoreapp3.1\03.Parking.genruntimeconfig.cache
