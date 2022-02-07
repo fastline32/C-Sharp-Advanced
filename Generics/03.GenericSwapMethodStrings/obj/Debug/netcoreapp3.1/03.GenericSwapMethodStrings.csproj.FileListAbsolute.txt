@@ -1,0 +1,14 @@
+E:\C Sharp Advanced\Generics\03.GenericSwapMethodStrings\bin\Debug\netcoreapp3.1\03.GenericSwapMethodStrings.exe
+E:\C Sharp Advanced\Generics\03.GenericSwapMethodStrings\bin\Debug\netcoreapp3.1\03.GenericSwapMethodStrings.deps.json
+E:\C Sharp Advanced\Generics\03.GenericSwapMethodStrings\bin\Debug\netcoreapp3.1\03.GenericSwapMethodStrings.runtimeconfig.json
+E:\C Sharp Advanced\Generics\03.GenericSwapMethodStrings\bin\Debug\netcoreapp3.1\03.GenericSwapMethodStrings.runtimeconfig.dev.json
+E:\C Sharp Advanced\Generics\03.GenericSwapMethodStrings\bin\Debug\netcoreapp3.1\03.GenericSwapMethodStrings.dll
+E:\C Sharp Advanced\Generics\03.GenericSwapMethodStrings\bin\Debug\netcoreapp3.1\03.GenericSwapMethodStrings.pdb
+E:\C Sharp Advanced\Generics\03.GenericSwapMethodStrings\obj\Debug\netcoreapp3.1\03.GenericSwapMethodStrings.csproj.AssemblyReference.cache
+E:\C Sharp Advanced\Generics\03.GenericSwapMethodStrings\obj\Debug\netcoreapp3.1\03.GenericSwapMethodStrings.GeneratedMSBuildEditorConfig.editorconfig
+E:\C Sharp Advanced\Generics\03.GenericSwapMethodStrings\obj\Debug\netcoreapp3.1\03.GenericSwapMethodStrings.AssemblyInfoInputs.cache
+E:\C Sharp Advanced\Generics\03.GenericSwapMethodStrings\obj\Debug\netcoreapp3.1\03.GenericSwapMethodStrings.AssemblyInfo.cs
+E:\C Sharp Advanced\Generics\03.GenericSwapMethodStrings\obj\Debug\netcoreapp3.1\03.GenericSwapMethodStrings.csproj.CoreCompileInputs.cache
+E:\C Sharp Advanced\Generics\03.GenericSwapMethodStrings\obj\Debug\netcoreapp3.1\03.GenericSwapMethodStrings.dll
+E:\C Sharp Advanced\Generics\03.GenericSwapMethodStrings\obj\Debug\netcoreapp3.1\03.GenericSwapMethodStrings.pdb
+E:\C Sharp Advanced\Generics\03.GenericSwapMethodStrings\obj\Debug\netcoreapp3.1\03.GenericSwapMethodStrings.genruntimeconfig.cache
