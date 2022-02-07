@@ -1,0 +1,14 @@
+E:\C Sharp Advanced\Generics\01. Generic Box of String\bin\Debug\netcoreapp3.1\01. Generic Box of String.exe
+E:\C Sharp Advanced\Generics\01. Generic Box of String\bin\Debug\netcoreapp3.1\01. Generic Box of String.deps.json
+E:\C Sharp Advanced\Generics\01. Generic Box of String\bin\Debug\netcoreapp3.1\01. Generic Box of String.runtimeconfig.json
+E:\C Sharp Advanced\Generics\01. Generic Box of String\bin\Debug\netcoreapp3.1\01. Generic Box of String.runtimeconfig.dev.json
+E:\C Sharp Advanced\Generics\01. Generic Box of String\bin\Debug\netcoreapp3.1\01. Generic Box of String.dll
+E:\C Sharp Advanced\Generics\01. Generic Box of String\bin\Debug\netcoreapp3.1\01. Generic Box of String.pdb
+E:\C Sharp Advanced\Generics\01. Generic Box of String\obj\Debug\netcoreapp3.1\01. Generic Box of String.csproj.AssemblyReference.cache
+E:\C Sharp Advanced\Generics\01. Generic Box of String\obj\Debug\netcoreapp3.1\01. Generic Box of String.GeneratedMSBuildEditorConfig.editorconfig
+E:\C Sharp Advanced\Generics\01. Generic Box of String\obj\Debug\netcoreapp3.1\01. Generic Box of String.AssemblyInfoInputs.cache
+E:\C Sharp Advanced\Generics\01. Generic Box of String\obj\Debug\netcoreapp3.1\01. Generic Box of String.AssemblyInfo.cs
+E:\C Sharp Advanced\Generics\01. Generic Box of String\obj\Debug\netcoreapp3.1\01. Generic Box of String.csproj.CoreCompileInputs.cache
+E:\C Sharp Advanced\Generics\01. Generic Box of String\obj\Debug\netcoreapp3.1\01. Generic Box of String.dll
+E:\C Sharp Advanced\Generics\01. Generic Box of String\obj\Debug\netcoreapp3.1\01. Generic Box of String.pdb
+E:\C Sharp Advanced\Generics\01. Generic Box of String\obj\Debug\netcoreapp3.1\01. Generic Box of String.genruntimeconfig.cache

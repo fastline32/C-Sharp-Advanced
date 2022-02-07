@@ -1,0 +1,13 @@
+E:\C Sharp Advanced\Generics\02.GenericBoxofInteger\bin\Debug\netcoreapp3.1\02.GenericBoxofInteger.exe
+E:\C Sharp Advanced\Generics\02.GenericBoxofInteger\bin\Debug\netcoreapp3.1\02.GenericBoxofInteger.deps.json
+E:\C Sharp Advanced\Generics\02.GenericBoxofInteger\bin\Debug\netcoreapp3.1\02.GenericBoxofInteger.runtimeconfig.json
+E:\C Sharp Advanced\Generics\02.GenericBoxofInteger\bin\Debug\netcoreapp3.1\02.GenericBoxofInteger.runtimeconfig.dev.json
+E:\C Sharp Advanced\Generics\02.GenericBoxofInteger\bin\Debug\netcoreapp3.1\02.GenericBoxofInteger.dll
+E:\C Sharp Advanced\Generics\02.GenericBoxofInteger\bin\Debug\netcoreapp3.1\02.GenericBoxofInteger.pdb
+E:\C Sharp Advanced\Generics\02.GenericBoxofInteger\obj\Debug\netcoreapp3.1\02.GenericBoxofInteger.GeneratedMSBuildEditorConfig.editorconfig
+E:\C Sharp Advanced\Generics\02.GenericBoxofInteger\obj\Debug\netcoreapp3.1\02.GenericBoxofInteger.AssemblyInfoInputs.cache
+E:\C Sharp Advanced\Generics\02.GenericBoxofInteger\obj\Debug\netcoreapp3.1\02.GenericBoxofInteger.AssemblyInfo.cs
+E:\C Sharp Advanced\Generics\02.GenericBoxofInteger\obj\Debug\netcoreapp3.1\02.GenericBoxofInteger.csproj.CoreCompileInputs.cache
+E:\C Sharp Advanced\Generics\02.GenericBoxofInteger\obj\Debug\netcoreapp3.1\02.GenericBoxofInteger.dll
+E:\C Sharp Advanced\Generics\02.GenericBoxofInteger\obj\Debug\netcoreapp3.1\02.GenericBoxofInteger.pdb
+E:\C Sharp Advanced\Generics\02.GenericBoxofInteger\obj\Debug\netcoreapp3.1\02.GenericBoxofInteger.genruntimeconfig.cache
