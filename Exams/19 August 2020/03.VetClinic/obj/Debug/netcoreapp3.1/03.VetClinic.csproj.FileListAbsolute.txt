@@ -1,0 +1,14 @@
+E:\C Sharp Advanced\Exams\19 August 2020\03.VetClinic\bin\Debug\netcoreapp3.1\03.VetClinic.exe
+E:\C Sharp Advanced\Exams\19 August 2020\03.VetClinic\bin\Debug\netcoreapp3.1\03.VetClinic.deps.json
+E:\C Sharp Advanced\Exams\19 August 2020\03.VetClinic\bin\Debug\netcoreapp3.1\03.VetClinic.runtimeconfig.json
+E:\C Sharp Advanced\Exams\19 August 2020\03.VetClinic\bin\Debug\netcoreapp3.1\03.VetClinic.runtimeconfig.dev.json
+E:\C Sharp Advanced\Exams\19 August 2020\03.VetClinic\bin\Debug\netcoreapp3.1\03.VetClinic.dll
+E:\C Sharp Advanced\Exams\19 August 2020\03.VetClinic\bin\Debug\netcoreapp3.1\03.VetClinic.pdb
+E:\C Sharp Advanced\Exams\19 August 2020\03.VetClinic\obj\Debug\netcoreapp3.1\03.VetClinic.csproj.AssemblyReference.cache
+E:\C Sharp Advanced\Exams\19 August 2020\03.VetClinic\obj\Debug\netcoreapp3.1\03.VetClinic.GeneratedMSBuildEditorConfig.editorconfig
+E:\C Sharp Advanced\Exams\19 August 2020\03.VetClinic\obj\Debug\netcoreapp3.1\03.VetClinic.AssemblyInfoInputs.cache
+E:\C Sharp Advanced\Exams\19 August 2020\03.VetClinic\obj\Debug\netcoreapp3.1\03.VetClinic.AssemblyInfo.cs
+E:\C Sharp Advanced\Exams\19 August 2020\03.VetClinic\obj\Debug\netcoreapp3.1\03.VetClinic.csproj.CoreCompileInputs.cache
+E:\C Sharp Advanced\Exams\19 August 2020\03.VetClinic\obj\Debug\netcoreapp3.1\03.VetClinic.dll
+E:\C Sharp Advanced\Exams\19 August 2020\03.VetClinic\obj\Debug\netcoreapp3.1\03.VetClinic.pdb
+E:\C Sharp Advanced\Exams\19 August 2020\03.VetClinic\obj\Debug\netcoreapp3.1\03.VetClinic.genruntimeconfig.cache
