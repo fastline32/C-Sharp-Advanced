@@ -1,0 +1,14 @@
+E:\C Sharp Advanced\Exams\16 December 2020\02. Selling\bin\Debug\netcoreapp3.1\02. Selling.exe
+E:\C Sharp Advanced\Exams\16 December 2020\02. Selling\bin\Debug\netcoreapp3.1\02. Selling.deps.json
+E:\C Sharp Advanced\Exams\16 December 2020\02. Selling\bin\Debug\netcoreapp3.1\02. Selling.runtimeconfig.json
+E:\C Sharp Advanced\Exams\16 December 2020\02. Selling\bin\Debug\netcoreapp3.1\02. Selling.runtimeconfig.dev.json
+E:\C Sharp Advanced\Exams\16 December 2020\02. Selling\bin\Debug\netcoreapp3.1\02. Selling.dll
+E:\C Sharp Advanced\Exams\16 December 2020\02. Selling\bin\Debug\netcoreapp3.1\02. Selling.pdb
+E:\C Sharp Advanced\Exams\16 December 2020\02. Selling\obj\Debug\netcoreapp3.1\02. Selling.csproj.AssemblyReference.cache
+E:\C Sharp Advanced\Exams\16 December 2020\02. Selling\obj\Debug\netcoreapp3.1\02. Selling.GeneratedMSBuildEditorConfig.editorconfig
+E:\C Sharp Advanced\Exams\16 December 2020\02. Selling\obj\Debug\netcoreapp3.1\02. Selling.AssemblyInfoInputs.cache
+E:\C Sharp Advanced\Exams\16 December 2020\02. Selling\obj\Debug\netcoreapp3.1\02. Selling.AssemblyInfo.cs
+E:\C Sharp Advanced\Exams\16 December 2020\02. Selling\obj\Debug\netcoreapp3.1\02. Selling.csproj.CoreCompileInputs.cache
+E:\C Sharp Advanced\Exams\16 December 2020\02. Selling\obj\Debug\netcoreapp3.1\02. Selling.dll
+E:\C Sharp Advanced\Exams\16 December 2020\02. Selling\obj\Debug\netcoreapp3.1\02. Selling.pdb
+E:\C Sharp Advanced\Exams\16 December 2020\02. Selling\obj\Debug\netcoreapp3.1\02. Selling.genruntimeconfig.cache
