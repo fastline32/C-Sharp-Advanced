@@ -1,0 +1,14 @@
+E:\C Sharp Advanced\Exams\20 February 2021\03.TheRace\bin\Debug\netcoreapp3.1\03.TheRace.exe
+E:\C Sharp Advanced\Exams\20 February 2021\03.TheRace\bin\Debug\netcoreapp3.1\03.TheRace.deps.json
+E:\C Sharp Advanced\Exams\20 February 2021\03.TheRace\bin\Debug\netcoreapp3.1\03.TheRace.runtimeconfig.json
+E:\C Sharp Advanced\Exams\20 February 2021\03.TheRace\bin\Debug\netcoreapp3.1\03.TheRace.runtimeconfig.dev.json
+E:\C Sharp Advanced\Exams\20 February 2021\03.TheRace\bin\Debug\netcoreapp3.1\03.TheRace.dll
+E:\C Sharp Advanced\Exams\20 February 2021\03.TheRace\bin\Debug\netcoreapp3.1\03.TheRace.pdb
+E:\C Sharp Advanced\Exams\20 February 2021\03.TheRace\obj\Debug\netcoreapp3.1\03.TheRace.csproj.AssemblyReference.cache
+E:\C Sharp Advanced\Exams\20 February 2021\03.TheRace\obj\Debug\netcoreapp3.1\03.TheRace.GeneratedMSBuildEditorConfig.editorconfig
+E:\C Sharp Advanced\Exams\20 February 2021\03.TheRace\obj\Debug\netcoreapp3.1\03.TheRace.AssemblyInfoInputs.cache
+E:\C Sharp Advanced\Exams\20 February 2021\03.TheRace\obj\Debug\netcoreapp3.1\03.TheRace.AssemblyInfo.cs
+E:\C Sharp Advanced\Exams\20 February 2021\03.TheRace\obj\Debug\netcoreapp3.1\03.TheRace.csproj.CoreCompileInputs.cache
+E:\C Sharp Advanced\Exams\20 February 2021\03.TheRace\obj\Debug\netcoreapp3.1\03.TheRace.dll
+E:\C Sharp Advanced\Exams\20 February 2021\03.TheRace\obj\Debug\netcoreapp3.1\03.TheRace.pdb
+E:\C Sharp Advanced\Exams\20 February 2021\03.TheRace\obj\Debug\netcoreapp3.1\03.TheRace.genruntimeconfig.cache

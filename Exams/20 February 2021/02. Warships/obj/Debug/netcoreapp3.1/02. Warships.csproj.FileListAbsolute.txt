@@ -1,0 +1,14 @@
+E:\C Sharp Advanced\Exams\20 February 2021\02. Warships\bin\Debug\netcoreapp3.1\02. Warships.exe
+E:\C Sharp Advanced\Exams\20 February 2021\02. Warships\bin\Debug\netcoreapp3.1\02. Warships.deps.json
+E:\C Sharp Advanced\Exams\20 February 2021\02. Warships\bin\Debug\netcoreapp3.1\02. Warships.runtimeconfig.json
+E:\C Sharp Advanced\Exams\20 February 2021\02. Warships\bin\Debug\netcoreapp3.1\02. Warships.runtimeconfig.dev.json
+E:\C Sharp Advanced\Exams\20 February 2021\02. Warships\bin\Debug\netcoreapp3.1\02. Warships.dll
+E:\C Sharp Advanced\Exams\20 February 2021\02. Warships\bin\Debug\netcoreapp3.1\02. Warships.pdb
+E:\C Sharp Advanced\Exams\20 February 2021\02. Warships\obj\Debug\netcoreapp3.1\02. Warships.csproj.AssemblyReference.cache
+E:\C Sharp Advanced\Exams\20 February 2021\02. Warships\obj\Debug\netcoreapp3.1\02. Warships.GeneratedMSBuildEditorConfig.editorconfig
+E:\C Sharp Advanced\Exams\20 February 2021\02. Warships\obj\Debug\netcoreapp3.1\02. Warships.AssemblyInfoInputs.cache
+E:\C Sharp Advanced\Exams\20 February 2021\02. Warships\obj\Debug\netcoreapp3.1\02. Warships.AssemblyInfo.cs
+E:\C Sharp Advanced\Exams\20 February 2021\02. Warships\obj\Debug\netcoreapp3.1\02. Warships.csproj.CoreCompileInputs.cache
+E:\C Sharp Advanced\Exams\20 February 2021\02. Warships\obj\Debug\netcoreapp3.1\02. Warships.dll
+E:\C Sharp Advanced\Exams\20 February 2021\02. Warships\obj\Debug\netcoreapp3.1\02. Warships.pdb
+E:\C Sharp Advanced\Exams\20 February 2021\02. Warships\obj\Debug\netcoreapp3.1\02. Warships.genruntimeconfig.cache
