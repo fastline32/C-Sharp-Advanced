@@ -1,0 +1,21 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "822240ae-b0bf-45eb-a343-3dc8d06b7961": {
+      "ProjectGuid": "822240ae-b0bf-45eb-a343-3dc8d06b7961",
+      "DisplayName": "01.Lootbox",
+      "ColorIndex": 0
+    },
+    "97216125-4bac-4a78-806f-3399f9c81e03": {
+      "ProjectGuid": "97216125-4bac-4a78-806f-3399f9c81e03",
+      "DisplayName": "02.Re-Volt",
+      "ColorIndex": 1
+    },
+    "16449b54-d65b-46b3-9794-a2f86c2ab9a6": {
+      "ProjectGuid": "16449b54-d65b-46b3-9794-a2f86c2ab9a6",
+      "DisplayName": "03.Guild",
+      "ColorIndex": 2
+    }
+  },
+  "NextColorIndex": 3
+}
