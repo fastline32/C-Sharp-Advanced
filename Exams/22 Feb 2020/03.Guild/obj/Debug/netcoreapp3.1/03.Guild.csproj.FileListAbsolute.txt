@@ -1,0 +1,14 @@
+C:\Users\Svetoslav\source\repos\C-Sharp-Advanced\Exams\22 Feb 2020\03.Guild\bin\Debug\netcoreapp3.1\03.Guild.exe
+C:\Users\Svetoslav\source\repos\C-Sharp-Advanced\Exams\22 Feb 2020\03.Guild\bin\Debug\netcoreapp3.1\03.Guild.deps.json
+C:\Users\Svetoslav\source\repos\C-Sharp-Advanced\Exams\22 Feb 2020\03.Guild\bin\Debug\netcoreapp3.1\03.Guild.runtimeconfig.json
+C:\Users\Svetoslav\source\repos\C-Sharp-Advanced\Exams\22 Feb 2020\03.Guild\bin\Debug\netcoreapp3.1\03.Guild.runtimeconfig.dev.json
+C:\Users\Svetoslav\source\repos\C-Sharp-Advanced\Exams\22 Feb 2020\03.Guild\bin\Debug\netcoreapp3.1\03.Guild.dll
+C:\Users\Svetoslav\source\repos\C-Sharp-Advanced\Exams\22 Feb 2020\03.Guild\bin\Debug\netcoreapp3.1\03.Guild.pdb
+C:\Users\Svetoslav\source\repos\C-Sharp-Advanced\Exams\22 Feb 2020\03.Guild\obj\Debug\netcoreapp3.1\03.Guild.csproj.AssemblyReference.cache
+C:\Users\Svetoslav\source\repos\C-Sharp-Advanced\Exams\22 Feb 2020\03.Guild\obj\Debug\netcoreapp3.1\03.Guild.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Svetoslav\source\repos\C-Sharp-Advanced\Exams\22 Feb 2020\03.Guild\obj\Debug\netcoreapp3.1\03.Guild.AssemblyInfoInputs.cache
+C:\Users\Svetoslav\source\repos\C-Sharp-Advanced\Exams\22 Feb 2020\03.Guild\obj\Debug\netcoreapp3.1\03.Guild.AssemblyInfo.cs
+C:\Users\Svetoslav\source\repos\C-Sharp-Advanced\Exams\22 Feb 2020\03.Guild\obj\Debug\netcoreapp3.1\03.Guild.csproj.CoreCompileInputs.cache
+C:\Users\Svetoslav\source\repos\C-Sharp-Advanced\Exams\22 Feb 2020\03.Guild\obj\Debug\netcoreapp3.1\03.Guild.dll
+C:\Users\Svetoslav\source\repos\C-Sharp-Advanced\Exams\22 Feb 2020\03.Guild\obj\Debug\netcoreapp3.1\03.Guild.pdb
+C:\Users\Svetoslav\source\repos\C-Sharp-Advanced\Exams\22 Feb 2020\03.Guild\obj\Debug\netcoreapp3.1\03.Guild.genruntimeconfig.cache

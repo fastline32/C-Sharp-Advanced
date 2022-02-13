@@ -1,0 +1,21 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "ecd93146-0597-432d-8093-691325ac30fc": {
+      "ProjectGuid": "ecd93146-0597-432d-8093-691325ac30fc",
+      "DisplayName": "01.WarmWinter",
+      "ColorIndex": 0
+    },
+    "d741818d-b71f-416d-a5a3-e6410c80d254": {
+      "ProjectGuid": "d741818d-b71f-416d-a5a3-e6410c80d254",
+      "DisplayName": "03.CocktailParty",
+      "ColorIndex": 1
+    },
+    "501c35a0-8b7b-4347-af5b-b597d032752f": {
+      "ProjectGuid": "501c35a0-8b7b-4347-af5b-b597d032752f",
+      "DisplayName": "02.SuperMario",
+      "ColorIndex": 2
+    }
+  },
+  "NextColorIndex": 3
+}

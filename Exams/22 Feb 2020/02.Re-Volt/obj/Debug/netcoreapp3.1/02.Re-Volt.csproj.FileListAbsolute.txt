@@ -1,0 +1,14 @@
+C:\Users\Svetoslav\source\repos\C-Sharp-Advanced\Exams\22 Feb 2020\02.Re-Volt\bin\Debug\netcoreapp3.1\02.Re-Volt.exe
+C:\Users\Svetoslav\source\repos\C-Sharp-Advanced\Exams\22 Feb 2020\02.Re-Volt\bin\Debug\netcoreapp3.1\02.Re-Volt.deps.json
+C:\Users\Svetoslav\source\repos\C-Sharp-Advanced\Exams\22 Feb 2020\02.Re-Volt\bin\Debug\netcoreapp3.1\02.Re-Volt.runtimeconfig.json
+C:\Users\Svetoslav\source\repos\C-Sharp-Advanced\Exams\22 Feb 2020\02.Re-Volt\bin\Debug\netcoreapp3.1\02.Re-Volt.runtimeconfig.dev.json
+C:\Users\Svetoslav\source\repos\C-Sharp-Advanced\Exams\22 Feb 2020\02.Re-Volt\bin\Debug\netcoreapp3.1\02.Re-Volt.dll
+C:\Users\Svetoslav\source\repos\C-Sharp-Advanced\Exams\22 Feb 2020\02.Re-Volt\bin\Debug\netcoreapp3.1\02.Re-Volt.pdb
+C:\Users\Svetoslav\source\repos\C-Sharp-Advanced\Exams\22 Feb 2020\02.Re-Volt\obj\Debug\netcoreapp3.1\02.Re-Volt.csproj.AssemblyReference.cache
+C:\Users\Svetoslav\source\repos\C-Sharp-Advanced\Exams\22 Feb 2020\02.Re-Volt\obj\Debug\netcoreapp3.1\02.Re-Volt.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Svetoslav\source\repos\C-Sharp-Advanced\Exams\22 Feb 2020\02.Re-Volt\obj\Debug\netcoreapp3.1\02.Re-Volt.AssemblyInfoInputs.cache
+C:\Users\Svetoslav\source\repos\C-Sharp-Advanced\Exams\22 Feb 2020\02.Re-Volt\obj\Debug\netcoreapp3.1\02.Re-Volt.AssemblyInfo.cs
+C:\Users\Svetoslav\source\repos\C-Sharp-Advanced\Exams\22 Feb 2020\02.Re-Volt\obj\Debug\netcoreapp3.1\02.Re-Volt.csproj.CoreCompileInputs.cache
+C:\Users\Svetoslav\source\repos\C-Sharp-Advanced\Exams\22 Feb 2020\02.Re-Volt\obj\Debug\netcoreapp3.1\02.Re-Volt.dll
+C:\Users\Svetoslav\source\repos\C-Sharp-Advanced\Exams\22 Feb 2020\02.Re-Volt\obj\Debug\netcoreapp3.1\02.Re-Volt.pdb
+C:\Users\Svetoslav\source\repos\C-Sharp-Advanced\Exams\22 Feb 2020\02.Re-Volt\obj\Debug\netcoreapp3.1\02.Re-Volt.genruntimeconfig.cache
