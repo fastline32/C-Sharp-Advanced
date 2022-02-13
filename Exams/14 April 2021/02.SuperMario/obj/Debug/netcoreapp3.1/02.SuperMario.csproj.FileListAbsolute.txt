@@ -1,0 +1,14 @@
+C:\Users\Svetoslav\source\repos\C-Sharp-Advanced\Exams\14 April 2021\02.SuperMario\bin\Debug\netcoreapp3.1\02.SuperMario.exe
+C:\Users\Svetoslav\source\repos\C-Sharp-Advanced\Exams\14 April 2021\02.SuperMario\bin\Debug\netcoreapp3.1\02.SuperMario.deps.json
+C:\Users\Svetoslav\source\repos\C-Sharp-Advanced\Exams\14 April 2021\02.SuperMario\bin\Debug\netcoreapp3.1\02.SuperMario.runtimeconfig.json
+C:\Users\Svetoslav\source\repos\C-Sharp-Advanced\Exams\14 April 2021\02.SuperMario\bin\Debug\netcoreapp3.1\02.SuperMario.runtimeconfig.dev.json
+C:\Users\Svetoslav\source\repos\C-Sharp-Advanced\Exams\14 April 2021\02.SuperMario\bin\Debug\netcoreapp3.1\02.SuperMario.dll
+C:\Users\Svetoslav\source\repos\C-Sharp-Advanced\Exams\14 April 2021\02.SuperMario\bin\Debug\netcoreapp3.1\02.SuperMario.pdb
+C:\Users\Svetoslav\source\repos\C-Sharp-Advanced\Exams\14 April 2021\02.SuperMario\obj\Debug\netcoreapp3.1\02.SuperMario.csproj.AssemblyReference.cache
+C:\Users\Svetoslav\source\repos\C-Sharp-Advanced\Exams\14 April 2021\02.SuperMario\obj\Debug\netcoreapp3.1\02.SuperMario.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Svetoslav\source\repos\C-Sharp-Advanced\Exams\14 April 2021\02.SuperMario\obj\Debug\netcoreapp3.1\02.SuperMario.AssemblyInfoInputs.cache
+C:\Users\Svetoslav\source\repos\C-Sharp-Advanced\Exams\14 April 2021\02.SuperMario\obj\Debug\netcoreapp3.1\02.SuperMario.AssemblyInfo.cs
+C:\Users\Svetoslav\source\repos\C-Sharp-Advanced\Exams\14 April 2021\02.SuperMario\obj\Debug\netcoreapp3.1\02.SuperMario.csproj.CoreCompileInputs.cache
+C:\Users\Svetoslav\source\repos\C-Sharp-Advanced\Exams\14 April 2021\02.SuperMario\obj\Debug\netcoreapp3.1\02.SuperMario.dll
+C:\Users\Svetoslav\source\repos\C-Sharp-Advanced\Exams\14 April 2021\02.SuperMario\obj\Debug\netcoreapp3.1\02.SuperMario.pdb
+C:\Users\Svetoslav\source\repos\C-Sharp-Advanced\Exams\14 April 2021\02.SuperMario\obj\Debug\netcoreapp3.1\02.SuperMario.genruntimeconfig.cache
