@@ -5,6 +5,8 @@ VisualStudioVersion = 17.0.32112.339
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "01.WarmWinter", "01.WarmWinter\01.WarmWinter.csproj", "{ECD93146-0597-432D-8093-691325AC30FC}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "03.CocktailParty", "03.CocktailParty\03.CocktailParty.csproj", "{D741818D-B71F-416D-A5A3-E6410C80D254}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,10 @@ Global
 		{ECD93146-0597-432D-8093-691325AC30FC}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{ECD93146-0597-432D-8093-691325AC30FC}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{ECD93146-0597-432D-8093-691325AC30FC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D741818D-B71F-416D-A5A3-E6410C80D254}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D741818D-B71F-416D-A5A3-E6410C80D254}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D741818D-B71F-416D-A5A3-E6410C80D254}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D741818D-B71F-416D-A5A3-E6410C80D254}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

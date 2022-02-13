@@ -1,0 +1,14 @@
+C:\Users\Svetoslav\source\repos\C-Sharp-Advanced\Exams\14 April 2021\03.CocktailParty\bin\Debug\netcoreapp3.1\03.CocktailParty.exe
+C:\Users\Svetoslav\source\repos\C-Sharp-Advanced\Exams\14 April 2021\03.CocktailParty\bin\Debug\netcoreapp3.1\03.CocktailParty.deps.json
+C:\Users\Svetoslav\source\repos\C-Sharp-Advanced\Exams\14 April 2021\03.CocktailParty\bin\Debug\netcoreapp3.1\03.CocktailParty.runtimeconfig.json
+C:\Users\Svetoslav\source\repos\C-Sharp-Advanced\Exams\14 April 2021\03.CocktailParty\bin\Debug\netcoreapp3.1\03.CocktailParty.runtimeconfig.dev.json
+C:\Users\Svetoslav\source\repos\C-Sharp-Advanced\Exams\14 April 2021\03.CocktailParty\bin\Debug\netcoreapp3.1\03.CocktailParty.dll
+C:\Users\Svetoslav\source\repos\C-Sharp-Advanced\Exams\14 April 2021\03.CocktailParty\bin\Debug\netcoreapp3.1\03.CocktailParty.pdb
+C:\Users\Svetoslav\source\repos\C-Sharp-Advanced\Exams\14 April 2021\03.CocktailParty\obj\Debug\netcoreapp3.1\03.CocktailParty.csproj.AssemblyReference.cache
+C:\Users\Svetoslav\source\repos\C-Sharp-Advanced\Exams\14 April 2021\03.CocktailParty\obj\Debug\netcoreapp3.1\03.CocktailParty.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Svetoslav\source\repos\C-Sharp-Advanced\Exams\14 April 2021\03.CocktailParty\obj\Debug\netcoreapp3.1\03.CocktailParty.AssemblyInfoInputs.cache
+C:\Users\Svetoslav\source\repos\C-Sharp-Advanced\Exams\14 April 2021\03.CocktailParty\obj\Debug\netcoreapp3.1\03.CocktailParty.AssemblyInfo.cs
+C:\Users\Svetoslav\source\repos\C-Sharp-Advanced\Exams\14 April 2021\03.CocktailParty\obj\Debug\netcoreapp3.1\03.CocktailParty.csproj.CoreCompileInputs.cache
+C:\Users\Svetoslav\source\repos\C-Sharp-Advanced\Exams\14 April 2021\03.CocktailParty\obj\Debug\netcoreapp3.1\03.CocktailParty.dll
+C:\Users\Svetoslav\source\repos\C-Sharp-Advanced\Exams\14 April 2021\03.CocktailParty\obj\Debug\netcoreapp3.1\03.CocktailParty.pdb
+C:\Users\Svetoslav\source\repos\C-Sharp-Advanced\Exams\14 April 2021\03.CocktailParty\obj\Debug\netcoreapp3.1\03.CocktailParty.genruntimeconfig.cache
