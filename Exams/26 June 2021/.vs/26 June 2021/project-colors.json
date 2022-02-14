@@ -1,0 +1,21 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "be045ea0-30cc-4d64-b2ec-79b7c039a4be": {
+      "ProjectGuid": "be045ea0-30cc-4d64-b2ec-79b7c039a4be",
+      "DisplayName": "01.Masterchef",
+      "ColorIndex": 0
+    },
+    "5e625523-cdc0-42e8-8f2c-357f1c7f5fff": {
+      "ProjectGuid": "5e625523-cdc0-42e8-8f2c-357f1c7f5fff",
+      "DisplayName": "02.Survivor",
+      "ColorIndex": 1
+    },
+    "6b5df9ea-dc1c-46a5-a42c-397e718e4242": {
+      "ProjectGuid": "6b5df9ea-dc1c-46a5-a42c-397e718e4242",
+      "DisplayName": "03.SkiRental",
+      "ColorIndex": 2
+    }
+  },
+  "NextColorIndex": 3
+}

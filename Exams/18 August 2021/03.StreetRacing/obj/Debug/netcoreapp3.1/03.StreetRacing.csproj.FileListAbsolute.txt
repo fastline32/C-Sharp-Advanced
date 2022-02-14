@@ -1,0 +1,14 @@
+C:\Users\Svetoslav\source\repos\C-Sharp-Advanced\Exams\18 August 2021\03.StreetRacing\bin\Debug\netcoreapp3.1\03.StreetRacing.exe
+C:\Users\Svetoslav\source\repos\C-Sharp-Advanced\Exams\18 August 2021\03.StreetRacing\bin\Debug\netcoreapp3.1\03.StreetRacing.deps.json
+C:\Users\Svetoslav\source\repos\C-Sharp-Advanced\Exams\18 August 2021\03.StreetRacing\bin\Debug\netcoreapp3.1\03.StreetRacing.runtimeconfig.json
+C:\Users\Svetoslav\source\repos\C-Sharp-Advanced\Exams\18 August 2021\03.StreetRacing\bin\Debug\netcoreapp3.1\03.StreetRacing.runtimeconfig.dev.json
+C:\Users\Svetoslav\source\repos\C-Sharp-Advanced\Exams\18 August 2021\03.StreetRacing\bin\Debug\netcoreapp3.1\03.StreetRacing.dll
+C:\Users\Svetoslav\source\repos\C-Sharp-Advanced\Exams\18 August 2021\03.StreetRacing\bin\Debug\netcoreapp3.1\03.StreetRacing.pdb
+C:\Users\Svetoslav\source\repos\C-Sharp-Advanced\Exams\18 August 2021\03.StreetRacing\obj\Debug\netcoreapp3.1\03.StreetRacing.csproj.AssemblyReference.cache
+C:\Users\Svetoslav\source\repos\C-Sharp-Advanced\Exams\18 August 2021\03.StreetRacing\obj\Debug\netcoreapp3.1\03.StreetRacing.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Svetoslav\source\repos\C-Sharp-Advanced\Exams\18 August 2021\03.StreetRacing\obj\Debug\netcoreapp3.1\03.StreetRacing.AssemblyInfoInputs.cache
+C:\Users\Svetoslav\source\repos\C-Sharp-Advanced\Exams\18 August 2021\03.StreetRacing\obj\Debug\netcoreapp3.1\03.StreetRacing.AssemblyInfo.cs
+C:\Users\Svetoslav\source\repos\C-Sharp-Advanced\Exams\18 August 2021\03.StreetRacing\obj\Debug\netcoreapp3.1\03.StreetRacing.csproj.CoreCompileInputs.cache
+C:\Users\Svetoslav\source\repos\C-Sharp-Advanced\Exams\18 August 2021\03.StreetRacing\obj\Debug\netcoreapp3.1\03.StreetRacing.dll
+C:\Users\Svetoslav\source\repos\C-Sharp-Advanced\Exams\18 August 2021\03.StreetRacing\obj\Debug\netcoreapp3.1\03.StreetRacing.pdb
+C:\Users\Svetoslav\source\repos\C-Sharp-Advanced\Exams\18 August 2021\03.StreetRacing\obj\Debug\netcoreapp3.1\03.StreetRacing.genruntimeconfig.cache
