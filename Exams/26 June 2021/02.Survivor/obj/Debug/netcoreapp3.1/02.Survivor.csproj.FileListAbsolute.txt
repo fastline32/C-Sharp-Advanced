@@ -1,0 +1,14 @@
+C:\Users\Svetoslav\source\repos\C-Sharp-Advanced\Exams\26 June 2021\02.Survivor\bin\Debug\netcoreapp3.1\02.Survivor.exe
+C:\Users\Svetoslav\source\repos\C-Sharp-Advanced\Exams\26 June 2021\02.Survivor\bin\Debug\netcoreapp3.1\02.Survivor.deps.json
+C:\Users\Svetoslav\source\repos\C-Sharp-Advanced\Exams\26 June 2021\02.Survivor\bin\Debug\netcoreapp3.1\02.Survivor.runtimeconfig.json
+C:\Users\Svetoslav\source\repos\C-Sharp-Advanced\Exams\26 June 2021\02.Survivor\bin\Debug\netcoreapp3.1\02.Survivor.runtimeconfig.dev.json
+C:\Users\Svetoslav\source\repos\C-Sharp-Advanced\Exams\26 June 2021\02.Survivor\bin\Debug\netcoreapp3.1\02.Survivor.dll
+C:\Users\Svetoslav\source\repos\C-Sharp-Advanced\Exams\26 June 2021\02.Survivor\bin\Debug\netcoreapp3.1\02.Survivor.pdb
+C:\Users\Svetoslav\source\repos\C-Sharp-Advanced\Exams\26 June 2021\02.Survivor\obj\Debug\netcoreapp3.1\02.Survivor.csproj.AssemblyReference.cache
+C:\Users\Svetoslav\source\repos\C-Sharp-Advanced\Exams\26 June 2021\02.Survivor\obj\Debug\netcoreapp3.1\02.Survivor.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Svetoslav\source\repos\C-Sharp-Advanced\Exams\26 June 2021\02.Survivor\obj\Debug\netcoreapp3.1\02.Survivor.AssemblyInfoInputs.cache
+C:\Users\Svetoslav\source\repos\C-Sharp-Advanced\Exams\26 June 2021\02.Survivor\obj\Debug\netcoreapp3.1\02.Survivor.AssemblyInfo.cs
+C:\Users\Svetoslav\source\repos\C-Sharp-Advanced\Exams\26 June 2021\02.Survivor\obj\Debug\netcoreapp3.1\02.Survivor.csproj.CoreCompileInputs.cache
+C:\Users\Svetoslav\source\repos\C-Sharp-Advanced\Exams\26 June 2021\02.Survivor\obj\Debug\netcoreapp3.1\02.Survivor.dll
+C:\Users\Svetoslav\source\repos\C-Sharp-Advanced\Exams\26 June 2021\02.Survivor\obj\Debug\netcoreapp3.1\02.Survivor.pdb
+C:\Users\Svetoslav\source\repos\C-Sharp-Advanced\Exams\26 June 2021\02.Survivor\obj\Debug\netcoreapp3.1\02.Survivor.genruntimeconfig.cache
