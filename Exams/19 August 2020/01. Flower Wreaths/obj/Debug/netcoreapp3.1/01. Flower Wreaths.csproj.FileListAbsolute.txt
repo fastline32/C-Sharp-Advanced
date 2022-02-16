@@ -12,3 +12,17 @@ E:\C Sharp Advanced\Exams\19 August 2020\01. Flower Wreaths\obj\Debug\netcoreapp
 E:\C Sharp Advanced\Exams\19 August 2020\01. Flower Wreaths\obj\Debug\netcoreapp3.1\01. Flower Wreaths.dll
 E:\C Sharp Advanced\Exams\19 August 2020\01. Flower Wreaths\obj\Debug\netcoreapp3.1\01. Flower Wreaths.pdb
 E:\C Sharp Advanced\Exams\19 August 2020\01. Flower Wreaths\obj\Debug\netcoreapp3.1\01. Flower Wreaths.genruntimeconfig.cache
+C:\Users\Svetoslav\source\repos\C-Sharp-Advanced\Exams\19 August 2020\01. Flower Wreaths\bin\Debug\netcoreapp3.1\01. Flower Wreaths.exe
+C:\Users\Svetoslav\source\repos\C-Sharp-Advanced\Exams\19 August 2020\01. Flower Wreaths\bin\Debug\netcoreapp3.1\01. Flower Wreaths.deps.json
+C:\Users\Svetoslav\source\repos\C-Sharp-Advanced\Exams\19 August 2020\01. Flower Wreaths\bin\Debug\netcoreapp3.1\01. Flower Wreaths.runtimeconfig.json
+C:\Users\Svetoslav\source\repos\C-Sharp-Advanced\Exams\19 August 2020\01. Flower Wreaths\bin\Debug\netcoreapp3.1\01. Flower Wreaths.runtimeconfig.dev.json
+C:\Users\Svetoslav\source\repos\C-Sharp-Advanced\Exams\19 August 2020\01. Flower Wreaths\bin\Debug\netcoreapp3.1\01. Flower Wreaths.dll
+C:\Users\Svetoslav\source\repos\C-Sharp-Advanced\Exams\19 August 2020\01. Flower Wreaths\bin\Debug\netcoreapp3.1\01. Flower Wreaths.pdb
+C:\Users\Svetoslav\source\repos\C-Sharp-Advanced\Exams\19 August 2020\01. Flower Wreaths\obj\Debug\netcoreapp3.1\01. Flower Wreaths.csproj.AssemblyReference.cache
+C:\Users\Svetoslav\source\repos\C-Sharp-Advanced\Exams\19 August 2020\01. Flower Wreaths\obj\Debug\netcoreapp3.1\01. Flower Wreaths.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Svetoslav\source\repos\C-Sharp-Advanced\Exams\19 August 2020\01. Flower Wreaths\obj\Debug\netcoreapp3.1\01. Flower Wreaths.AssemblyInfoInputs.cache
+C:\Users\Svetoslav\source\repos\C-Sharp-Advanced\Exams\19 August 2020\01. Flower Wreaths\obj\Debug\netcoreapp3.1\01. Flower Wreaths.AssemblyInfo.cs
+C:\Users\Svetoslav\source\repos\C-Sharp-Advanced\Exams\19 August 2020\01. Flower Wreaths\obj\Debug\netcoreapp3.1\01. Flower Wreaths.csproj.CoreCompileInputs.cache
+C:\Users\Svetoslav\source\repos\C-Sharp-Advanced\Exams\19 August 2020\01. Flower Wreaths\obj\Debug\netcoreapp3.1\01. Flower Wreaths.dll
+C:\Users\Svetoslav\source\repos\C-Sharp-Advanced\Exams\19 August 2020\01. Flower Wreaths\obj\Debug\netcoreapp3.1\01. Flower Wreaths.pdb
+C:\Users\Svetoslav\source\repos\C-Sharp-Advanced\Exams\19 August 2020\01. Flower Wreaths\obj\Debug\netcoreapp3.1\01. Flower Wreaths.genruntimeconfig.cache

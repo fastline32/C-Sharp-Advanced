@@ -6,54 +6,37 @@ namespace VetClinic
 {
     public class Clinic
     {
+        private List<Pet> pets;
+        
         public Clinic(int capacity)
         {
-            Capacity = capacity;
-            Pets = new List<Pet>();
+            this.pets = new List<Pet>();
+            this.Capacity = capacity;
         }
-        public List<Pet> Pets { get; set; }
 
         public int Capacity { get; set; }
 
-        public int Count => Pets.Count;
+        public int Count => pets.Count;
 
         public void Add(Pet pet)
         {
-            if (Count < Capacity)
+            if (pets.Count < Capacity)
             {
-                Pets.Add(pet);
+                pets.Add(pet);
             }
         }
 
-        public bool Remove(string name)
-        {
-            Pet pet = Pets.Where(x => x.Name == name).FirstOrDefault();
-            if (pet != null)
-            {
-                Pets.Remove(pet);
-                return true;
-            }
+        public bool Remove(string name) => pets.Remove(pets.FirstOrDefault(x => x.Name == name));
 
-            return false;
-        }
+        public Pet GetPet(string name, string owner) => pets.FirstOrDefault(x => x.Name == name && x.Owner == owner);
 
-        public Pet GetOldestPet()
-        {
-            Pet oldestPet = Pets.OrderByDescending(x => x.Age).First();
-            return oldestPet;
-        }
-
-        public Pet GetPet(string name, string owner)
-        {
-            Pet getPet = Pets.Where(x => x.Name == name && x.Owner == owner).FirstOrDefault();
-            return getPet;
-        }
+        public Pet GetOldestPet() => pets.OrderByDescending(x => x.Age).FirstOrDefault();
 
         public string GetStatistic()
         {
             StringBuilder sb = new StringBuilder();
             sb.AppendLine("The clinic has the following patients:");
-            foreach (var pet in Pets)
+            foreach (var pet in pets)
             {
                 sb.AppendLine($"Pet {pet.Name} with owner: {pet.Owner}");
             }

@@ -1,0 +1,21 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "4e18b6e3-e249-4070-91a0-31588f7f796a": {
+      "ProjectGuid": "4e18b6e3-e249-4070-91a0-31588f7f796a",
+      "DisplayName": "01.FoodFinder",
+      "ColorIndex": 0
+    },
+    "77f3f8be-a31f-477b-90d9-b966939bc0ed": {
+      "ProjectGuid": "77f3f8be-a31f-477b-90d9-b966939bc0ed",
+      "DisplayName": "02.PawnWars",
+      "ColorIndex": 1
+    },
+    "930e07db-a8d3-4d35-ad77-97aac1593b83": {
+      "ProjectGuid": "930e07db-a8d3-4d35-ad77-97aac1593b83",
+      "DisplayName": "03.StockMarket",
+      "ColorIndex": 2
+    }
+  },
+  "NextColorIndex": 3
+}

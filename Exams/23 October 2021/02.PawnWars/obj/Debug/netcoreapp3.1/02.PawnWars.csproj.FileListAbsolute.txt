@@ -1,0 +1,14 @@
+C:\Users\Svetoslav\source\repos\C-Sharp-Advanced\Exams\23 October 2021\02.PawnWars\bin\Debug\netcoreapp3.1\02.PawnWars.exe
+C:\Users\Svetoslav\source\repos\C-Sharp-Advanced\Exams\23 October 2021\02.PawnWars\bin\Debug\netcoreapp3.1\02.PawnWars.deps.json
+C:\Users\Svetoslav\source\repos\C-Sharp-Advanced\Exams\23 October 2021\02.PawnWars\bin\Debug\netcoreapp3.1\02.PawnWars.runtimeconfig.json
+C:\Users\Svetoslav\source\repos\C-Sharp-Advanced\Exams\23 October 2021\02.PawnWars\bin\Debug\netcoreapp3.1\02.PawnWars.runtimeconfig.dev.json
+C:\Users\Svetoslav\source\repos\C-Sharp-Advanced\Exams\23 October 2021\02.PawnWars\bin\Debug\netcoreapp3.1\02.PawnWars.dll
+C:\Users\Svetoslav\source\repos\C-Sharp-Advanced\Exams\23 October 2021\02.PawnWars\bin\Debug\netcoreapp3.1\02.PawnWars.pdb
+C:\Users\Svetoslav\source\repos\C-Sharp-Advanced\Exams\23 October 2021\02.PawnWars\obj\Debug\netcoreapp3.1\02.PawnWars.csproj.AssemblyReference.cache
+C:\Users\Svetoslav\source\repos\C-Sharp-Advanced\Exams\23 October 2021\02.PawnWars\obj\Debug\netcoreapp3.1\02.PawnWars.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Svetoslav\source\repos\C-Sharp-Advanced\Exams\23 October 2021\02.PawnWars\obj\Debug\netcoreapp3.1\02.PawnWars.AssemblyInfoInputs.cache
+C:\Users\Svetoslav\source\repos\C-Sharp-Advanced\Exams\23 October 2021\02.PawnWars\obj\Debug\netcoreapp3.1\02.PawnWars.AssemblyInfo.cs
+C:\Users\Svetoslav\source\repos\C-Sharp-Advanced\Exams\23 October 2021\02.PawnWars\obj\Debug\netcoreapp3.1\02.PawnWars.csproj.CoreCompileInputs.cache
+C:\Users\Svetoslav\source\repos\C-Sharp-Advanced\Exams\23 October 2021\02.PawnWars\obj\Debug\netcoreapp3.1\02.PawnWars.dll
+C:\Users\Svetoslav\source\repos\C-Sharp-Advanced\Exams\23 October 2021\02.PawnWars\obj\Debug\netcoreapp3.1\02.PawnWars.pdb
+C:\Users\Svetoslav\source\repos\C-Sharp-Advanced\Exams\23 October 2021\02.PawnWars\obj\Debug\netcoreapp3.1\02.PawnWars.genruntimeconfig.cache

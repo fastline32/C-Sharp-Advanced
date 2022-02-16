@@ -1,0 +1,14 @@
+C:\Users\Svetoslav\source\repos\C-Sharp-Advanced\Exams\23 October 2021\03.StockMarket\bin\Debug\netcoreapp3.1\03.StockMarket.exe
+C:\Users\Svetoslav\source\repos\C-Sharp-Advanced\Exams\23 October 2021\03.StockMarket\bin\Debug\netcoreapp3.1\03.StockMarket.deps.json
+C:\Users\Svetoslav\source\repos\C-Sharp-Advanced\Exams\23 October 2021\03.StockMarket\bin\Debug\netcoreapp3.1\03.StockMarket.runtimeconfig.json
+C:\Users\Svetoslav\source\repos\C-Sharp-Advanced\Exams\23 October 2021\03.StockMarket\bin\Debug\netcoreapp3.1\03.StockMarket.runtimeconfig.dev.json
+C:\Users\Svetoslav\source\repos\C-Sharp-Advanced\Exams\23 October 2021\03.StockMarket\bin\Debug\netcoreapp3.1\03.StockMarket.dll
+C:\Users\Svetoslav\source\repos\C-Sharp-Advanced\Exams\23 October 2021\03.StockMarket\bin\Debug\netcoreapp3.1\03.StockMarket.pdb
+C:\Users\Svetoslav\source\repos\C-Sharp-Advanced\Exams\23 October 2021\03.StockMarket\obj\Debug\netcoreapp3.1\03.StockMarket.csproj.AssemblyReference.cache
+C:\Users\Svetoslav\source\repos\C-Sharp-Advanced\Exams\23 October 2021\03.StockMarket\obj\Debug\netcoreapp3.1\03.StockMarket.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Svetoslav\source\repos\C-Sharp-Advanced\Exams\23 October 2021\03.StockMarket\obj\Debug\netcoreapp3.1\03.StockMarket.AssemblyInfoInputs.cache
+C:\Users\Svetoslav\source\repos\C-Sharp-Advanced\Exams\23 October 2021\03.StockMarket\obj\Debug\netcoreapp3.1\03.StockMarket.AssemblyInfo.cs
+C:\Users\Svetoslav\source\repos\C-Sharp-Advanced\Exams\23 October 2021\03.StockMarket\obj\Debug\netcoreapp3.1\03.StockMarket.csproj.CoreCompileInputs.cache
+C:\Users\Svetoslav\source\repos\C-Sharp-Advanced\Exams\23 October 2021\03.StockMarket\obj\Debug\netcoreapp3.1\03.StockMarket.dll
+C:\Users\Svetoslav\source\repos\C-Sharp-Advanced\Exams\23 October 2021\03.StockMarket\obj\Debug\netcoreapp3.1\03.StockMarket.pdb
+C:\Users\Svetoslav\source\repos\C-Sharp-Advanced\Exams\23 October 2021\03.StockMarket\obj\Debug\netcoreapp3.1\03.StockMarket.genruntimeconfig.cache

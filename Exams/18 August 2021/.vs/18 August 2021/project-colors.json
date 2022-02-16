@@ -1,0 +1,21 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "3ffef78c-9652-47d8-8bb5-8c13a55e4b91": {
+      "ProjectGuid": "3ffef78c-9652-47d8-8bb5-8c13a55e4b91",
+      "DisplayName": "01. Birthday Celebration",
+      "ColorIndex": 0
+    },
+    "dc1d1082-7b0b-4478-b8b9-c2c059b7e45c": {
+      "ProjectGuid": "dc1d1082-7b0b-4478-b8b9-c2c059b7e45c",
+      "DisplayName": "02.TheBattleOfTheFiveArmies",
+      "ColorIndex": 1
+    },
+    "7c8c091e-7eeb-4807-affa-4acee7648e39": {
+      "ProjectGuid": "7c8c091e-7eeb-4807-affa-4acee7648e39",
+      "DisplayName": "03.StreetRacing",
+      "ColorIndex": 2
+    }
+  },
+  "NextColorIndex": 3
+}

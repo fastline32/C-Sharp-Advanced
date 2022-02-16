@@ -1,0 +1,14 @@
+C:\Users\Svetoslav\source\repos\C-Sharp-Advanced\Exams\23 October 2021\01.FoodFinder\bin\Debug\netcoreapp3.1\01.FoodFinder.exe
+C:\Users\Svetoslav\source\repos\C-Sharp-Advanced\Exams\23 October 2021\01.FoodFinder\bin\Debug\netcoreapp3.1\01.FoodFinder.deps.json
+C:\Users\Svetoslav\source\repos\C-Sharp-Advanced\Exams\23 October 2021\01.FoodFinder\bin\Debug\netcoreapp3.1\01.FoodFinder.runtimeconfig.json
+C:\Users\Svetoslav\source\repos\C-Sharp-Advanced\Exams\23 October 2021\01.FoodFinder\bin\Debug\netcoreapp3.1\01.FoodFinder.runtimeconfig.dev.json
+C:\Users\Svetoslav\source\repos\C-Sharp-Advanced\Exams\23 October 2021\01.FoodFinder\bin\Debug\netcoreapp3.1\01.FoodFinder.dll
+C:\Users\Svetoslav\source\repos\C-Sharp-Advanced\Exams\23 October 2021\01.FoodFinder\bin\Debug\netcoreapp3.1\01.FoodFinder.pdb
+C:\Users\Svetoslav\source\repos\C-Sharp-Advanced\Exams\23 October 2021\01.FoodFinder\obj\Debug\netcoreapp3.1\01.FoodFinder.csproj.AssemblyReference.cache
+C:\Users\Svetoslav\source\repos\C-Sharp-Advanced\Exams\23 October 2021\01.FoodFinder\obj\Debug\netcoreapp3.1\01.FoodFinder.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Svetoslav\source\repos\C-Sharp-Advanced\Exams\23 October 2021\01.FoodFinder\obj\Debug\netcoreapp3.1\01.FoodFinder.AssemblyInfoInputs.cache
+C:\Users\Svetoslav\source\repos\C-Sharp-Advanced\Exams\23 October 2021\01.FoodFinder\obj\Debug\netcoreapp3.1\01.FoodFinder.AssemblyInfo.cs
+C:\Users\Svetoslav\source\repos\C-Sharp-Advanced\Exams\23 October 2021\01.FoodFinder\obj\Debug\netcoreapp3.1\01.FoodFinder.csproj.CoreCompileInputs.cache
+C:\Users\Svetoslav\source\repos\C-Sharp-Advanced\Exams\23 October 2021\01.FoodFinder\obj\Debug\netcoreapp3.1\01.FoodFinder.dll
+C:\Users\Svetoslav\source\repos\C-Sharp-Advanced\Exams\23 October 2021\01.FoodFinder\obj\Debug\netcoreapp3.1\01.FoodFinder.pdb
+C:\Users\Svetoslav\source\repos\C-Sharp-Advanced\Exams\23 October 2021\01.FoodFinder\obj\Debug\netcoreapp3.1\01.FoodFinder.genruntimeconfig.cache

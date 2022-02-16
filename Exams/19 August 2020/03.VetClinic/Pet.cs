@@ -21,7 +21,7 @@ namespace VetClinic
         public override string ToString()
         {
             StringBuilder sb = new StringBuilder();
-            sb.Append($"Name: {Name} Age: {Age} Owner: {Owner}");
+            sb.AppendLine($"Name: {Name} Age: {Age} Owner: {Owner}");
             return sb.ToString();
         }
 

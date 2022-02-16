@@ -12,3 +12,17 @@ E:\C Sharp Advanced\Exams\19 August 2020\03.VetClinic\obj\Debug\netcoreapp3.1\03
 E:\C Sharp Advanced\Exams\19 August 2020\03.VetClinic\obj\Debug\netcoreapp3.1\03.VetClinic.dll
 E:\C Sharp Advanced\Exams\19 August 2020\03.VetClinic\obj\Debug\netcoreapp3.1\03.VetClinic.pdb
 E:\C Sharp Advanced\Exams\19 August 2020\03.VetClinic\obj\Debug\netcoreapp3.1\03.VetClinic.genruntimeconfig.cache
+C:\Users\Svetoslav\source\repos\C-Sharp-Advanced\Exams\19 August 2020\03.VetClinic\bin\Debug\netcoreapp3.1\03.VetClinic.exe
+C:\Users\Svetoslav\source\repos\C-Sharp-Advanced\Exams\19 August 2020\03.VetClinic\bin\Debug\netcoreapp3.1\03.VetClinic.deps.json
+C:\Users\Svetoslav\source\repos\C-Sharp-Advanced\Exams\19 August 2020\03.VetClinic\bin\Debug\netcoreapp3.1\03.VetClinic.runtimeconfig.json
+C:\Users\Svetoslav\source\repos\C-Sharp-Advanced\Exams\19 August 2020\03.VetClinic\bin\Debug\netcoreapp3.1\03.VetClinic.runtimeconfig.dev.json
+C:\Users\Svetoslav\source\repos\C-Sharp-Advanced\Exams\19 August 2020\03.VetClinic\bin\Debug\netcoreapp3.1\03.VetClinic.dll
+C:\Users\Svetoslav\source\repos\C-Sharp-Advanced\Exams\19 August 2020\03.VetClinic\bin\Debug\netcoreapp3.1\03.VetClinic.pdb
+C:\Users\Svetoslav\source\repos\C-Sharp-Advanced\Exams\19 August 2020\03.VetClinic\obj\Debug\netcoreapp3.1\03.VetClinic.csproj.AssemblyReference.cache
+C:\Users\Svetoslav\source\repos\C-Sharp-Advanced\Exams\19 August 2020\03.VetClinic\obj\Debug\netcoreapp3.1\03.VetClinic.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Svetoslav\source\repos\C-Sharp-Advanced\Exams\19 August 2020\03.VetClinic\obj\Debug\netcoreapp3.1\03.VetClinic.AssemblyInfoInputs.cache
+C:\Users\Svetoslav\source\repos\C-Sharp-Advanced\Exams\19 August 2020\03.VetClinic\obj\Debug\netcoreapp3.1\03.VetClinic.AssemblyInfo.cs
+C:\Users\Svetoslav\source\repos\C-Sharp-Advanced\Exams\19 August 2020\03.VetClinic\obj\Debug\netcoreapp3.1\03.VetClinic.csproj.CoreCompileInputs.cache
+C:\Users\Svetoslav\source\repos\C-Sharp-Advanced\Exams\19 August 2020\03.VetClinic\obj\Debug\netcoreapp3.1\03.VetClinic.dll
+C:\Users\Svetoslav\source\repos\C-Sharp-Advanced\Exams\19 August 2020\03.VetClinic\obj\Debug\netcoreapp3.1\03.VetClinic.pdb
+C:\Users\Svetoslav\source\repos\C-Sharp-Advanced\Exams\19 August 2020\03.VetClinic\obj\Debug\netcoreapp3.1\03.VetClinic.genruntimeconfig.cache

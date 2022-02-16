@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "E:\\C Sharp Advanced\\Exams\\19 August 2020\\03.VetClinic\\03.VetClinic.csproj",
+      "projectUniqueName": "C:\\Users\\Svetoslav\\source\\repos\\C-Sharp-Advanced\\Exams\\19 August 2020\\03.VetClinic\\03.VetClinic.csproj",
       "projectName": "03.VetClinic",
-      "projectPath": "E:\\C Sharp Advanced\\Exams\\19 August 2020\\03.VetClinic\\03.VetClinic.csproj",
+      "projectPath": "C:\\Users\\Svetoslav\\source\\repos\\C-Sharp-Advanced\\Exams\\19 August 2020\\03.VetClinic\\03.VetClinic.csproj",
       "packagesPath": "C:\\Users\\Svetoslav\\.nuget\\packages\\",
-      "outputPath": "E:\\C Sharp Advanced\\Exams\\19 August 2020\\03.VetClinic\\obj\\",
+      "outputPath": "C:\\Users\\Svetoslav\\source\\repos\\C-Sharp-Advanced\\Exams\\19 August 2020\\03.VetClinic\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Svetoslav\\AppData\\Roaming\\NuGet\\NuGet.Config",
