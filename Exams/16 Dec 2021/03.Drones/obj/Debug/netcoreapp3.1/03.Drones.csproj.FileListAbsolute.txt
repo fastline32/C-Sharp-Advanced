@@ -1,0 +1,14 @@
+C:\Users\Svetoslav\source\repos\C-Sharp-Advanced\Exams\16 Dec 2021\03.Drones\bin\Debug\netcoreapp3.1\03.Drones.exe
+C:\Users\Svetoslav\source\repos\C-Sharp-Advanced\Exams\16 Dec 2021\03.Drones\bin\Debug\netcoreapp3.1\03.Drones.deps.json
+C:\Users\Svetoslav\source\repos\C-Sharp-Advanced\Exams\16 Dec 2021\03.Drones\bin\Debug\netcoreapp3.1\03.Drones.runtimeconfig.json
+C:\Users\Svetoslav\source\repos\C-Sharp-Advanced\Exams\16 Dec 2021\03.Drones\bin\Debug\netcoreapp3.1\03.Drones.runtimeconfig.dev.json
+C:\Users\Svetoslav\source\repos\C-Sharp-Advanced\Exams\16 Dec 2021\03.Drones\bin\Debug\netcoreapp3.1\03.Drones.dll
+C:\Users\Svetoslav\source\repos\C-Sharp-Advanced\Exams\16 Dec 2021\03.Drones\bin\Debug\netcoreapp3.1\03.Drones.pdb
+C:\Users\Svetoslav\source\repos\C-Sharp-Advanced\Exams\16 Dec 2021\03.Drones\obj\Debug\netcoreapp3.1\03.Drones.csproj.AssemblyReference.cache
+C:\Users\Svetoslav\source\repos\C-Sharp-Advanced\Exams\16 Dec 2021\03.Drones\obj\Debug\netcoreapp3.1\03.Drones.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Svetoslav\source\repos\C-Sharp-Advanced\Exams\16 Dec 2021\03.Drones\obj\Debug\netcoreapp3.1\03.Drones.AssemblyInfoInputs.cache
+C:\Users\Svetoslav\source\repos\C-Sharp-Advanced\Exams\16 Dec 2021\03.Drones\obj\Debug\netcoreapp3.1\03.Drones.AssemblyInfo.cs
+C:\Users\Svetoslav\source\repos\C-Sharp-Advanced\Exams\16 Dec 2021\03.Drones\obj\Debug\netcoreapp3.1\03.Drones.csproj.CoreCompileInputs.cache
+C:\Users\Svetoslav\source\repos\C-Sharp-Advanced\Exams\16 Dec 2021\03.Drones\obj\Debug\netcoreapp3.1\03.Drones.dll
+C:\Users\Svetoslav\source\repos\C-Sharp-Advanced\Exams\16 Dec 2021\03.Drones\obj\Debug\netcoreapp3.1\03.Drones.pdb
+C:\Users\Svetoslav\source\repos\C-Sharp-Advanced\Exams\16 Dec 2021\03.Drones\obj\Debug\netcoreapp3.1\03.Drones.genruntimeconfig.cache

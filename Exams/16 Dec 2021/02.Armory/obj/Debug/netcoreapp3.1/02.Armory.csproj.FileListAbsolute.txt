@@ -1,0 +1,14 @@
+C:\Users\Svetoslav\source\repos\C-Sharp-Advanced\Exams\16 Dec 2021\02.Armory\bin\Debug\netcoreapp3.1\02.Armory.exe
+C:\Users\Svetoslav\source\repos\C-Sharp-Advanced\Exams\16 Dec 2021\02.Armory\bin\Debug\netcoreapp3.1\02.Armory.deps.json
+C:\Users\Svetoslav\source\repos\C-Sharp-Advanced\Exams\16 Dec 2021\02.Armory\bin\Debug\netcoreapp3.1\02.Armory.runtimeconfig.json
+C:\Users\Svetoslav\source\repos\C-Sharp-Advanced\Exams\16 Dec 2021\02.Armory\bin\Debug\netcoreapp3.1\02.Armory.runtimeconfig.dev.json
+C:\Users\Svetoslav\source\repos\C-Sharp-Advanced\Exams\16 Dec 2021\02.Armory\bin\Debug\netcoreapp3.1\02.Armory.dll
+C:\Users\Svetoslav\source\repos\C-Sharp-Advanced\Exams\16 Dec 2021\02.Armory\bin\Debug\netcoreapp3.1\02.Armory.pdb
+C:\Users\Svetoslav\source\repos\C-Sharp-Advanced\Exams\16 Dec 2021\02.Armory\obj\Debug\netcoreapp3.1\02.Armory.csproj.AssemblyReference.cache
+C:\Users\Svetoslav\source\repos\C-Sharp-Advanced\Exams\16 Dec 2021\02.Armory\obj\Debug\netcoreapp3.1\02.Armory.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Svetoslav\source\repos\C-Sharp-Advanced\Exams\16 Dec 2021\02.Armory\obj\Debug\netcoreapp3.1\02.Armory.AssemblyInfoInputs.cache
+C:\Users\Svetoslav\source\repos\C-Sharp-Advanced\Exams\16 Dec 2021\02.Armory\obj\Debug\netcoreapp3.1\02.Armory.AssemblyInfo.cs
+C:\Users\Svetoslav\source\repos\C-Sharp-Advanced\Exams\16 Dec 2021\02.Armory\obj\Debug\netcoreapp3.1\02.Armory.csproj.CoreCompileInputs.cache
+C:\Users\Svetoslav\source\repos\C-Sharp-Advanced\Exams\16 Dec 2021\02.Armory\obj\Debug\netcoreapp3.1\02.Armory.dll
+C:\Users\Svetoslav\source\repos\C-Sharp-Advanced\Exams\16 Dec 2021\02.Armory\obj\Debug\netcoreapp3.1\02.Armory.pdb
+C:\Users\Svetoslav\source\repos\C-Sharp-Advanced\Exams\16 Dec 2021\02.Armory\obj\Debug\netcoreapp3.1\02.Armory.genruntimeconfig.cache

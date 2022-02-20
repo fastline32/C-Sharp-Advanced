@@ -1,0 +1,16 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "62fb5617-2e5e-471d-8316-ad3103d92563": {
+      "ProjectGuid": "62fb5617-2e5e-471d-8316-ad3103d92563",
+      "DisplayName": "02.Armory",
+      "ColorIndex": 0
+    },
+    "db9be8ea-12b7-40be-9c78-4af9e6b2df9b": {
+      "ProjectGuid": "db9be8ea-12b7-40be-9c78-4af9e6b2df9b",
+      "DisplayName": "03.Drones",
+      "ColorIndex": 1
+    }
+  },
+  "NextColorIndex": 2
+}
