@@ -7,18 +7,18 @@ namespace FishingNet
 {
     public class Net
     {
-        public List<Fish> Fish = new List<Fish>();
-        public string Material { get; set; }
-        public int Capacity { get; set; }
         public Net(string material, int capacity)
         {
             Material = material;
             Capacity = capacity;
         }
+        public List<Fish> Fish = new List<Fish>();
+        public string Material { get; set; }
+        public int Capacity { get; set; }
         public int Count => Fish.Count;
         public string AddFish(Fish fish)
         {
-            if (fish.FishType == null || fish.FishType == " " || fish.Length <= 0 || fish.Weight <= 0)
+            if (string.IsNullOrEmpty(fish.FishType) || fish.Length <= 0 || fish.Weight <= 0)
             {
                 return $"Invalid fish.";
             }

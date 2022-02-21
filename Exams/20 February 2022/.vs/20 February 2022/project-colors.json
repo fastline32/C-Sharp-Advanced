@@ -1,0 +1,26 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "2870ca09-963b-456b-904c-b5e3e963c3cc": {
+      "ProjectGuid": "2870ca09-963b-456b-904c-b5e3e963c3cc",
+      "DisplayName": "01. Bakery Shop",
+      "ColorIndex": 0
+    },
+    "b56fb41d-5d00-4566-a6ea-4dac19a058a6": {
+      "ProjectGuid": "b56fb41d-5d00-4566-a6ea-4dac19a058a6",
+      "DisplayName": "02.BeaverAtWork",
+      "ColorIndex": 1
+    },
+    "b2fc30c1-28b7-4a8f-96da-e570b20dbc9c": {
+      "ProjectGuid": "b2fc30c1-28b7-4a8f-96da-e570b20dbc9c",
+      "DisplayName": "FishingNet",
+      "ColorIndex": 2
+    },
+    "878c8fa7-5d3c-48d3-86c4-d6d8697e02e3": {
+      "ProjectGuid": "878c8fa7-5d3c-48d3-86c4-d6d8697e02e3",
+      "DisplayName": "03.FishingNet",
+      "ColorIndex": 3
+    }
+  },
+  "NextColorIndex": 4
+}
